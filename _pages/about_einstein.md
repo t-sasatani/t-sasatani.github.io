@@ -1,3 +1,7 @@
+Takuya Sasatani is an assistant professor（助教） in the Graduate School of Engineering at the University of Tokyo. His research interests lie in the cross-section between wireless technologies, ubiquitous computing, and robotic systems, and his recent work focuses on exploring novel wireless power transfer and sensing technologies for empowering the IoT.
+
+Takuya received his Ph.D. degree in information science and technology and a B.E. degree in electrical and electronic engineering from The University of Tokyo, Japan, in 2021 and 2016. In 2023, he worked at UCLA Neurology as a postdoctoral scholar. In 2017, he worked at Disney Research Pittsburgh as a lab associate researcher. He has received numerous awards, including the Forbes 30 under 30 Asia, MIT Technology Review’s Innovators Under 35 Japan, ACM IMWUT distinguished paper award, and JSPS Ikushi Prize（日本学術振興会育志賞）.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
