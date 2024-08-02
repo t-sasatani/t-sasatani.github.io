@@ -11,7 +11,7 @@ layout: default
 <!--
 <h2>Debug Information:</h2>
 <ul>
-  {% for type in ordered_types %}
+  {% for type in ordered_types %} 
     <li>Type: {{ type }} -> Readable Name: {{ page.type_names[type] }}</li>
   {% endfor %}
 </ul>
@@ -22,6 +22,8 @@ layout: default
   {% assign counter = 0 %}
   {% for type in ordered_types %}
     {% assign publications_by_type = site.data.publications | where: 'type', type %}
+    {% assign publications_by_type = publications_by_type | sort: 'month' | reverse %}
+    {% assign publications_by_type = publications_by_type | sort: 'year' | reverse %}
     {% if publications_by_type.size > 0 %}
       <h2 id="{{ type }}">{{ page.type_names[type] }}</h2>
       {% for publication in publications_by_type %}
@@ -38,7 +40,7 @@ layout: default
           {% if publication.publication %}
             {{ publication.publication }}
             {%if publication.publication_abbr %} 
-            ( {{ publication.publication_abbr }} )
+            ({{ publication.publication_abbr }})
             {% endif %}
             <br/>
           {% endif %}
@@ -47,6 +49,10 @@ layout: default
 
           {% if publication.publication %}
             <strong>Year:</strong> {{ publication.year }}<br/>
+          {% endif %}
+
+          {% if publication.month %}
+            <strong>Month:</strong> {{ publication.month }}<br/>
           {% endif %}
 
           {% if publication.pages %}
