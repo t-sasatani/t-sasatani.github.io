@@ -293,3 +293,153 @@
   pages: 1161 - 1168
   city: Virtual
   to_appear: 
+- identifier: kawahara2020iot
+  type: conference-en-fullpaper
+  author: Yoshihiro Kawahara; Takuya Sasatani
+  title: Wireless power transfer for internet of things
+  publication: International Electron Devices Meeting
+  publication_abbr: IEEE IEDM
+  link: https://doi.org/10.1109/iedm13553.2020.9371927
+  month: '12'
+  year: '2020'
+  volume: 
+  Issue: 
+  number: 
+  pages: 37.6.1 - 37.6.4
+  city: San Francisco, CA, USA
+  to_appear: 
+- identifier: takaki2020glass
+  type: conference-en-fullpaper
+  author: Ken Takaki; Takuya Sasatani; Hironobu Kasashima; Yoshihiro Kawahara; Takeshi
+    Naemura
+  title: Coil design for wireless power transfer and communication over hinges of
+    smart glasses
+  publication: Proceedings of the 2020 International Symposium on Wearable Computers
+  publication_abbr: ISWC '20
+  link: https://doi.org/10.1145/3410531.3414299
+  month: '9'
+  year: '2020'
+  volume: 
+  Issue: 
+  number: 
+  pages: 79 - 83
+  city: Virtual Event, Mexico
+  to_appear: 
+- identifier: nishizawa2020ramus
+  type: journal-en
+  author: Yuki Nishizawa; Takuya Sasatani; Matthew Ishige; Yoshiaki Narusue; Takuya
+    Umedachi; Yoshihiro Kawahara
+  title: 'Ramus: A Frequency-Multiplexed Power Bus for Powering, Sensing and Controlling
+    Robots'
+  publication: IEEE Robotics and Automation Letters
+  publication_abbr: 
+  link: https://doi.org/10.1109/lra.2020.2988176
+  month: '7'
+  year: '2020'
+  volume: '5'
+  Issue: '3'
+  number: 
+  pages: 4126 - 4132
+  city: 
+  to_appear: 
+- identifier: yoshida2020infants
+  type: journal-en
+  author: Sachine Yoshida; Yoshihiro Kawahara; Takuya Sasatani; Ken Kiyono; Yo Kobayashi;
+    Hiromasa Funato
+  title: Infants Show Physiological Responses Specific to Parental Hugs
+  publication: iScience
+  publication_abbr: 
+  link: https://doi.org/10.1016/j.isci.2020.100996
+  month: '4'
+  year: '2020'
+  volume: '23'
+  Issue: '4'
+  number: '100996'
+  pages: 
+  city: 
+  to_appear: 
+- identifier: colm2020catarpillar
+  type: journal-en
+  author: Colm Mc Caffrey; Takuya Umedachi; Weiwei Jiang; Takuya Sasatani; Yoshiaki
+    Narusue; Ryuma Niiyama; Yoshihiro Kawahara
+  title: Continuum Robotic Caterpillar with Wirelessly Powered Shape Memory Alloy
+    Actuators
+  publication: Soft Robotics
+  publication_abbr: 
+  link: https://doi.org/10.1089/soro.2019.0090
+  month: '12'
+  year: '2020'
+  volume: '7'
+  Issue: 
+  number: '6'
+  pages: 700 - 710
+  city: 
+  to_appear: 
+- identifier: cheng2020silvertape
+  type: journal-en
+  author: Tingyu Cheng; Koya Narumi; Youngwook Do; Yang Zhang; Tung D. Ta; Takuya
+    Sasatani; Eric Markvicka; Yoshihiro Kawahara; Lining Yao; Gregory D. Abowd; HyunJoo
+    Oh
+  title: 'Silver Tape: Inkjet-Printed Circuits Peeled-and-Transferred on Versatile
+    Substrates'
+  publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  publication_abbr: ACM IMWUT '20
+  link: https://doi.org/10.1145/3381013
+  month: '3'
+  year: '2020'
+  volume: '4'
+  Issue: '1'
+  number: '6'
+  pages: 1 - 17
+  city: 
+  to_appear: 
+- identifier: morita2020topology
+  type: conference-en-fullpaper
+  author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; Yoshihiro Kawahara
+  title: Topology Construction Protocol for Wireless Power Transfer System with a
+    2-D Relay Resonator Array
+  publication: 2020 IEEE International Conference on Consumer Electronics
+  publication_abbr: IEEE ICCE '20
+  link: https://doi.org/10.1109/icce46568.2020.9043052
+  month: 
+  year: 
+  volume: 
+  Issue: 
+  number: 
+  pages: 1 - 5
+  city: 
+  to_appear: 
+- identifier: hayashi2019design
+  type: conference-en-fullpaper
+  author: Hiromasa Hayashi; Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara
+  title: Design of Wireless Power Transfer Systems for Personal Mobility Devices in
+    City Spaces
+  publication: 2019 IEEE 90th Vehicular Technology Conference
+  publication_abbr: VTC2019-Fall
+  link: https://doi.org/10.1109/vtcfall.2019.8891268
+  month: '9'
+  year: '2019'
+  volume: 
+  Issue: 
+  number: 
+  pages: 1 - 5
+  city: 
+  to_appear: 
+- identifier: sumiya2019alvus
+  type: journal-en
+  author: Kazunobu Sumiya; Takuya Sasatani; Yuki Nishizawa; Kenji Tsushio; Yoshiaki
+    Narusue; Yoshihiro Kawahara
+  title: 'Alvus: A Reconfigurable 2-D Wireless Charging System'
+  publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  publication_abbr: ACM IMWUT '19
+  link: https://doi.org/10.1145/3332533
+  month: '6'
+  year: '2019'
+  volume: '3'
+  Issue: '2'
+  number: '68'
+  pages: 1 - 29
+  city: 
+  to_appear: 
