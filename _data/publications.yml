@@ -10,6 +10,7 @@
   month: '8'
   year: '2021'
   volume: '4'
+  Issue: 
   number: '9'
   pages: 689 - 697
   city: 
@@ -22,11 +23,12 @@
     Conditions'
   publication: Proceedings of the 29th Annual International Conference on Mobile Computing
     and Networking
-  publication_abbr: ACM MobiCom 2023
+  publication_abbr: ACM MobiCom '23
   link: https://doi.org/10.1145/3570361.3613264
   month: '10'
   year: '2023'
   volume: 
+  Issue: 
   number: 
   pages: 1 - 15
   city: 
@@ -41,6 +43,7 @@
   month: '6'
   year: '2024'
   volume: 
+  Issue: 
   number: 
   pages: 
   city: 
@@ -55,6 +58,7 @@
   month: '7'
   year: '2023'
   volume: '28'
+  Issue: 
   number: '2'
   pages: 14 - 16
   city: 
@@ -71,6 +75,7 @@
   month: '11'
   year: '2023'
   volume: 
+  Issue: 
   number: 
   pages: 
   city: Washington D.C., USA
@@ -85,7 +90,172 @@
   month: '9'
   year: '2024'
   volume: 
+  Issue: 
   number: 
   pages: 
   city: 
   to_appear: 'TRUE'
+- identifier: honjo2024suppressing
+  type: journal-en
+  author: Yuichi Honjo; Cedric Caremel; Yoshihiro Kawahara; Takuya Sasatani
+  title: Suppressing Leakage Magnetic Field in Wireless Power Transfer Using Halbach
+    Array-Based Resonators
+  publication: "IEEE Antennas and Wireless Propagation Letters\r"
+  publication_abbr: 
+  link: https://doi.org/10.1109/lawp.2023.3318244
+  month: '1'
+  year: '2024'
+  volume: '23'
+  Issue: '1'
+  number: 
+  pages: 94 - 98
+  city: 
+  to_appear: 
+- identifier: mita2023poster
+  type: conference-en-adjunct
+  author: Yukiya Mita; Hiroaki Murakami; Takuya Sasatani; Matthew Ishige; Yoshihiro
+    Kawahara
+  title: 'Poster Abstract: Enhancing Fingerprint-based Smartphone Localization Using
+    Acoustic Time-of-Flight for Complex Indoors'
+  publication: "Proceedings of the 21st ACM Conference on Embedded Networked Sensor
+    Systems\r"
+  publication_abbr: ACM SenSys '23
+  link: https://doi.org/10.1145/3625687.3629535
+  month: '4'
+  year: '2024'
+  volume: 
+  Issue: 
+  number: 
+  pages: 548 - 549
+  city: Istanbul, Turkiye
+  to_appear: 
+- identifier: iizuka2023trimmed
+  type: journal-en
+  author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; Takuya
+    Sasatani
+  title: Trimmed Aperture Corner Reflector for Angle-Selective Chipless RFID
+  publication: "IEEE Antennas and Wireless Propagation Letters\r"
+  publication_abbr: 
+  link: https://doi.org/10.1109/lawp.2023.3294940
+  month: '7'
+  year: '2023'
+  volume: '22'
+  Issue: '10'
+  number: 
+  pages: 2437 - 2541
+  city: 
+  to_appear: 
+- identifier: sasatani2022geometry
+  type: journal-en
+  author: Takuya Sasatani; Matthew Chabalko; Yoshihiro Kawahara; Alanson Sample
+  title: Geometry-Based Circuit Modeling of Quasi-Static Cavity Resonators for Wireless
+    Power Transfer
+  publication: IEEE Open Journal of Power Electronics
+  publication_abbr: 
+  link: https://doi.org/10.1109/ojpel.2022.3183600
+  month: '6'
+  year: '2022'
+  volume: '3'
+  Issue: 
+  number: 
+  pages: 382 - 390
+  city: 
+  to_appear: 
+- identifier: zhang2023finger
+  type: conference-en-adjunct
+  author: Yuke Zhang; Ken Takaki; Hiroaki Murakami; Takuya Sasatani; Yoshihiro Kawahara
+  title: Toward Continuous Finger Positioning on Ear Using Bone Conduction Speaker
+  publication: Proceedings of the 20th ACM Conference on Embedded Networked Sensor
+    Systems
+  publication_abbr: ACM SenSys '22
+  link: https://doi.org/10.1145/3560905.3568075
+  month: '1'
+  year: '2023'
+  volume: 
+  Issue: 
+  number: 
+  pages: 847 - 848
+  city: New York, NY, USA
+  to_appear: 
+- identifier: morita2021surface
+  type: journal-en
+  author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; Yoshihiro Kawahara
+  title: Surface Routing for Wireless Power Transfer Using 2-D Relay Resonator Arrays
+  publication: IEEE Access
+  publication_abbr: 
+  link: https://doi.org/10.1109/access.2021.3115143
+  month: '9'
+  year: '2021'
+  volume: '9'
+  Issue: 
+  number: 
+  pages: 133102 - 133110
+  city: 
+  to_appear: 
+- identifier: takahashi2021twin
+  type: journal-en
+  author: Ryo Takahashi; Wakako Yukita; Takuya Sasatani; Tomoyuki Yokota; Takao Someya;
+    Yoshihiro Kawahara
+  title: 'Twin Meander Coil: Sensitive Readout of Battery-free On-body Wireless Sensors
+    Using Body-scale Meander Coils'
+  publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  publication_abbr: ACM IMWUT '21
+  link: https://doi.org/10.1145/3494996
+  month: '12'
+  year: '2021'
+  volume: '5'
+  Issue: '4'
+  number: '179'
+  pages: 1 - 21
+  city: 
+  to_appear: 
+- identifier: chen2021wireless
+  type: journal-en
+  author: Lai Chen; Takuya Sasatani; Keung Or; Satoshi Nishikawa; Yoshihiro Kawahara;
+    Ryuma Niiyama; Yasuo Kuniyoshi
+  title: Wireless Powered Dielectric Elastomer Actuator
+  publication: IEEE Robotics and Automation Letters
+  publication_abbr: 
+  link: https://doi.org/10.1109/lra.2021.3097271
+  month: '7'
+  year: '2021'
+  volume: '6'
+  Issue: '4'
+  number: 
+  pages: 7278 - 7284
+  city: 
+  to_appear: 
+- identifier: kadomoto2021cooperated
+  type: journal-en
+  author: Junichiro Kadomoto; Takuya Sasatani; Koya Narumi; Naoto Usami; Hidetsugu
+    Irie; Shuichi Sakai; Yoshihiro Kawahara
+  title: Toward Wirelessly Cooperated Shape-Changing Computing Particles
+  publication: IEEE Pervasive Computing
+  publication_abbr: 
+  link: https://doi.org/10.1109/mprv.2021.3086035
+  month: '6'
+  year: '2021'
+  volume: '20'
+  Issue: 
+  number: '3'
+  pages: 9 - 17
+  city: 
+  to_appear: 
+- identifier: hayashi2020effect
+  type: conference-en-fullpaper
+  author: Hiromasa Hayashi; Katsuhiro Hata; Takuya Sasatani; Hiroki Sato; Ryosuke
+    Yamamura; Young ah Seong; Ryuma Niiyama; Yoshihiro Kawahara
+  title: Effect of body materials on transmission efficiency and resonant frequency
+    in wirelessly powered personal mobility devices
+  publication: 2020 IEEE Wireless Power Transfer Conference
+  publication_abbr: IEEE WPTC 2020
+  link: https://doi.org/10.1109/WPTC48563.2020.9295533
+  month: '11'
+  year: '2020'
+  volume: 
+  Issue: 
+  number: 
+  pages: 183 - 186
+  city: Seoul, Korea (South)
+  to_appear: 
