@@ -1,0 +1,91 @@
+---
+- identifier: sasatani2021room
+  type: journal-en
+  author: Takuya Sasatani; Alanson P. Sample; Yoshihiro Kawahara
+  title: Room-scale magnetoquasistatic wireless power transfer using a cavity-based
+    multimode resonator
+  publication: Nature Electronics
+  publication_abbr: 
+  link: https://doi.org/10.1038/s41928-021-00636-3
+  month: '8'
+  year: '2021'
+  volume: '4'
+  number: '9'
+  pages: 689 - 697
+  city: 
+  to_appear: 
+- identifier: iizuka2023millisign
+  type: conference-en-full
+  author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; Takuya
+    Sasatani
+  title: 'MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility
+    Conditions'
+  publication: Proceedings of the 29th Annual International Conference on Mobile Computing
+    and Networking
+  publication_abbr: ACM MobiCom 2023
+  link: https://doi.org/10.1145/3570361.3613264
+  month: '10'
+  year: '2023'
+  volume: 
+  number: 
+  pages: 1--15
+  city: 
+  to_appear: 
+- identifier: 
+  type: invited
+  author: Takuya Sasatani
+  title: 'Untethering Discovery: wireless power for mobile sensing and neuroscience'
+  publication: GCL/IIW workshop
+  publication_abbr: 
+  link: 
+  month: '6'
+  year: '2024'
+  volume: 
+  number: 
+  pages: 
+  city: 
+  to_appear: 
+- identifier: 
+  type: tutorial
+  author: 笹谷拓也
+  title: 'ACT-X: 学びと加速の三年半'
+  publication: 日本バーチャルリアリティ学会誌
+  publication_abbr: SfN 2023
+  link: https://doi.org/10.18974/jvrsj.28.2_14
+  month: '7'
+  year: '2023'
+  volume: '28'
+  number: '2'
+  pages: 14--16
+  city: 
+  to_appear: 
+- identifier: sasatani2023sfn
+  type: conference-en-adjunct
+  author: Takuya Sasatani; Marcel Brosch; Zhe Dong; Federico Sangiuliano Jimka; Megah
+    Sehgal; Hemal Semwal; Aparajeeta Guha; Hamid Chorsi; Karina Keus; Blake Madruga;
+    Daniel Aharoni
+  title: Untethering open-source Miniscopes with wireless power and data transfer
+  publication: Neuroscience 2023
+  publication_abbr: 
+  link: 
+  month: '11'
+  year: '2023'
+  volume: 
+  number: 
+  pages: 
+  city: Washington D.C., USA
+  to_appear: 
+- identifier: 
+  type: conference-jp
+  author: 小林莉久; 金潭延; 本庄祐一; 川原圭博; 笹谷拓也
+  title: 再構成可能な二次元無線給電システムにおける中継共振器損失の影響の解析
+  publication: 電子情報通信学会ソサイエティ大会
+  publication_abbr: 信学ソ大 2024
+  link: 
+  month: '9'
+  year: '2024'
+  volume: 
+  number: 
+  pages: 
+  city: 
+  to_appear: 'TRUE'
