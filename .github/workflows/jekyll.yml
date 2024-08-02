@@ -43,6 +43,8 @@ jobs:
       - name: Fetch data from Google Sheets
         run: ruby _scripts/fetch_publication.rb
       - name: Commit and push changes
+        env:
+          REPO_URL: https://x-access-token:${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/${{ github.repository }}.git
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
@@ -50,8 +52,6 @@ jobs:
           git add _data/publications.yml
           git commit -m 'Update publications data'
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
