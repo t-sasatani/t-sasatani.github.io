@@ -259,3 +259,37 @@
   pages: 183 - 186
   city: Seoul, Korea (South)
   to_appear: 
+- identifier: sasatani2020genetic
+  type: journal-en
+  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara
+  title: Genetic Algorithm-Based Receiving Resonator Array Design for Wireless Power
+    Transfer
+  publication: IEEE Access
+  publication_abbr: 
+  link: https://doi.org/10.1109/access.2020.3044224
+  month: '12'
+  year: '2020'
+  volume: 
+  Issue: 
+  number: 
+  pages: 222385 - 222396
+  city: 
+  to_appear: 
+- identifier: takahashi2020ring
+  type: conference-en-fullpaper
+  author: Ryo Takahashi; Masaaki Fukumoto; Changyo Han; Takuya Sasatani; Yoshiaki
+    Narusue; Yoshihiro Kawahara
+  title: 'TelemetRing: A batteryless and wireless ring-shaped keyboard using passive
+    inductive telemetry'
+  publication: "Proceedings of the 33rd Annual ACM Symposium on User Interface Software
+    and Technology\r"
+  publication_abbr: ACM UIST '20
+  link: https://doi.org/10.1145/3379337.3415873
+  month: '10'
+  year: '2020'
+  volume: 
+  Issue: 
+  number: 
+  pages: 1161 - 1168
+  city: Virtual
+  to_appear: 
