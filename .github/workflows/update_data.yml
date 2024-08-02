@@ -24,7 +24,7 @@ jobs:
       run: bundle install
 
     - name: Fetch data from Google Sheets
-      run: ruby _scripts/fetch_publications.rb
+      run: ruby _scripts/fetch_publication.rb
 
     - name: Commit and push changes
       run: |
