@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+<p>Contact information goes here</p>
+
+<section>
+<h2>Awards</h2>
+<ul>
+    {% for award in site.data.award %}
+    <li>
+        <strong>{{ award['name_en'] }}</strong> - {{ award['from_en'] }} ({{ award['date'] }})
+    </li>
+    {% endfor %}
+</ul>
+</section>
+
+<section>
+<h2>Education</h2>
+<ul>
+    {% for education in site.data.education %}
+    <li>
+        <strong>{{ education['degree'] }}</strong> - {{ education['institution'] }} ({{ education['start_date'] }} -- {{ education['end_date'] }})
+    </li>
+    {% endfor %}
+</ul>
+</section>
+
+<!-- Add more sections here similarly -->
+
+<script>
+function printCV() {
+    window.print();
+}
+</script>
+<button onclick="printCV()">Print CV</button>

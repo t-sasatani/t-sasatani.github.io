@@ -17,16 +17,16 @@ layout: default
 </ul>
 -->
 
-<!-- Create a single ordered list for all publications -->
+<!-- Create a single ordered list for all publication -->
 <ol>
   {% assign counter = 0 %}
   {% for type in ordered_types %}
-    {% assign publications_by_type = site.data.publications | where: 'type', type %}
-    {% assign publications_by_type = publications_by_type | sort: 'month' | reverse %}
-    {% assign publications_by_type = publications_by_type | sort: 'year' | reverse %}
-    {% if publications_by_type.size > 0 %}
+    {% assign publication_by_type = site.data.publication | where: 'type', type %}
+    {% assign publication_by_type = publication_by_type | sort: 'month' | reverse %}
+    {% assign publication_by_type = publication_by_type | sort: 'year' | reverse %}
+    {% if publication_by_type.size > 0 %}
       <h2 id="{{ type }}">{{ page.type_names[type] }}</h2>
-      {% for publication in publications_by_type %}
+      {% for publication in publication_by_type %}
         <li>
           {% assign counter = counter | plus: 1 %}
 
