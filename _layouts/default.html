@@ -1,66 +1,102 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>{{ page.title }}</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <!-- Include Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <!-- Include Noto Sans Light from Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400&display=swap" rel="stylesheet">
   <style>
     body {
       font-family: 'Noto Sans JP', sans-serif;
       font-weight: 400; /* Light */
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
     }
+
+    /* Flex container for the overall layout */
+    .flex-container {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    /* Flex grow for main content to push footer to the bottom */
+    .flex-grow-1 {
+      flex-grow: 1;
+    }
+
     h1, h2 {
-      font-weight: 400; /* Light for headings */
+      font-weight: 400; 
     }
+
     .author-list {
-      font-weight: 400; /* Light for author list */
+      font-weight: 400; 
     }
+
     ol {
-      list-style-type: decimal; /* Ordered list for publications */
+      list-style-type: decimal;
     }
-    nav {
-      background-color: #f8f9fa; /* Light grey background */
-      padding: 10px 20px;
-    }
-    nav ul {
-      list-style: none;
-      padding: 0;
-    }
-    nav ul li {
-      display: inline;
-      margin-right: 20px;
-    }
-    nav ul li a {
-      text-decoration: none;
-      color: #007bff; /* Blue color for links */
-    }
-    nav ul li a:hover {
-      text-decoration: underline;
-    }
+
     .publication-number {
       font-weight: bold;
       margin-right: 5px;
     }
+
     .publication-item {
-        margin-bottom: 1em;
+      margin-bottom: 1em;
     }
   </style>
 </head>
 <body>
-  <nav>
-    <ul>
-      {% for item in site.navigation %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
+  <div class="flex-container">
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <!-- Site Title -->
+        <a class="navbar-brand" href="/">{{ site.title }}</a>
+        <!-- Toggle for mobile view -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- Navigation Links -->
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+          <ul class="navbar-nav">
+            {% for item in site.navigation %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+    <!-- Main Content Area -->
+    <div class="container flex-grow-1">
+      <!-- Row for center 8 units -->
+      <div class="row justify-content-center">
+        <div class="col-12 col-md-10">
+          <!-- Embedding default.html or your page content goes here -->
+          {{ content }}
+        </div>
+      </div>
+    </div>
+    
+    <!-- Footer -->
+    <footer class="bg-light text-center text-lg-start">
+      <div class="container p-4">
+        <p>&copy; {{ site.starting_year }}{% if site.time | date: '%Y' != site.starting_year %}-{{ site.time | date: '%Y' }}{% endif %} Takuya Sasatani. All rights reserved.</p>
+      </div>
+    </footer>
+  </div>
   
-  <main>
-    {{ content }}
-  </main>
-  
-  <footer>
-    <p>&copy; {{ site.starting_year }}{% if site.time | date: '%Y' != site.starting_year %}-{{ site.time | date: '%Y' }}{% endif %} Takuya Sasatani. All rights reserved.</p>
-  </footer>
+  <!-- Bootstrap JS and dependencies -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

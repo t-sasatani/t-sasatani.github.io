@@ -1,0 +1,43 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: Home
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="photo">
+        <img src="{{ site.data.profile.contact.photo }}" alt="{{ site.data.profile.contact.name }}" class="img-fluid">
+      </div>
+      <div class="contact-info">
+        <strong>{{ site.data.profile.contact.name }}</strong>
+        <p>{{ site.data.profile.contact.title }}</p>
+        <p>{{ site.data.profile.contact.department }}</p>
+        <p>{{ site.data.profile.contact.university }}</p>
+        <p>Email: {{ site.data.profile.contact.email }}</p>
+      </div>
+    </div>
+    <div class="col-md-8">
+      <div class="bio">
+        <p>{{ site.data.profile.bio }}</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="projects-list">
+    {% for project in site.data.projects %}
+      <div class="project">
+        <div class="project-media">
+          <img src="{{ project.image }}" alt="{{ project.title }}">
+        </div>
+        <div class="project-info">
+          <h3>{{ project.title }}</h3>
+          <p>{{ project.description }}</p>
+          <p>{{ project.publication_info }}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
