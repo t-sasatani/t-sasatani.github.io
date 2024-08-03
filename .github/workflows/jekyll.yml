@@ -39,7 +39,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git pull $REPO_URL main  # Ensure you're pulling using the $REPO_URL
-          git add _data/publications.yml
+          git add _data/publication.yml
           git commit -m 'Update publications data'
           git push $REPO_URL HEAD:main  # Ensure you're pushing using the $REPO_URL
 
