@@ -7,8 +7,10 @@
   publication: Nature Electronics
   publication_abbr: 
   link: https://doi.org/10.1038/s41928-021-00636-3
-  month: '8'
+  time: 2021-8
   year: '2021'
+  month: '8'
+  month_str: August
   volume: '4'
   Issue: 
   number: '9'
@@ -25,8 +27,10 @@
     and Networking
   publication_abbr: ACM MobiCom '23
   link: https://doi.org/10.1145/3570361.3613264
-  month: '10'
+  time: 2023-10
   year: '2023'
+  month: '10'
+  month_str: October
   volume: 
   Issue: 
   number: 
@@ -40,8 +44,10 @@
   publication: GCL/IIW workshop
   publication_abbr: 
   link: 
-  month: '6'
+  time: 2024-6
   year: '2024'
+  month: '6'
+  month_str: June
   volume: 
   Issue: 
   number: 
@@ -55,8 +61,10 @@
   publication: 日本バーチャルリアリティ学会誌
   publication_abbr: SfN 2023
   link: https://doi.org/10.18974/jvrsj.28.2_14
-  month: '7'
+  time: 2023-7
   year: '2023'
+  month: '7'
+  month_str: July
   volume: '28'
   Issue: 
   number: '2'
@@ -72,8 +80,10 @@
   publication: Neuroscience 2023
   publication_abbr: 
   link: 
-  month: '11'
+  time: 2023-11
   year: '2023'
+  month: '11'
+  month_str: November
   volume: 
   Issue: 
   number: 
@@ -87,8 +97,10 @@
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大 2024
   link: 
-  month: '9'
+  time: 2024-9
   year: '2024'
+  month: '9'
+  month_str: September
   volume: 
   Issue: 
   number: 
@@ -103,8 +115,10 @@
   publication: "IEEE Antennas and Wireless Propagation Letters\r"
   publication_abbr: 
   link: https://doi.org/10.1109/lawp.2023.3318244
-  month: '1'
+  time: 2024-1
   year: '2024'
+  month: '1'
+  month_str: January
   volume: '23'
   Issue: '1'
   number: 
@@ -121,8 +135,10 @@
     Systems\r"
   publication_abbr: ACM SenSys '23
   link: https://doi.org/10.1145/3625687.3629535
-  month: '4'
+  time: 2024-4
   year: '2024'
+  month: '4'
+  month_str: April
   volume: 
   Issue: 
   number: 
@@ -137,8 +153,10 @@
   publication: "IEEE Antennas and Wireless Propagation Letters\r"
   publication_abbr: 
   link: https://doi.org/10.1109/lawp.2023.3294940
-  month: '7'
+  time: 2023-7
   year: '2023'
+  month: '7'
+  month_str: July
   volume: '22'
   Issue: '10'
   number: 
@@ -153,8 +171,10 @@
   publication: IEEE Open Journal of Power Electronics
   publication_abbr: 
   link: https://doi.org/10.1109/ojpel.2022.3183600
-  month: '6'
+  time: 2022-6
   year: '2022'
+  month: '6'
+  month_str: June
   volume: '3'
   Issue: 
   number: 
@@ -169,8 +189,10 @@
     Systems
   publication_abbr: ACM SenSys '22
   link: https://doi.org/10.1145/3560905.3568075
-  month: '1'
+  time: 2023-1
   year: '2023'
+  month: '1'
+  month_str: January
   volume: 
   Issue: 
   number: 
@@ -184,8 +206,10 @@
   publication: IEEE Access
   publication_abbr: 
   link: https://doi.org/10.1109/access.2021.3115143
-  month: '9'
+  time: 2021-9
   year: '2021'
+  month: '9'
+  month_str: September
   volume: '9'
   Issue: 
   number: 
@@ -202,8 +226,10 @@
     Technologies
   publication_abbr: ACM IMWUT '21
   link: https://doi.org/10.1145/3494996
-  month: '12'
+  time: 2021-12
   year: '2021'
+  month: '12'
+  month_str: December
   volume: '5'
   Issue: '4'
   number: '179'
@@ -218,8 +244,10 @@
   publication: IEEE Robotics and Automation Letters
   publication_abbr: 
   link: https://doi.org/10.1109/lra.2021.3097271
-  month: '7'
+  time: 2021-7
   year: '2021'
+  month: '7'
+  month_str: July
   volume: '6'
   Issue: '4'
   number: 
@@ -234,8 +262,10 @@
   publication: IEEE Pervasive Computing
   publication_abbr: 
   link: https://doi.org/10.1109/mprv.2021.3086035
-  month: '6'
+  time: 2021-6
   year: '2021'
+  month: '6'
+  month_str: June
   volume: '20'
   Issue: 
   number: '3'
@@ -251,8 +281,10 @@
   publication: 2020 IEEE Wireless Power Transfer Conference
   publication_abbr: IEEE WPTC 2020
   link: https://doi.org/10.1109/WPTC48563.2020.9295533
-  month: '11'
+  time: 2020-11
   year: '2020'
+  month: '11'
+  month_str: November
   volume: 
   Issue: 
   number: 
@@ -267,8 +299,10 @@
   publication: IEEE Access
   publication_abbr: 
   link: https://doi.org/10.1109/access.2020.3044224
-  month: '12'
+  time: 2020-12
   year: '2020'
+  month: '12'
+  month_str: December
   volume: 
   Issue: 
   number: 
@@ -285,8 +319,10 @@
     and Technology\r"
   publication_abbr: ACM UIST '20
   link: https://doi.org/10.1145/3379337.3415873
-  month: '10'
+  time: 2020-10
   year: '2020'
+  month: '10'
+  month_str: October
   volume: 
   Issue: 
   number: 
@@ -300,8 +336,10 @@
   publication: International Electron Devices Meeting
   publication_abbr: IEEE IEDM
   link: https://doi.org/10.1109/iedm13553.2020.9371927
-  month: '12'
+  time: 2020-12
   year: '2020'
+  month: '12'
+  month_str: December
   volume: 
   Issue: 
   number: 
@@ -317,8 +355,10 @@
   publication: Proceedings of the 2020 International Symposium on Wearable Computers
   publication_abbr: ISWC '20
   link: https://doi.org/10.1145/3410531.3414299
-  month: '9'
+  time: 2020-9
   year: '2020'
+  month: '9'
+  month_str: September
   volume: 
   Issue: 
   number: 
@@ -334,8 +374,10 @@
   publication: IEEE Robotics and Automation Letters
   publication_abbr: 
   link: https://doi.org/10.1109/lra.2020.2988176
-  month: '7'
+  time: 2020-7
   year: '2020'
+  month: '7'
+  month_str: July
   volume: '5'
   Issue: '3'
   number: 
@@ -350,8 +392,10 @@
   publication: iScience
   publication_abbr: 
   link: https://doi.org/10.1016/j.isci.2020.100996
-  month: '4'
+  time: 2020-4
   year: '2020'
+  month: '4'
+  month_str: April
   volume: '23'
   Issue: '4'
   number: '100996'
@@ -367,8 +411,10 @@
   publication: Soft Robotics
   publication_abbr: 
   link: https://doi.org/10.1089/soro.2019.0090
-  month: '12'
+  time: 2020-12
   year: '2020'
+  month: '12'
+  month_str: December
   volume: '7'
   Issue: 
   number: '6'
@@ -386,8 +432,10 @@
     Technologies
   publication_abbr: ACM IMWUT '20
   link: https://doi.org/10.1145/3381013
-  month: '3'
+  time: 2020-3
   year: '2020'
+  month: '3'
+  month_str: March
   volume: '4'
   Issue: '1'
   number: '6'
@@ -402,8 +450,10 @@
   publication: 2020 IEEE International Conference on Consumer Electronics
   publication_abbr: IEEE ICCE '20
   link: https://doi.org/10.1109/icce46568.2020.9043052
-  month: 
-  year: 
+  time: 2020-1
+  year: '2020'
+  month: '1'
+  month_str: January
   volume: 
   Issue: 
   number: 
@@ -418,8 +468,10 @@
   publication: 2019 IEEE 90th Vehicular Technology Conference
   publication_abbr: VTC2019-Fall
   link: https://doi.org/10.1109/vtcfall.2019.8891268
-  month: '9'
+  time: 2019-9
   year: '2019'
+  month: '9'
+  month_str: September
   volume: 
   Issue: 
   number: 
@@ -435,8 +487,10 @@
     Technologies
   publication_abbr: ACM IMWUT '19
   link: https://doi.org/10.1145/3332533
-  month: '6'
+  time: 2019-6
   year: '2019'
+  month: '6'
+  month_str: June
   volume: '3'
   Issue: '2'
   number: '68'

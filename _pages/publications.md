@@ -1,5 +1,5 @@
 ---
-layout: publication_list
+layout: default
 title: Publications
 permalink: /publications/
 type_names:
@@ -10,3 +10,10 @@ type_names:
   conference-en-adjunct: "Conferences (workshop, adjunct, demo, poster, etc.)"
   conference-jp: "Japanese conference"
 ---
+
+<h1>{{ page.title }}</h1>
+{% include publication_list.html 
+   context='publist'
+   type_names=page.type_names
+   debug=false
+   toc=true %}

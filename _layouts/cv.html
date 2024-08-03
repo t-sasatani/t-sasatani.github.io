@@ -21,12 +21,21 @@ layout: default
 <ul>
     {% for education in site.data.education %}
     <li>
-        <strong>{{ education['degree'] }}</strong> - {{ education['institution'] }} ({{ education['start_date'] }} -- {{ education['end_date'] }})
+        <strong>{{ education['degree'] }}</strong> - {{ education['institution'] }} ({{ education['year'] }})
     </li>
     {% endfor %}
 </ul>
 </section>
 
+<!-- Publications Section -->
+<section>
+<h2>Publications</h2>
+{% include publication_list.html 
+    context='cv'
+    type_names=page.type_names
+    debug=false
+    toc=false %}
+</section>
 <!-- Add more sections here similarly -->
 
 <script>
