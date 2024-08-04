@@ -14,6 +14,7 @@ layout: default
           class="img-fluid">
       </div>
       <div class="contact-info">
+      </br>
         <strong>{{ site.data.profile.contact.name }}</strong>
         <p>{{ site.data.profile.contact.title }}</p>
         <p>{{ site.data.profile.contact.department }}</p>
@@ -56,25 +57,25 @@ layout: default
             {% endif %}
             {{ publication.year }})<br/><br/>
             {% assign authors = publication.author | replace: ';', ','  | replace: '，', ', ' %}
-            {% assign authors = authors | replace: 'Takuya Sasatani', '<strong>Takuya Sasatani</strong>' %}
-            {% assign authors = authors | replace: '笹谷拓也', '<strong>笹谷拓也</strong>' %}
+            {% assign authors = authors | replace: 'Takuya Sasatani', '<u>Takuya Sasatani</u>' %}
+            {% assign authors = authors | replace: '笹谷拓也', '<u>笹谷拓也</u>' %}
 		        <span class="author-list">{{ authors | safe }}</span>
             <br/>
-            {% if publication.video %}
-              <a href="{{ publication.video }}" class="badge" target="_blank">
-                Video
-              </a>
-            {% endif %}
-
             {% if publication.open_access %}
               <a href="{{ publication.open_access }}" class="badge" target="_blank">
                 Open access
               </a>
             {% endif %}
 
+            {% if publication.video %}
+              <a href="{{ publication.video }}" class="badge" target="_blank">
+                Video
+              </a>
+            {% endif %}
+
             {% if publication.doi %}
               <a href="{{ publication.doi }}" class="badge" target="_blank">
-                DOI
+                Publisher
               </a>
             {% endif %}
 

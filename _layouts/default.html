@@ -9,6 +9,7 @@
   <!-- Include Noto Sans Light from Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
 </head>
@@ -16,7 +17,7 @@
   <div class="flex-container">
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="container-fluid">
+      <div class="container-fluid d-flex align-items-center justify-content-between">
         <!-- Site Title -->
         <a class="navbar-brand" href="/">{{ site.title }}</a>
         <!-- Toggle for mobile view -->
@@ -28,9 +29,20 @@
           <ul class="navbar-nav">
             {% for item in site.navigation %}
               <li class="nav-item">
-                <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+                <a class="nav-link {% if item.url == page.url %}active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
               </li>
             {% endfor %}
+            <li class="nav-item">
+              <a class="nav-link" href="https://scholar.google.com" target="_blank" aria-label="Google Scholar">
+                <i class="fas fa-graduation-cap"></i>&thinsp;
+              </a>
+            </li>
+            <!-- GitHub Icon -->
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com" target="_blank" aria-label="GitHub">
+                <i class="fab fa-github"></i>&thinsp;
+              </a>
+            </li>
           </ul>
         </div>
       </div>

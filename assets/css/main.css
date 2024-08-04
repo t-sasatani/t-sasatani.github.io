@@ -1,93 +1,81 @@
+/* Root Variables */
+:root {
+  --primary-bg-color: #5285c8;
+  --primary-bg-hover-color: #2e4a6f;
+  --alert-color: rgb(177, 0, 0);
+  --font-weight-light: 400;
+  --font-weight-bold: 800;
+}
+
+/* Base Styles */
 body {
   font-family: 'Noto Sans JP', sans-serif;
-  font-weight: 400; /* Light */
+  font-weight: var(--font-weight-light); /* Light */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
 
-h1 {
-  font-weight: 800; /* Heavy for headings */
-  font-size: 1.5em; /* Adjust the size as needed */
+h1, h2, h3 {
+  font-weight: var(--font-weight-bold); /* Heavy for headings */
   margin-top: 30pt;
   margin-bottom: 10pt;
+}
+
+h1 {
+  font-size: 1.5em; /* Adjust the size as needed */
 }
 
 h2 {
-  font-weight: 800; /* Heavy for headings */
   font-size: 1.2em; /* Adjust the size as needed */
-  margin-top: 30pt;
-  margin-bottom: 10pt;
 }
 
 h3 {
-  font-weight: 800; /* Heavy for headings */
   font-size: 1em; /* Adjust the size as needed */
-  margin-top: 10pt;
-  margin-bottom: 10pt;
 }
 
+/* Typography */
 .pub-note {
-  font-weight: 800; /* Heavy for headings */
-  color: darkred;
-}
-
-.container .badge {
-  display: inline-block;
-  margin: 0px 0px;
-  font-size: 0.7em;
-  font-weight: bold;
-  color: #fff;
-  background-color: #9c9c9c;
-  border-radius: 10px;
-  text-decoration: none;
-}
-
-.container .badge:hover {
-  background-color: #646464;
-}
-.cv-pub-category {
-  font-weight: 800; /* Heavy for headings */
-  font-size: 1em; /* Adjust the size as needed */
+  font-weight: var(--font-weight-bold); /* Heavy for headings */
+  color: var(--alert-color);
 }
 
 .author-list {
-  font-weight: 400; /* Normal for author list */
+  font-weight: var(--font-weight-light); /* Normal for author list */
+}
+
+.cv-pub-category,
+.cv-category {
+  font-weight: var(--font-weight-bold); /* Heavy for headings */
+  font-size: 1em; /* Adjust the size as needed */
+  margin-top: 10pt;
 }
 
 .cv-list .cv-date {
   margin-top: 10pt;
 }
-.cv-category {
-  font-weight: 800; /* Heavy for headings */
-  font-size: 1em; /* Adjust the size as needed */
-  margin-top: 10pt;
+
+.publication-number {
+  font-weight: bold;
+  margin-right: 5px;
 }
 
-/* Remove margin for the table of contents */
-.pub-toc {
-  margin: 0; /* Remove margin around the <ul> */
-  padding: 0; /* Optionally remove padding */
-  list-style-type: none; /* Remove bullet points if desired */
+.publication-list {
+  margin-left: 20pt;
 }
 
-.pub-toc li {
-  margin: 0; /* Remove margin around <li> elements */
-  padding: 0 0; /* Optionally adjust padding */
+/* Lists and Paragraphs */
+.pub-toc, ol, ul, li, p {
+  margin: 0;
+  padding: 0;
+}
+
+.pub-toc, ul {
+  list-style-type: none;
 }
 
 ol {
   list-style-type: decimal; /* Ordered list for publications */
-  padding-left: 0; /* Remove padding */
-  margin-left: 0; /* Remove margin */
-  margin-bottom: 1em;
-}
-
-ul {
-  list-style-type: none; /* Ordered list for publications */
-  padding-left: 0; /* Remove padding */
-  margin-left: 0; /* Remove margin */
-  margin-bottom: 1em;
 }
 
 li {
@@ -100,6 +88,7 @@ p {
   margin: 0; /* Remove default indent on paragraphs */
 }
 
+/* Containers */
 .container {
   padding-right: 15px;
   padding-left: 15px;
@@ -107,6 +96,23 @@ p {
   margin-left: auto;
 }
 
+.container .badge {
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: bold;
+  color: #fff;
+  background-color: var(--primary-bg-color);
+  border-radius: 10px;
+  text-decoration: none;
+  margin: 0;
+  transition: background-color 0.3s; /* Smooth transition on hover */
+}
+
+.container .badge:hover {
+  background-color: var(--primary-bg-hover-color);
+}
+
+/* Flexbox Layouts */
 .flex-container {
   display: flex;
   flex-direction: column;
@@ -115,29 +121,6 @@ p {
 
 .flex-grow-1 {
   flex-grow: 1;
-}
-
-.author-list {
-  font-weight: 400;
-}
-
-.publication-number {
-  font-weight: bold;
-  margin-right: 5px;
-}
-
-.ts-profile {
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-
-.publication-list{
-  margin-left: 20pt;
-}
-
-.project-item {
-  margin-top: 40px;
-  margin-bottom: 20px;
 }
 
 .bio-contact {
@@ -162,7 +145,7 @@ p {
 .projects-list .project {
   display: flex;
   flex-wrap: wrap;
-  gap: 0px;
+  gap: 0;
   margin-bottom: 40px;
 }
 
@@ -170,15 +153,18 @@ p {
   flex: 1 1 40%;
 }
 
-.projects-list .project-media img {
+.projects-list .project-media img,
+.img-responsive {
   max-width: 100%;
   display: block;
+  object-fit: cover; /* Maintain aspect ratio */
 }
 
 .projects-list .project-info {
   flex: 1 1 55%;
 }
 
+/* Media Queries */
 @media (max-width: 768px) {
   .bio-contact {
     flex-direction: column;
@@ -189,10 +175,47 @@ p {
   }
 }
 
+.navbar {
+  display: flex;
+  align-items: center;
+  min-height: 70px;
+}
+
+.navbar-brand,
+.navbar-toggler {
+  display: flex;
+  align-items: center;
+  font-size: 1.2em;
+}
+
+.navbar-nav .nav-item .nav-link {
+  display: flex;
+  align-items: center;
+  font-size: 1.2em;
+  margin-top: 0.5em;
+}
+
+.navbar-nav .nav-link.active {
+  text-decoration: underline;
+  /* Additional styling options:
+  font-weight: bold;
+  color: #yourcolor;
+  */
+}
+/* Custom Styles for Specific Elements */
+.ts-profile {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.project-item {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+/* Additional Utility Classes */
 .img-responsive {
   width: 100%;
   height: auto;
-  /* Maintain aspect ratio */
-  object-fit: cover;
-  /* Ensures the image covers the container */
+  object-fit: cover; /* Ensures the image covers the container */
 }

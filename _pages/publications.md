@@ -18,4 +18,4 @@ type_names:
    context='publist'
    type_names=page.type_names
    debug=false
-   toc=true %}
+   toc=false %}

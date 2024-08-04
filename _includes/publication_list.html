@@ -50,17 +50,13 @@
 <ol class="publication-list">
 	{% for publication in publication_by_type %}
 	<li class="publication-item">
+		<strong>{{ publication.title }}</strong>
+		<br />
 		{% assign authors = publication.author | replace: ';', ',' | replace: '，', ', ' %}
-		{% assign authors = authors | replace: 'Takuya Sasatani', '<strong>Takuya Sasatani</strong>' %}
-		{% assign authors = authors | replace: '笹谷拓也', '<strong>笹谷拓也</strong>' %}
+		{% assign authors = authors | replace: 'Takuya Sasatani', '<u>Takuya Sasatani</u>' %}
+		{% assign authors = authors | replace: '笹谷拓也', '<u>笹谷拓也</u>' %}
 		<span class="author-list">{{ authors | safe }}</span>
-		<br />
-		{% if publication.doi %}
-		<a href="{{ publication.doi }}">{{ publication.title }}</a>
-		{% else %}
-		{{ publication.title }}
-		{% endif %}
-		<br />
+		<br/>
 		{% if publication.publication %}
 		<em>{{ publication.publication }}</em>
 		{% if publication.publication_abbr %} ({{ publication.publication_abbr }}){% endif %}
@@ -81,21 +77,21 @@
 		<span class="pub-note">{{ publication.note }}</span>
 		{% endif %}
 		<br />
-		{% if publication.video %}
-		<a href="{{ publication.video }}" class="badge" target="_blank">
-			Video
-		</a>
-		{% endif %}
-
 		{% if publication.open_access %}
 		<a href="{{ publication.open_access }}" class="badge" target="_blank">
 			Open access
 		</a>
 		{% endif %}
 
+		{% if publication.video %}
+		<a href="{{ publication.video }}" class="badge" target="_blank">
+			Video
+		</a>
+		{% endif %}
+
 		{% if publication.doi %}
 		<a href="{{ publication.doi }}" class="badge" target="_blank">
-			DOI
+			Publisher
 		</a>
 		{% endif %}
 
@@ -126,8 +122,8 @@
 			{% for publication in publication_by_type %}
 			<li class="publication-item">
 				{% assign authors = publication.author | replace: ';', ',' | replace: '，', ', ' %}
-				{% assign authors = authors | replace: 'Takuya Sasatani', '<strong>Takuya Sasatani</strong>' %}
-				{% assign authors = authors | replace: '笹谷拓也', '<strong>笹谷拓也</strong>' %}
+				{% assign authors = authors | replace: 'Takuya Sasatani', '<u>Takuya Sasatani</u>' %}
+				{% assign authors = authors | replace: '笹谷拓也', '<u>笹谷拓也</u>' %}
 				<span class="author-list">{{ authors | safe }},</span>
 				{% if publication.doi %}
 				"<a href="{{ publication.doi }}">{{ publication.title }}</a>"
