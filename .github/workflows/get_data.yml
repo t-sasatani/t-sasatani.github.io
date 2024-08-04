@@ -30,9 +30,33 @@ jobs:
     - name: Check for changes
       id: check_changes
       run: |
-        # Check if the _data/publications.yml file has changed
-        git diff --exit-code _data/publications.yml || echo "Changes detected"
-        git diff --quiet _data/publications.yml || echo "::set-output name=changes::true"
+        # List of YAML files to check for changes
+        files=(
+          "_data/award.yml"
+          "_data/career.yml"
+          "_data/education.yml"
+          "_data/grant.yml"
+          "_data/press.yml"
+          "_data/profile.yml"
+          "_data/publication.yml"
+          "_data/service.yml"
+          "_data/teaching.yml"
+        )
+
+        # Initialize the change flag
+        changes_detected=false
+
+        # Check each file for changes
+        for file in "${files[@]}"; do
+          git diff --exit-code "$file" || changes_detected=true
+        done
+
+        # Set output if changes detected
+        if [ "$changes_detected" = true ]; then
+          echo "::set-output name=changes::true"
+        else
+          echo "::set-output name=changes::false"
+        fi
       shell: bash
 
     - name: Create Pull Request
