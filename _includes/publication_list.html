@@ -1,23 +1,26 @@
-{% assign ordered_types = "journal-en,conference-en-full,invited,tutorial,conference-en-adjunct,conference-jp" | split: "," %}
+{% assign ordered_types = "journal-en,conference-en-full,invited,tutorial,conference-en-adjunct,conference-jp" | split:
+"," %}
 
 {% if include.context == 'publist' or include.context == 'cv' %}
 {% if include.debug %}
 <p>Debug: include.toc is {{ include.toc }}</p>
 {% endif %}
 {% if include.toc %}
-<ul>
-{% for type in ordered_types %}
-{% assign publication_by_type = site.data.publication | where: 'type', type %}
-{% if include.debug %}
-<li style="display:none;">Processing ToC for type: {{ type }} with {{ publication_by_type.size }} entries</li>
-{% endif %}
-{% if publication_by_type and publication_by_type.size > 0 %}
-<li>
-<a href="#{{ type }}">{{ include.type_names[type] }}</a>
-</li>
-{% endif %}
-{% endfor %}
+<h2>Table of Contents</h2>
+<ul class="pub-toc">
+	{% for type in ordered_types %}
+	{% assign publication_by_type = site.data.publication | where: 'type', type %}
+	{% if include.debug %}
+	<li style="display:none;">Processing ToC for type: {{ type }} with {{ publication_by_type.size }} entries</li>
+	{% endif %}
+	{% if publication_by_type and publication_by_type.size > 0 %}
+	<li>
+		<a href="#{{ type }}">{{ include.type_names[type] }}</a>
+	</li>
+	{% endif %}
+	{% endfor %}
 </ul>
+<hr>
 {% endif %}
 
 {% assign counter = 0 %}
@@ -38,68 +41,99 @@
 {% endif %}
 
 {% if publication_by_type != null and publication_by_type.size > 0 %}
-{% assign publication_by_type = publication_by_type | sort: 'year' | reverse | sort: 'month' | reverse %}
+{% assign publication_by_type = publication_by_type | sort: 'year' %}
+{% assign publication_by_type = publication_by_type | sort: 'month' %}
 
 {% if include.context == 'publist' %}
-<h3 id="{{ type }}">{{ include.type_names[type] }}</h3>
+<h2 id="{{ type }}">{{ include.type_names[type] }}</h2>
 <ol class="publication-list">
-{% for publication in publication_by_type %}
-<li class="publication-item">
-<span class="author-list">{{ publication.author | replace: ';', ',' }}</span>,
-{% if publication.link %}
-<a href="{{ publication.link }}">{{ publication.title }}</a>
-{% else %}
-{{ publication.title }}
-{% endif %}
-<br/>
-{% if publication.publication %}
-<em>{{ publication.publication }}</em>
-{% if publication.publication_abbr %} ({{ publication.publication_abbr }}){% endif %}
-<br/>
-{% endif %}
-{% if publication.month_str %}
-{{ publication.month_str }}
-{% endif %}
-{{ publication.year }}
-<br/>
-{% if publication.pages %}
-<strong>Pages:</strong> {{ publication.pages }}
-{% endif %}
-</li>
-{% endfor %}
+	{% for publication in publication_by_type %}
+	<li class="publication-item">
+		{% assign authors = publication.author | replace: ';', ',' %}
+		{% assign authors = authors | replace: 'Takuya Sasatani', '<strong>Takuya Sasatani</strong>' %}
+		{% assign authors = authors | replace: '笹谷拓也', '<strong>笹谷拓也</strong>' %}
+		<span class="author-list">{{ authors | safe }}</span>
+		{% if publication.month_str %}
+		({{ publication.month_str }}
+		{% else %}
+		(
+		{% endif %}
+		{{ publication.year }})
+		<br />
+		{% if publication.link %}
+		<a href="{{ publication.link }}">{{ publication.title }}</a>
+		{% else %}
+		{{ publication.title }}
+		{% endif %}
+		<br />
+		{% if publication.publication %}
+		<em>{{ publication.publication }}</em>
+		{% if publication.publication_abbr %} ({{ publication.publication_abbr }}){% endif %}
+		{% endif %}
+
+	</li>
+	{% endfor %}
 </ol>
 {% endif %}
 
 {% if include.context == 'cv' %}
 <div class="row">
-<div class="col-md-2 cv-pub-category">
-{{ include.type_names[type] }}
-</div>
-<div class="col-md-10 cv-list">
-<ol class="publication-list">
-{% for publication in publication_by_type %}
-<li class="publication-item">
-<span class="author-list">{{ publication.author | replace: ';', ',' }}</span>,
-{% if publication.link %}
-	<a href="{{ publication.link }}">{{ publication.title }}</a>
-{% else %}
-	{{ publication.title }}
-{% endif %}
-<em>{{ publication.publication }}</em>
-{% if publication.publication_abbr %} ({{ publication.publication_abbr }}){% endif %}
-.
-{% if publication.month_str %}
-	{{ publication.month_str }}
-{% endif %}
-{{ publication.year }}.
-{% if publication.pages %}
-	pp. {{ publication.pages }}.
-{% endif %}
-<br/>
-</li>
-{% endfor %}
-</ol>
-</div>
+	<div class="col-md-2 cv-pub-category">
+		{{ include.type_names[type] }}
+	</div>
+	<div class="col-md-10 cv-list">
+		<ol class="publication-list">
+			{% for publication in publication_by_type %}
+			<li class="publication-item">
+				{% assign authors = publication.author | replace: ';', ',' %}
+				{% assign authors = authors | replace: 'Takuya Sasatani', '<strong>Takuya Sasatani</strong>' %}
+				{% assign authors = authors | replace: '笹谷拓也', '<strong>笹谷拓也</strong>' %}
+				<span class="author-list">{{ authors | safe }},</span>
+				{% if publication.link %}
+				"<a href="{{ publication.link }}">{{ publication.title }}</a>"
+				{% else %}
+				"{{ publication.title }}"
+				{% endif %}
+				<em>{{ publication.publication }}</em>
+				{% if publication.publication_abbr %} ({{ publication.publication_abbr }}){% endif %}
+				.
+				{% if publication.volume %}
+				Vol. {{ publication.volume }},
+				{% endif %}
+
+				{% if publication.number %}
+				No. {{ publication.number }},
+				{% endif %}
+
+				{% if publication.article %}
+				Article {{ publication.article }},
+				{% endif %}
+
+				{% if publication.pages %}
+				pp. {{ publication.pages }},
+				{% endif %}
+
+				{% if publication.city %}
+				{{ publication.city }},
+				{% endif %}
+
+				{% if publication.month_str %}
+				{{ publication.month_str }}
+				{% endif %}
+				{{ publication.year }}.
+
+				{% if publication.to_appear %}
+				To appear.
+				{% endif %}
+
+				{% if publication.note %}
+				<div class="pub-note">{{ publication.note }}</div>
+				{% endif %}
+				<br />
+			</li>
+			{% endfor %}
+		</ol>
+	</div>
 </div>
 {% endif %}
 {% endif %}

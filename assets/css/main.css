@@ -8,15 +8,15 @@ body {
 
 h1 {
   font-weight: 800; /* Heavy for headings */
-  font-size: 2em; /* Adjust the size as needed */
-  margin-top: 10pt;
+  font-size: 1.5em; /* Adjust the size as needed */
+  margin-top: 30pt;
   margin-bottom: 10pt;
 }
 
 h2 {
   font-weight: 800; /* Heavy for headings */
-  font-size: 1em; /* Adjust the size as needed */
-  margin-top: 10pt;
+  font-size: 1.2em; /* Adjust the size as needed */
+  margin-top: 30pt;
   margin-bottom: 10pt;
 }
 
@@ -43,6 +43,18 @@ h3 {
   font-weight: 800; /* Heavy for headings */
   font-size: 1em; /* Adjust the size as needed */
   margin-top: 10pt;
+}
+
+/* Remove margin for the table of contents */
+.pub-toc {
+  margin: 0; /* Remove margin around the <ul> */
+  padding: 0; /* Optionally remove padding */
+  list-style-type: none; /* Remove bullet points if desired */
+}
+
+.pub-toc li {
+  margin: 0; /* Remove margin around <li> elements */
+  padding: 0 0; /* Optionally adjust padding */
 }
 
 ol {
@@ -95,8 +107,14 @@ p {
   margin-right: 5px;
 }
 
+.ts-profile {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
 .project-item {
-  margin-top: 20px;
+  margin-top: 40px;
+  margin-bottom: 20px;
 }
 
 .bio-contact {

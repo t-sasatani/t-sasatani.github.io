@@ -1,13 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Home
 layout: default
 ---
 {% assign debug = false %}
 
 <div class="container">
-  <div class="row">
+  <div class="row ts-profile">
     <div class="col-md-4">
       <div class="photo">
         <img
@@ -29,7 +27,8 @@ layout: default
       </div>
     </div>
   </div>
-
+  <hr>
+  <h2>Selected projects</h2>
   <div class=" container projects-list">
     {% for publication in site.data.publication %}
       {% if publication.thumbnail %}

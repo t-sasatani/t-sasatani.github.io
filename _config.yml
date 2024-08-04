@@ -44,6 +44,10 @@ navigation:
     url: "/publications/"
   - title: "CV"
     url: "/cv/"
+  - title: "Google Scholar"
+    url: "https://scholar.google.com/citations?user=vuvZTKwAAAAJ&hl=en"
+  - title: "GitHub"
+    url: "https://github.com/t-sasatani"
 
 sass:
   style: compressed # Optional, you can use :expanded or :compressed styles

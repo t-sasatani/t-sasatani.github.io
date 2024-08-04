@@ -1,553 +1,801 @@
 ---
-- _identifier: sasatani2023sfn
+- title: Untethering open-source Miniscopes with wireless power and data transfer
+  publication: Neuroscience 2023
+  publication_abbr: SfN
   type: conference-en-adjunct
+  thumbnail: sasatani2023sfn.gif
+  _time: 2023-11
   author: Takuya Sasatani; Marcel Brosch; Zhe Dong; Federico Sangiuliano Jimka; Megah
     Sehgal; Hemal Semwal; Aparajeeta Guha; Hamid Chorsi; Karina Keus; Blake Madruga;
     Daniel Aharoni
-  title: Untethering open-source Miniscopes with wireless power and data transfer
-  publication: Neuroscience 2023
-  publication_abbr: SfN 2023
   link: 
-  _time: 2023-11
   year: '2023'
   month: '11'
   month_str: November
   volume: 
   Issue: 
   number: 
+  article: 
   pages: 
   city: Washington D.C., USA
-  thumbnail: wlms.gif
   to_appear: 
   _priority: '10'
-- _identifier: sasatani2021room
-  type: journal-en
-  author: Takuya Sasatani; Alanson P. Sample; Yoshihiro Kawahara
-  title: Room-scale magnetoquasistatic wireless power transfer using a cavity-based
+- title: Room-scale magnetoquasistatic wireless power transfer using a cavity-based
     multimode resonator
   publication: Nature Electronics
   publication_abbr: 
-  link: https://doi.org/10.1038/s41928-021-00636-3
+  type: journal-en
+  thumbnail: sasatani2021nat.gif
   _time: 2021-8
+  author: Takuya Sasatani; Alanson P. Sample; Yoshihiro Kawahara
+  link: https://doi.org/10.1038/s41928-021-00636-3
   year: '2021'
   month: '8'
   month_str: August
   volume: '4'
   Issue: 
   number: '9'
+  article: 
   pages: 689 - 697
   city: 
-  thumbnail: mqscr.gif
   to_appear: 
   _priority: '10'
-- _identifier: iizuka2023millisign
-  type: conference-en-full
-  author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; Takuya
-    Sasatani
-  title: 'MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility
+- title: 'MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility
     Conditions'
   publication: Proceedings of the 29th Annual International Conference on Mobile Computing
     and Networking
-  publication_abbr: ACM MobiCom '23
-  link: https://doi.org/10.1145/3570361.3613264
+  publication_abbr: ACM MobiCom
+  type: conference-en-full
+  thumbnail: iizuka2023mobicom.gif
   _time: 2023-10
+  author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; Takuya
+    Sasatani
+  link: https://doi.org/10.1145/3570361.3613264
   year: '2023'
   month: '10'
   month_str: October
   volume: 
   Issue: 
   number: 
+  article: 
   pages: 1 - 15
-  city: 
-  thumbnail: 
+  city: Madrid, Spain
   to_appear: 
   _priority: '2'
-- _identifier: 
-  type: invited
-  author: Takuya Sasatani
-  title: 'Untethering Discovery: wireless power for mobile sensing and neuroscience'
-  publication: GCL/IIW workshop
-  publication_abbr: 
-  link: 
-  _time: 2024-6
-  year: '2024'
-  month: '6'
-  month_str: June
-  volume: 
-  Issue: 
-  number: 
-  pages: 
-  city: 
-  thumbnail: 
-  to_appear: 
-  _priority: 
-- _identifier: 
-  type: conference-jp
-  author: 小林莉久; 金潭延; 本庄祐一; 川原圭博; 笹谷拓也
-  title: 再構成可能な二次元無線給電システムにおける中継共振器損失の影響の解析
+- title: 再構成可能な二次元無線給電システムにおける中継共振器損失の影響の解析
   publication: 電子情報通信学会ソサイエティ大会
-  publication_abbr: 信学ソ大 2024
-  link: 
+  publication_abbr: 信学ソ大
+  type: conference-jp
+  thumbnail: 
   _time: 2024-9
+  author: 小林莉久; 金潭延; 本庄祐一; 川原圭博; 笹谷拓也
+  link: 
   year: '2024'
   month: '9'
   month_str: September
   volume: 
   Issue: 
   number: 
+  article: 
   pages: 
   city: 
-  thumbnail: 
   to_appear: 'TRUE'
   _priority: 
-- _identifier: honjo2024suppressing
-  type: journal-en
-  author: Yuichi Honjo; Cedric Caremel; Yoshihiro Kawahara; Takuya Sasatani
-  title: Suppressing Leakage Magnetic Field in Wireless Power Transfer Using Halbach
-    Array-Based Resonators
-  publication: "IEEE Antennas and Wireless Propagation Letters\r"
+- title: 'Untethering Discovery: wireless power for mobile sensing and neuroscience'
+  publication: GCL/IIW workshop
   publication_abbr: 
-  link: https://doi.org/10.1109/lawp.2023.3318244
-  _time: 2024-1
-  year: '2024'
-  month: '1'
-  month_str: January
-  volume: '23'
-  Issue: '1'
-  number: 
-  pages: 94 - 98
-  city: 
+  type: invited
   thumbnail: 
+  _time: 2024-6
+  author: Takuya Sasatani
+  link: 
+  year: '2024'
+  month: '6'
+  month_str: June
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  city: 
   to_appear: 
   _priority: 
-- _identifier: mita2023poster
-  type: conference-en-adjunct
-  author: Yukiya Mita; Hiroaki Murakami; Takuya Sasatani; Matthew Ishige; Yoshihiro
-    Kawahara
-  title: 'Poster Abstract: Enhancing Fingerprint-based Smartphone Localization Using
+- title: 'Poster Abstract: Enhancing Fingerprint-based Smartphone Localization Using
     Acoustic Time-of-Flight for Complex Indoors'
   publication: "Proceedings of the 21st ACM Conference on Embedded Networked Sensor
     Systems\r"
-  publication_abbr: ACM SenSys '23
-  link: https://doi.org/10.1145/3625687.3629535
+  publication_abbr: ACM SenSys
+  type: conference-en-adjunct
+  thumbnail: 
   _time: 2024-4
+  author: Yukiya Mita; Hiroaki Murakami; Takuya Sasatani; Matthew Ishige; Yoshihiro
+    Kawahara
+  link: https://doi.org/10.1145/3625687.3629535
   year: '2024'
   month: '4'
   month_str: April
   volume: 
   Issue: 
   number: 
+  article: 
   pages: 548 - 549
   city: Istanbul, Turkiye
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: 
-  type: tutorial
-  author: 笹谷拓也
-  title: 'ACT-X: 学びと加速の三年半'
+- title: Suppressing Leakage Magnetic Field in Wireless Power Transfer Using Halbach
+    Array-Based Resonators
+  publication: "IEEE Antennas and Wireless Propagation Letters\r"
+  publication_abbr: 
+  type: journal-en
+  thumbnail: honjo2023awpl.jpg
+  _time: 2024-1
+  author: Yuichi Honjo; Cedric Caremel; Yoshihiro Kawahara; Takuya Sasatani
+  link: https://doi.org/10.1109/lawp.2023.3318244
+  year: '2024'
+  month: '1'
+  month_str: January
+  volume: '23'
+  Issue: '1'
+  number: 
+  article: 
+  pages: 94 - 98
+  city: 
+  to_appear: 
+  _priority: 
+- title: 'ACT-X: 学びと加速の三年半'
   publication: 日本バーチャルリアリティ学会誌
-  publication_abbr: SfN 2023
-  link: https://doi.org/10.18974/jvrsj.28.2_14
+  publication_abbr: 
+  type: tutorial
+  thumbnail: 
   _time: 2023-7
+  author: 笹谷拓也
+  link: https://doi.org/10.18974/jvrsj.28.2_14
   year: '2023'
   month: '7'
   month_str: July
   volume: '28'
   Issue: 
   number: '2'
+  article: 
   pages: 14 - 16
   city: 
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: iizuka2023trimmed
-  type: journal-en
-  author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; Takuya
-    Sasatani
-  title: Trimmed Aperture Corner Reflector for Angle-Selective Chipless RFID
+- title: Trimmed Aperture Corner Reflector for Angle-Selective Chipless RFID
   publication: "IEEE Antennas and Wireless Propagation Letters\r"
   publication_abbr: 
-  link: https://doi.org/10.1109/lawp.2023.3294940
+  type: journal-en
+  thumbnail: iizuka2023awpl.png
   _time: 2023-7
+  author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; Takuya
+    Sasatani
+  link: https://doi.org/10.1109/lawp.2023.3294940
   year: '2023'
   month: '7'
   month_str: July
   volume: '22'
   Issue: '10'
   number: 
+  article: 
   pages: 2437 - 2541
   city: 
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: zhang2023finger
-  type: conference-en-adjunct
-  author: Yuke Zhang; Ken Takaki; Hiroaki Murakami; Takuya Sasatani; Yoshihiro Kawahara
-  title: Toward Continuous Finger Positioning on Ear Using Bone Conduction Speaker
+- title: Toward Continuous Finger Positioning on Ear Using Bone Conduction Speaker
   publication: Proceedings of the 20th ACM Conference on Embedded Networked Sensor
     Systems
-  publication_abbr: ACM SenSys '22
-  link: https://doi.org/10.1145/3560905.3568075
+  publication_abbr: ACM SenSys
+  type: conference-en-adjunct
+  thumbnail: 
   _time: 2023-1
+  author: Yuke Zhang; Ken Takaki; Hiroaki Murakami; Takuya Sasatani; Yoshihiro Kawahara
+  link: https://doi.org/10.1145/3560905.3568075
   year: '2023'
   month: '1'
   month_str: January
   volume: 
   Issue: 
   number: 
+  article: 
   pages: 847 - 848
   city: New York, NY, USA
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: sasatani2022geometry
-  type: journal-en
-  author: Takuya Sasatani; Matthew Chabalko; Yoshihiro Kawahara; Alanson Sample
-  title: Geometry-Based Circuit Modeling of Quasi-Static Cavity Resonators for Wireless
+- title: Geometry-Based Circuit Modeling of Quasi-Static Cavity Resonators for Wireless
     Power Transfer
   publication: IEEE Open Journal of Power Electronics
   publication_abbr: 
-  link: https://doi.org/10.1109/ojpel.2022.3183600
+  type: journal-en
+  thumbnail: sasatani2022ojpel.jpg
   _time: 2022-6
+  author: Takuya Sasatani; Matthew Chabalko; Yoshihiro Kawahara; Alanson Sample
+  link: https://doi.org/10.1109/ojpel.2022.3183600
   year: '2022'
   month: '6'
   month_str: June
   volume: '3'
   Issue: 
   number: 
+  article: 
   pages: 382 - 390
   city: 
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: morita2021surface
-  type: journal-en
-  author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; Yoshihiro Kawahara
-  title: Surface Routing for Wireless Power Transfer Using 2-D Relay Resonator Arrays
-  publication: IEEE Access
-  publication_abbr: 
-  link: https://doi.org/10.1109/access.2021.3115143
-  _time: 2021-9
-  year: '2021'
-  month: '9'
-  month_str: September
-  volume: '9'
-  Issue: 
-  number: 
-  pages: 133102 - 133110
-  city: 
-  thumbnail: 
-  to_appear: 
-  _priority: 
-- _identifier: takahashi2021twin
-  type: journal-en
-  author: Ryo Takahashi; Wakako Yukita; Takuya Sasatani; Tomoyuki Yokota; Takao Someya;
-    Yoshihiro Kawahara
-  title: 'Twin Meander Coil: Sensitive Readout of Battery-free On-body Wireless Sensors
+- title: 'Twin Meander Coil: Sensitive Readout of Battery-free On-body Wireless Sensors
     Using Body-scale Meander Coils'
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies
-  publication_abbr: ACM IMWUT '21
-  link: https://doi.org/10.1145/3494996
+  publication_abbr: ACM IMWUT
+  type: journal-en
+  thumbnail: takahashi2021imwut.gif
   _time: 2021-12
+  author: Ryo Takahashi; Wakako Yukita; Takuya Sasatani; Tomoyuki Yokota; Takao Someya;
+    Yoshihiro Kawahara
+  link: https://doi.org/10.1145/3494996
   year: '2021'
   month: '12'
   month_str: December
   volume: '5'
   Issue: '4'
   number: '179'
+  article: 
   pages: 1 - 21
   city: 
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: chen2021wireless
+- title: Surface Routing for Wireless Power Transfer Using 2-D Relay Resonator Arrays
+  publication: IEEE Access
+  publication_abbr: 
   type: journal-en
-  author: Lai Chen; Takuya Sasatani; Keung Or; Satoshi Nishikawa; Yoshihiro Kawahara;
-    Ryuma Niiyama; Yasuo Kuniyoshi
-  title: Wireless Powered Dielectric Elastomer Actuator
+  thumbnail: morita2021access.png
+  _time: 2021-9
+  author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; Yoshihiro Kawahara
+  link: https://doi.org/10.1109/access.2021.3115143
+  year: '2021'
+  month: '9'
+  month_str: September
+  volume: '9'
+  Issue: 
+  number: 
+  article: 
+  pages: 133102 - 133110
+  city: 
+  to_appear: 
+  _priority: 
+- title: Wireless Powered Dielectric Elastomer Actuator
   publication: IEEE Robotics and Automation Letters
   publication_abbr: 
-  link: https://doi.org/10.1109/lra.2021.3097271
+  type: journal-en
+  thumbnail: 
   _time: 2021-7
+  author: Lai Chen; Takuya Sasatani; Keung Or; Satoshi Nishikawa; Yoshihiro Kawahara;
+    Ryuma Niiyama; Yasuo Kuniyoshi
+  link: https://doi.org/10.1109/lra.2021.3097271
   year: '2021'
   month: '7'
   month_str: July
   volume: '6'
   Issue: '4'
   number: 
+  article: 
   pages: 7278 - 7284
   city: 
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: kadomoto2021cooperated
-  type: journal-en
-  author: Junichiro Kadomoto; Takuya Sasatani; Koya Narumi; Naoto Usami; Hidetsugu
-    Irie; Shuichi Sakai; Yoshihiro Kawahara
-  title: Toward Wirelessly Cooperated Shape-Changing Computing Particles
+- title: Toward Wirelessly Cooperated Shape-Changing Computing Particles
   publication: IEEE Pervasive Computing
   publication_abbr: 
-  link: https://doi.org/10.1109/mprv.2021.3086035
+  type: journal-en
+  thumbnail: kadomoto2021pervasive.png
   _time: 2021-6
+  author: Junichiro Kadomoto; Takuya Sasatani; Koya Narumi; Naoto Usami; Hidetsugu
+    Irie; Shuichi Sakai; Yoshihiro Kawahara
+  link: https://doi.org/10.1109/mprv.2021.3086035
   year: '2021'
   month: '6'
   month_str: June
   volume: '20'
   Issue: 
   number: '3'
+  article: 
   pages: 9 - 17
   city: 
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: hayashi2020effect
-  type: conference-en-fullpaper
-  author: Hiromasa Hayashi; Katsuhiro Hata; Takuya Sasatani; Hiroki Sato; Ryosuke
-    Yamamura; Young ah Seong; Ryuma Niiyama; Yoshihiro Kawahara
-  title: Effect of body materials on transmission efficiency and resonant frequency
-    in wirelessly powered personal mobility devices
-  publication: 2020 IEEE Wireless Power Transfer Conference
-  publication_abbr: IEEE WPTC 2020
-  link: https://doi.org/10.1109/WPTC48563.2020.9295533
-  _time: 2020-11
-  year: '2020'
-  month: '11'
-  month_str: November
-  volume: 
-  Issue: 
-  number: 
-  pages: 183 - 186
-  city: Seoul, Korea (South)
-  thumbnail: 
-  to_appear: 
-  _priority: 
-- _identifier: sasatani2020genetic
-  type: journal-en
-  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara
-  title: Genetic Algorithm-Based Receiving Resonator Array Design for Wireless Power
+- title: Genetic Algorithm-Based Receiving Resonator Array Design for Wireless Power
     Transfer
   publication: IEEE Access
   publication_abbr: 
-  link: https://doi.org/10.1109/access.2020.3044224
+  type: journal-en
+  thumbnail: sasatani2020access.jpg
   _time: 2020-12
+  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara
+  link: https://doi.org/10.1109/access.2020.3044224
   year: '2020'
   month: '12'
   month_str: December
   volume: 
   Issue: 
   number: 
+  article: 
   pages: 222385 - 222396
   city: 
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: takahashi2020ring
-  type: conference-en-fullpaper
-  author: Ryo Takahashi; Masaaki Fukumoto; Changyo Han; Takuya Sasatani; Yoshiaki
-    Narusue; Yoshihiro Kawahara
-  title: 'TelemetRing: A batteryless and wireless ring-shaped keyboard using passive
-    inductive telemetry'
-  publication: "Proceedings of the 33rd Annual ACM Symposium on User Interface Software
-    and Technology\r"
-  publication_abbr: ACM UIST '20
-  link: https://doi.org/10.1145/3379337.3415873
-  _time: 2020-10
-  year: '2020'
-  month: '10'
-  month_str: October
-  volume: 
-  Issue: 
-  number: 
-  pages: 1161 - 1168
-  city: Virtual
-  thumbnail: 
-  to_appear: 
-  _priority: 
-- _identifier: kawahara2020iot
-  type: conference-en-fullpaper
-  author: Yoshihiro Kawahara; Takuya Sasatani
-  title: Wireless power transfer for internet of things
+- title: Wireless power transfer for internet of things
   publication: International Electron Devices Meeting
   publication_abbr: IEEE IEDM
-  link: https://doi.org/10.1109/iedm13553.2020.9371927
+  type: conference-en-full
+  thumbnail: 
   _time: 2020-12
+  author: Yoshihiro Kawahara; Takuya Sasatani
+  link: https://doi.org/10.1109/iedm13553.2020.9371927
   year: '2020'
   month: '12'
   month_str: December
   volume: 
   Issue: 
   number: 
+  article: 
   pages: 37.6.1 - 37.6.4
   city: San Francisco, CA, USA
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: takaki2020glass
-  type: conference-en-fullpaper
-  author: Ken Takaki; Takuya Sasatani; Hironobu Kasashima; Yoshihiro Kawahara; Takeshi
-    Naemura
-  title: Coil design for wireless power transfer and communication over hinges of
-    smart glasses
-  publication: Proceedings of the 2020 International Symposium on Wearable Computers
-  publication_abbr: ISWC '20
-  link: https://doi.org/10.1145/3410531.3414299
-  _time: 2020-9
-  year: '2020'
-  month: '9'
-  month_str: September
-  volume: 
-  Issue: 
-  number: 
-  pages: 79 - 83
-  city: Virtual Event, Mexico
-  thumbnail: 
-  to_appear: 
-  _priority: 
-- _identifier: nishizawa2020ramus
-  type: journal-en
-  author: Yuki Nishizawa; Takuya Sasatani; Matthew Ishige; Yoshiaki Narusue; Takuya
-    Umedachi; Yoshihiro Kawahara
-  title: 'Ramus: A Frequency-Multiplexed Power Bus for Powering, Sensing and Controlling
-    Robots'
-  publication: IEEE Robotics and Automation Letters
-  publication_abbr: 
-  link: https://doi.org/10.1109/lra.2020.2988176
-  _time: 2020-7
-  year: '2020'
-  month: '7'
-  month_str: July
-  volume: '5'
-  Issue: '3'
-  number: 
-  pages: 4126 - 4132
-  city: 
-  thumbnail: 
-  to_appear: 
-  _priority: 
-- _identifier: yoshida2020infants
-  type: journal-en
-  author: Sachine Yoshida; Yoshihiro Kawahara; Takuya Sasatani; Ken Kiyono; Yo Kobayashi;
-    Hiromasa Funato
-  title: Infants Show Physiological Responses Specific to Parental Hugs
-  publication: iScience
-  publication_abbr: 
-  link: https://doi.org/10.1016/j.isci.2020.100996
-  _time: 2020-4
-  year: '2020'
-  month: '4'
-  month_str: April
-  volume: '23'
-  Issue: '4'
-  number: '100996'
-  pages: 
-  city: 
-  thumbnail: 
-  to_appear: 
-  _priority: 
-- _identifier: colm2020catarpillar
-  type: journal-en
-  author: Colm Mc Caffrey; Takuya Umedachi; Weiwei Jiang; Takuya Sasatani; Yoshiaki
-    Narusue; Ryuma Niiyama; Yoshihiro Kawahara
-  title: Continuum Robotic Caterpillar with Wirelessly Powered Shape Memory Alloy
+- title: Continuum Robotic Caterpillar with Wirelessly Powered Shape Memory Alloy
     Actuators
   publication: Soft Robotics
   publication_abbr: 
-  link: https://doi.org/10.1089/soro.2019.0090
+  type: journal-en
+  thumbnail: colm2020soro.gif
   _time: 2020-12
+  author: Colm Mc Caffrey; Takuya Umedachi; Weiwei Jiang; Takuya Sasatani; Yoshiaki
+    Narusue; Ryuma Niiyama; Yoshihiro Kawahara
+  link: https://doi.org/10.1089/soro.2019.0090
   year: '2020'
   month: '12'
   month_str: December
   volume: '7'
   Issue: 
   number: '6'
+  article: 
   pages: 700 - 710
   city: 
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: cheng2020silvertape
+- title: Effect of body materials on transmission efficiency and resonant frequency
+    in wirelessly powered personal mobility devices
+  publication: 2020 IEEE Wireless Power Transfer Conference
+  publication_abbr: IEEE WPTC
+  type: conference-en-full
+  thumbnail: 
+  _time: 2020-11
+  author: Hiromasa Hayashi; Katsuhiro Hata; Takuya Sasatani; Hiroki Sato; Ryosuke
+    Yamamura; Young ah Seong; Ryuma Niiyama; Yoshihiro Kawahara
+  link: https://doi.org/10.1109/WPTC48563.2020.9295533
+  year: '2020'
+  month: '11'
+  month_str: November
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 183 - 186
+  city: Seoul, Korea (South)
+  to_appear: 
+  _priority: 
+- title: 'TelemetRing: A batteryless and wireless ring-shaped keyboard using passive
+    inductive telemetry'
+  publication: "Proceedings of the 33rd Annual ACM Symposium on User Interface Software
+    and Technology\r"
+  publication_abbr: ACM UIST
+  type: conference-en-full
+  thumbnail: takahashi2020uist.gif
+  _time: 2020-10
+  author: Ryo Takahashi; Masaaki Fukumoto; Changyo Han; Takuya Sasatani; Yoshiaki
+    Narusue; Yoshihiro Kawahara
+  link: https://doi.org/10.1145/3379337.3415873
+  year: '2020'
+  month: '10'
+  month_str: October
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 1161 - 1168
+  city: Virtual
+  to_appear: 
+  _priority: 
+- title: Coil design for wireless power transfer and communication over hinges of
+    smart glasses
+  publication: Proceedings of the 2020 International Symposium on Wearable Computers
+  publication_abbr: ISWC
+  type: conference-en-full
+  thumbnail: takaki2020iswc.png
+  _time: 2020-9
+  author: Ken Takaki; Takuya Sasatani; Hironobu Kasashima; Yoshihiro Kawahara; Takeshi
+    Naemura
+  link: https://doi.org/10.1145/3410531.3414299
+  year: '2020'
+  month: '9'
+  month_str: September
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 79 - 83
+  city: Virtual Event, Mexico
+  to_appear: 
+  _priority: 
+- title: 'Ramus: A Frequency-Multiplexed Power Bus for Powering, Sensing and Controlling
+    Robots'
+  publication: IEEE Robotics and Automation Letters
+  publication_abbr: 
   type: journal-en
-  author: Tingyu Cheng; Koya Narumi; Youngwook Do; Yang Zhang; Tung D. Ta; Takuya
-    Sasatani; Eric Markvicka; Yoshihiro Kawahara; Lining Yao; Gregory D. Abowd; HyunJoo
-    Oh
-  title: 'Silver Tape: Inkjet-Printed Circuits Peeled-and-Transferred on Versatile
+  thumbnail: nishizawa2020ral.png
+  _time: 2020-7
+  author: Yuki Nishizawa; Takuya Sasatani; Matthew Ishige; Yoshiaki Narusue; Takuya
+    Umedachi; Yoshihiro Kawahara
+  link: https://doi.org/10.1109/lra.2020.2988176
+  year: '2020'
+  month: '7'
+  month_str: July
+  volume: '5'
+  Issue: '3'
+  number: 
+  article: 
+  pages: 4126 - 4132
+  city: 
+  to_appear: 
+  _priority: 
+- title: Infants Show Physiological Responses Specific to Parental Hugs
+  publication: iScience
+  publication_abbr: 
+  type: journal-en
+  thumbnail: yoshida2020iscience.png
+  _time: 2020-4
+  author: Sachine Yoshida; Yoshihiro Kawahara; Takuya Sasatani; Ken Kiyono; Yo Kobayashi;
+    Hiromasa Funato
+  link: https://doi.org/10.1016/j.isci.2020.100996
+  year: '2020'
+  month: '4'
+  month_str: April
+  volume: '23'
+  Issue: '4'
+  number: '100996'
+  article: 
+  pages: 
+  city: 
+  to_appear: 
+  _priority: 
+- title: 'Silver Tape: Inkjet-Printed Circuits Peeled-and-Transferred on Versatile
     Substrates'
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies
-  publication_abbr: ACM IMWUT '20
-  link: https://doi.org/10.1145/3381013
+  publication_abbr: ACM IMWUT
+  type: journal-en
+  thumbnail: tingyu2020imwut.gif
   _time: 2020-3
+  author: Tingyu Cheng; Koya Narumi; Youngwook Do; Yang Zhang; Tung D. Ta; Takuya
+    Sasatani; Eric Markvicka; Yoshihiro Kawahara; Lining Yao; Gregory D. Abowd; HyunJoo
+    Oh
+  link: https://doi.org/10.1145/3381013
   year: '2020'
   month: '3'
   month_str: March
   volume: '4'
   Issue: '1'
   number: '6'
+  article: 
   pages: 1 - 17
   city: 
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: morita2020topology
-  type: conference-en-fullpaper
-  author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; Yoshihiro Kawahara
-  title: Topology Construction Protocol for Wireless Power Transfer System with a
+- title: Topology Construction Protocol for Wireless Power Transfer System with a
     2-D Relay Resonator Array
   publication: 2020 IEEE International Conference on Consumer Electronics
-  publication_abbr: IEEE ICCE '20
-  link: https://doi.org/10.1109/icce46568.2020.9043052
+  publication_abbr: IEEE ICCE
+  type: conference-en-full
+  thumbnail: 
   _time: 2020-1
+  author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; Yoshihiro Kawahara
+  link: https://doi.org/10.1109/icce46568.2020.9043052
   year: '2020'
   month: '1'
   month_str: January
   volume: 
   Issue: 
   number: 
+  article: 
   pages: 1 - 5
   city: 
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: hayashi2019design
-  type: conference-en-fullpaper
-  author: Hiromasa Hayashi; Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara
-  title: Design of Wireless Power Transfer Systems for Personal Mobility Devices in
+- title: Design of Wireless Power Transfer Systems for Personal Mobility Devices in
     City Spaces
   publication: 2019 IEEE 90th Vehicular Technology Conference
-  publication_abbr: VTC2019-Fall
-  link: https://doi.org/10.1109/vtcfall.2019.8891268
+  publication_abbr: IEEE VTC
+  type: conference-en-full
+  thumbnail: hayashi2019vtc.png
   _time: 2019-9
+  author: Hiromasa Hayashi; Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara
+  link: https://doi.org/10.1109/vtcfall.2019.8891268
   year: '2019'
   month: '9'
   month_str: September
   volume: 
   Issue: 
   number: 
+  article: 
   pages: 1 - 5
   city: 
-  thumbnail: 
   to_appear: 
   _priority: 
-- _identifier: sumiya2019alvus
-  type: journal-en
-  author: Kazunobu Sumiya; Takuya Sasatani; Yuki Nishizawa; Kenji Tsushio; Yoshiaki
-    Narusue; Yoshihiro Kawahara
-  title: 'Alvus: A Reconfigurable 2-D Wireless Charging System'
+- title: 'Alvus: A Reconfigurable 2-D Wireless Charging System'
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies
-  publication_abbr: ACM IMWUT '19
-  link: https://doi.org/10.1145/3332533
+  publication_abbr: ACM IMWUT
+  type: journal-en
+  thumbnail: sumiya2019imwut.gif
   _time: 2019-6
+  author: Kazunobu Sumiya; Takuya Sasatani; Yuki Nishizawa; Kenji Tsushio; Yoshiaki
+    Narusue; Yoshihiro Kawahara
+  link: https://doi.org/10.1145/3332533
   year: '2019'
   month: '6'
   month_str: June
   volume: '3'
-  Issue: '2'
-  number: '68'
+  Issue: 
+  number: '2'
+  article: '68'
   pages: 1 - 29
   city: 
-  thumbnail: 
   to_appear: 
+  _priority: 
+- title: Room-Wide Wireless Charging and Load-Modulation Communication via Quasistatic
+    Cavity Resonance
+  publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  publication_abbr: ACM IMWUT
+  type: journal-en
+  thumbnail: sasatani2018imwut.jpg
+  _time: 2018-12
+  author: Takuya Sasatani; Chouchang Jack Yang; Matthew J. Chabalko; Yoshihiro Kawahara;
+    Alanson P. Sample
+  link: https://doi.org/10.1145/3287066
+  year: '2018'
+  month: '12'
+  month_str: December
+  volume: '2'
+  Issue: 
+  number: '4'
+  article: '188'
+  pages: 1 - 23
+  city: 
+  to_appear: 
+  _priority: 
+- title: A Cuttable Wireless Power Transfer Sheet
+  publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  publication_abbr: ACM IMWUT
+  type: journal-en
+  thumbnail: takahashi2018imwut.gif
+  _time: 2018-12
+  author: Ryo Takahashi; Takuya Sasatani; Fuminori Okuya; Yoshiaki Narusue; Yoshihiro
+    Kawahara
+  link: https://doi.org/10.1145/3287068
+  year: '2018'
+  month: '12'
+  month_str: December
+  volume: '2'
+  Issue: 
+  number: '4'
+  article: '190'
+  pages: 1 - 25
+  city: 
+  to_appear: 
+  _priority: 
+- title: Design of Cuttable Wireless Power Transfer Sheet
+  publication: Proceedings of the 2018 ACM International Joint Conference on Pervasive
+    and Ubiquitous Computing
+  publication_abbr: ACM UbiComp
+  type: conference-en-adjunct
+  thumbnail: 
+  _time: 2018-10
+  author: Ryo Takahashi; Takuya Sasatani; Fuminori Okuya; Yoshiaki Narusue; Yoshihiro
+    Kawahara
+  link: https://doi.org/10.1145/3267305.3267570
+  year: '2018'
+  month: '10'
+  month_str: October
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 456 - 459
+  city: Singapore, Singapore
+  to_appear: 
+  _priority: 
+- title: A Reconfigurable 2-D Wireless Charging System
+  publication: Proceedings of the 2018 ACM International Joint Conference on Pervasive
+    and Ubiquitous Computing
+  publication_abbr: ACM UbiComp
+  type: conference-en-adjunct
+  thumbnail: 
+  _time: 2018-10
+  author: Kazunobu Sumiya; Takuya Sasatani; Yuki Nishizawa; Kenji Tsushio; Yoshiaki
+    Narusue; Yoshihiro Kawahara
+  link: https://doi.org/10.1145/3267305.3267632
+  year: '2018'
+  month: '10'
+  month_str: October
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 452 - 455
+  city: Singapore, Singapore
+  to_appear: 
+  _priority: 
+- title: 3-D Wireless Charging for Indoor Electronics Using Multimode Quasistatic
+    Cavity Resonators
+  publication: Proceedings of the 2018 ACM International Joint Conference on Pervasive
+    and Ubiquitous Computing
+  publication_abbr: ACM UbiComp`
+  type: conference-en-adjunct
+  thumbnail: 
+  _time: 2018-10
+  author: Takuya Sasatani; Alanson P. Sample; Yoshihiro Kawahara
+  link: https://doi.org/10.1145/3267305.3267571
+  year: '2018'
+  month: '10'
+  month_str: October
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 444 - 447
+  city: Singapore, Singapore
+  to_appear: 
+  _priority: 
+- title: Dynamic Complex Impedance Tuning Method Using a Multiple-Input {DC}/{DC}
+    Converter for Wireless Power Transfer`
+  publication: 2018 IEEE Wireless Power Transfer Conference
+  publication_abbr: IEEE WPTC
+  type: conference-en-full
+  thumbnail: sasatani2018wptc.jpg
+  _time: 2018-6
+  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara
+  link: https://doi.org/10.1109/wpt.2018.8639301
+  year: '2018'
+  month: '6'
+  month_str: June
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 1 - 4
+  city: Montreal, QC, Canada
+  to_appear: 
+  _priority: 
+- title: Multimode Quasistatic Cavity Resonators for Wireless Power Transfer
+  publication: "IEEE Antennas and Wireless Propagation Letters\r"
+  publication_abbr: 
+  type: journal-en
+  thumbnail: 
+  _time: 2017-8
+  author: Takuya Sasatani; Matthew J. Chabalko; Yoshihiro Kawahara; Alanson P. Sample
+  link: https://doi.org/10.1109/lawp.2017.2744658
+  year: '2017'
+  month: '8'
+  month_str: August
+  volume: '16'
+  Issue: 
+  number: 
+  article: 
+  pages: 2746 - 2749
+  city: 
+  to_appear: 
+  _priority: 
+- title: DC-based impedance tuning method using magnetic saturation for wireless power
+    transfer
+  publication: 2017 IEEE Wireless Power Transfer Conference (WPTC)
+  publication_abbr: IEEE WPTC
+  type: conference-en-full
+  thumbnail: 
+  _time: 2017-5
+  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara; Tohru Asami
+  link: https://doi.org/10.1109/wpt.2017.7953900
+  year: '2017'
+  month: '5'
+  month_str: May
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 1 - 4
+  city: Taipei, Taiwan
+  to_appear: 
+  _priority: 
+- title: Passive and contactless epidermal pressure sensor printed with silver nano-particle
+    ink
+  publication: Proceedings of the 2016 ACM International Joint Conference on Pervasive
+    and Ubiquitous Computing
+  publication_abbr: ACM UbiComp
+  type: conference-en-full
+  thumbnail: hashizume2016ubicomp.jpg
+  _time: 2016-9
+  author: Takahiro Hashizume; Takuya Sasatani; Koya Narumi; Yoshiaki Narusue; Yoshihiro
+    Kawahara; Tohru Asami
+  link: https://doi.org/10.1145/2971648.2971705
+  year: '2016'
+  month: '9'
+  month_str: September
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 190 - 195
+  city: Heidelberg, Germany
+  to_appear: 
+  _priority: 
+- title: Genetic algorithm-based design of receiving resonator arrays for wireless
+    power transfer via magnetic resonant coupling
+  publication: 2016 IEEE Wireless Power Transfer Conference
+  publication_abbr: IEEE WPTC
+  type: conference-en-full
+  thumbnail: 
+  _time: 2016-5
+  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara; Tohru Asami
+  link: https://doi.org/10.1109/wpt.2016.7498842
+  year: '2016'
+  month: '5'
+  month_str: May
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 1-4
+  city: Aveiro, Portugal
+  to_appear: 
+  _priority: 
+- title: 'Geometric Sound Profile: Multipath-Time-of-Flight Fingerprint for High-Accuracy
+    Acoustic Localization'
+  publication: 14th International Conference on Indoor Positioning and Indoor Navigation
+  publication_abbr: IPIN
+  type: conference-en-full
+  thumbnail: 
+  _time: 2024-10
+  author: Yukiya Mita, Hiroaki Murakami, Takuya Sasatani, and Yoshihiro Kawahara
+  link: 
+  year: '2024'
+  month: '10'
+  month_str: October
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  city: Hong Kong, China
+  to_appear: 'TRUE'
+  _priority: 
+- title: Improving Coverage and Accuracy in Visible Light Positioning through Ceiling
+    Reflection Modeling
+  publication: 14th International Conference on Indoor Positioning and Indoor Navigation
+  publication_abbr: IPIN
+  type: conference-en-full
+  thumbnail: 
+  _time: 2024-10
+  author: Shota Shimada, Hiroaki Murakami, Ryo Tabata, Kota Tsubouchi, Takuya Sasatani,
+    Yoshihiro Kawahara, and Masanori Sugimoto
+  link: 
+  year: '2024'
+  month: '10'
+  month_str: October
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  city: Hong Kong, China
+  to_appear: 'TRUE'
   _priority: 
