@@ -8,48 +8,8 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <!-- Include Noto Sans Light from Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Noto Sans JP', sans-serif;
-      font-weight: 400; /* Light */
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-    }
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
-    /* Flex container for the overall layout */
-    .flex-container {
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
-    }
-
-    /* Flex grow for main content to push footer to the bottom */
-    .flex-grow-1 {
-      flex-grow: 1;
-    }
-
-    h1, h2 {
-      font-weight: 400; 
-    }
-
-    .author-list {
-      font-weight: 400; 
-    }
-
-    ol {
-      list-style-type: decimal;
-    }
-
-    .publication-number {
-      font-weight: bold;
-      margin-right: 5px;
-    }
-
-    .publication-item {
-      margin-bottom: 1em;
-    }
-  </style>
 </head>
 <body>
   <div class="flex-container">
@@ -89,8 +49,9 @@
     <!-- Footer -->
     <footer class="bg-light text-center text-lg-start">
       <div class="container p-4">
-        <p>&copy; {{ site.starting_year }}{% if site.time | date: '%Y' != site.starting_year %}-{{ site.time | date: '%Y' }}{% endif %} Takuya Sasatani. All rights reserved.</p>
-      </div>
+        {% assign current_year = site.time | date: '%Y' %}
+        <p>&copy; {{ site.starting_year }}{% if current_year != site.starting_year %}-{{ current_year }}{% endif %} Takuya Sasatani. All rights reserved.</p>
+          </div>
     </footer>
   </div>
   

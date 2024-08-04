@@ -7,13 +7,13 @@ layout: default
 
 <section>
 <h2>Awards</h2>
-<ul>
+<ol>
     {% for award in site.data.award %}
     <li>
         <strong>{{ award['name_en'] }}</strong> - {{ award['from_en'] }} ({{ award['date'] }})
     </li>
     {% endfor %}
-</ul>
+</ol>
 </section>
 
 <section>
@@ -36,11 +36,3 @@ layout: default
     debug=false
     toc=false %}
 </section>
-<!-- Add more sections here similarly -->
-
-<script>
-function printCV() {
-    window.print();
-}
-</script>
-<button onclick="printCV()">Print CV</button>
