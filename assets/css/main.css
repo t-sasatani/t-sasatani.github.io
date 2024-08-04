@@ -32,7 +32,7 @@ h3 {
   color: darkred;
 }
 
-.badge {
+.container .badge {
   display: inline-block;
   margin: 0px 0px;
   font-size: 0.7em;
@@ -43,7 +43,7 @@ h3 {
   text-decoration: none;
 }
 
-.badge:hover {
+.container .badge:hover {
   background-color: #646464;
 }
 .cv-pub-category {
