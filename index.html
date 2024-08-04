@@ -17,14 +17,18 @@ layout: default
       </br>
         <strong>{{ site.data.profile.contact.name }}</strong>
         <p>{{ site.data.profile.contact.title }}</p>
-        <p>{{ site.data.profile.contact.department }}</p>
+        <!--<p>{{ site.data.profile.contact.department }}</p>-->
         <p>{{ site.data.profile.contact.university }}</p>
-        <p>Email: {{ site.data.profile.contact.email }}</p>
+        <br/>
+        <p>{{ site.data.profile.contact.email }}</p>
+        <br/>
       </div>
     </div>
     <div class="col-md-8">
       <div class="bio">
-        <p>{{ site.data.profile.bio }}</p>
+        <p>{{ site.data.profile.shortbio }}</p>
+        <br/>
+        <p>{{ site.data.profile.extrabio }}</p>
       </div>
     </div>
   </div>
