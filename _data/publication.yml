@@ -77,7 +77,7 @@
   to_appear: 
   _priority: '2'
   doi: https://doi.org/10.1145/3570361.3613264
-  open_access: 
+  open_access: https://dl.acm.org/doi/10.1145/3570361.3613264
   abstract_link: 
   video: https://youtu.be/7SezvxK_vrY?feature=shared
   press_release_en: https://group.ntt/en/newsrelease/2023/10/02/231002a.html
@@ -346,7 +346,7 @@
   to_appear: 
   _priority: 
   doi: https://doi.org/10.1109/lawp.2023.3318244
-  open_access: 
+  open_access: "/assets/paper/honjo2023awpl.pdf"
   abstract_link: 
   video: 
   press_release_en: 
@@ -798,7 +798,7 @@
   to_appear: 
   _priority: 
   doi: https://doi.org/10.1145/3494996
-  open_access: 
+  open_access: "/assets/paper/takahashi2021imwut.pdf"
   abstract_link: 
   video: https://youtu.be/S7sJQAP5a7A?feature=shared
   press_release_en: 
@@ -849,10 +849,10 @@
   city: Online
   to_appear: 
   _priority: 
-  doi: https://physics.itmo.ru/en/seminar/microwave-seminar-18102021-takuya-sasatani
+  doi: 
   open_access: 
   abstract_link: 
-  video: 
+  video: https://physics.itmo.ru/en/seminar/microwave-seminar-18102021-takuya-sasatani
   press_release_en: 
   press_release_jp: 
   note: 
@@ -1034,7 +1034,7 @@
   to_appear: 
   _priority: 
   doi: https://doi.org/10.1109/mprv.2021.3086035
-  open_access: 
+  open_access: "/assets/paper/kadomoto2021pervasive.pdf"
   abstract_link: 
   video: 
   press_release_en: 
@@ -1220,7 +1220,7 @@
   to_appear: 
   _priority: 
   doi: https://doi.org/10.1089/soro.2019.0090
-  open_access: 
+  open_access: https://www.liebertpub.com/doi/10.1089/soro.2019.0090
   abstract_link: 
   video: 
   press_release_en: 
@@ -1385,7 +1385,7 @@
   to_appear: 
   _priority: 
   doi: https://doi.org/10.1109/lra.2020.2988176
-  open_access: 
+  open_access: "/assets/paper/nishizawa2020ral.pdf"
   abstract_link: 
   video: 
   press_release_en: 
@@ -1547,7 +1547,7 @@
   to_appear: 
   _priority: 
   doi: https://doi.org/10.1145/3381013
-  open_access: 
+  open_access: https://static1.squarespace.com/static/5fc1dbf8116eb00e3c52b568/t/5fc5e140eaf37e3b6467afb0/1606803779146/silvertape.pdf
   abstract_link: 
   video: https://youtu.be/Ntqc5bHQdYc?feature=shared
   press_release_en: 
@@ -1946,7 +1946,7 @@
   to_appear: 
   _priority: 
   doi: https://doi.org/10.1145/3287068
-  open_access: 
+  open_access: https://dl.acm.org/doi/10.1145/3287068
   abstract_link: 
   video: https://youtu.be/eBqJG65DhPQ?feature=shared
   press_release_en: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00024.html
@@ -1974,7 +1974,7 @@
   to_appear: 
   _priority: 
   doi: https://doi.org/10.1145/3267305.3267570
-  open_access: 
+  open_access: https://studios.disneyresearch.com/wp-content/uploads/2019/04/Multimode-Quasistatic-Cavity-Resonators-for-Wireless-Power-Transfer.pdf
   abstract_link: 
   video: 
   press_release_en: 
