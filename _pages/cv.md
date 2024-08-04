@@ -3,10 +3,12 @@ layout: cv
 title: Curriculum Vitae
 permalink: /cv/
 type_names:
-  journal-en: "Journal articles (peer-reviewed)"
-  conference-en-full: "Conference (full paper, peer-reviewed)"
+  journal-en: "Journal"
+  conference-en-full: "Conference<br/>(full paper)"
   invited: "Talks / seminars"
   tutorial: "Tutorials"
-  conference-en-adjunct: "Conferences (workshop, adjunct, demo, poster, etc.)"
-  conference-jp: "Japanese conference"
+  conference-en-adjunct: "Conference<br/>(other)"
+  conference-jp: "Japanese<br/>conference"
+  patent: "Patent"
+  dissertation: "Dissertation"
 ---

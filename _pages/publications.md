@@ -9,6 +9,8 @@ type_names:
   tutorial: "Magazines/tutorials"
   conference-en-adjunct: "Conferences (workshop, adjunct, demo, poster, etc.)"
   conference-jp: "Japanese conference"
+  patent: "Patent"
+  dissertation: "Dissertation"
 ---
 
 <h1>{{ page.title }}</h1>

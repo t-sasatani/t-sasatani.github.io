@@ -55,10 +55,44 @@ layout: default
               (
             {% endif %}
             {{ publication.year }})<br/><br/>
-            <span class="author-list">{{ publication.author | replace: ';', ',' }}</span>.<br/>
-            {% if publication.link %}
-              <a href="{{ publication.link }}">
-                [url]
+            {% assign authors = publication.author | replace: ';', ','  | replace: '，', ', ' %}
+            {% assign authors = authors | replace: 'Takuya Sasatani', '<strong>Takuya Sasatani</strong>' %}
+            {% assign authors = authors | replace: '笹谷拓也', '<strong>笹谷拓也</strong>' %}
+		        <span class="author-list">{{ authors | safe }}</span>
+            <br/><br/>
+            {% if publication.video %}
+              <a href="{{ publication.video }}" class="badge" target="_blank">
+                Video
+              </a>
+            {% endif %}
+
+            {% if publication.open_access %}
+              <a href="{{ publication.open_access }}" class="badge" target="_blank">
+                Open access
+              </a>
+            {% endif %}
+
+            {% if publication.doi %}
+              <a href="{{ publication.doi }}" class="badge" target="_blank">
+                DOI
+              </a>
+            {% endif %}
+
+            {% if publication.abstract_link %}
+              <a href="{{ publication.abstract_link }}" class="badge" target="_blank">
+                Conference abstract
+              </a>
+            {% endif %}
+
+            {% if publication.press_release_en %}
+              <a href="{{ publication.press_release_en }}" class="badge" target="_blank">
+                Press release (English)
+              </a>
+            {% endif %}
+
+            {% if publication.press_release_jp %}
+              <a href="{{ publication.press_release_jp }}" class="badge" target="_blank">
+                Press release (Japanese)
               </a>
             {% endif %}
           </div>

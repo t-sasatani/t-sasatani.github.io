@@ -27,6 +27,25 @@ h3 {
   margin-bottom: 10pt;
 }
 
+.pub-note {
+  font-weight: 800; /* Heavy for headings */
+  color: darkred;
+}
+
+.badge {
+  display: inline-block;
+  margin: 0px 0px;
+  font-size: 0.7em;
+  font-weight: bold;
+  color: #fff;
+  background-color: #9c9c9c;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.badge:hover {
+  background-color: #646464;
+}
 .cv-pub-category {
   font-weight: 800; /* Heavy for headings */
   font-size: 1em; /* Adjust the size as needed */
@@ -110,6 +129,10 @@ p {
 .ts-profile {
   margin-top: 40px;
   margin-bottom: 40px;
+}
+
+.publication-list{
+  margin-left: 20pt;
 }
 
 .project-item {

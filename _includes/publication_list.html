@@ -1,4 +1,5 @@
-{% assign ordered_types = "journal-en,conference-en-full,invited,tutorial,conference-en-adjunct,conference-jp" | split:
+{% assign ordered_types =
+"journal-en,conference-en-full,invited,tutorial,conference-en-adjunct,conference-jp,patent,dissertation" | split:
 "," %}
 
 {% if include.context == 'publist' or include.context == 'cv' %}
@@ -41,27 +42,21 @@
 {% endif %}
 
 {% if publication_by_type != null and publication_by_type.size > 0 %}
-{% assign publication_by_type = publication_by_type | sort: 'year' %}
 {% assign publication_by_type = publication_by_type | sort: 'month' %}
+{% assign publication_by_type = publication_by_type | sort: 'year' | reverse %}
 
 {% if include.context == 'publist' %}
 <h2 id="{{ type }}">{{ include.type_names[type] }}</h2>
 <ol class="publication-list">
 	{% for publication in publication_by_type %}
 	<li class="publication-item">
-		{% assign authors = publication.author | replace: ';', ',' %}
+		{% assign authors = publication.author | replace: ';', ',' | replace: '，', ', ' %}
 		{% assign authors = authors | replace: 'Takuya Sasatani', '<strong>Takuya Sasatani</strong>' %}
 		{% assign authors = authors | replace: '笹谷拓也', '<strong>笹谷拓也</strong>' %}
 		<span class="author-list">{{ authors | safe }}</span>
-		{% if publication.month_str %}
-		({{ publication.month_str }}
-		{% else %}
-		(
-		{% endif %}
-		{{ publication.year }})
 		<br />
-		{% if publication.link %}
-		<a href="{{ publication.link }}">{{ publication.title }}</a>
+		{% if publication.doi %}
+		<a href="{{ publication.doi }}">{{ publication.title }}</a>
 		{% else %}
 		{{ publication.title }}
 		{% endif %}
@@ -69,6 +64,51 @@
 		{% if publication.publication %}
 		<em>{{ publication.publication }}</em>
 		{% if publication.publication_abbr %} ({{ publication.publication_abbr }}){% endif %}
+		{% endif %}
+		{% if publication.month_str %}
+		({{ publication.month_str }}
+		{% else %}
+		(
+		{% endif %}
+		{{ publication.year }}).
+
+		{% if publication.to_appear %}
+		To appear.
+		{% endif %}
+
+		{% if publication.note %}
+		<br />
+		<span class="pub-note">{{ publication.note }}</span>
+		{% endif %}
+		<br />
+		{% if publication.video %}
+		<a href="{{ publication.video }}" class="badge" target="_blank">
+			Video
+		</a>
+		{% endif %}
+
+		{% if publication.open_access %}
+		<a href="{{ publication.open_access }}" class="badge" target="_blank">
+			Open access
+		</a>
+		{% endif %}
+
+		{% if publication.doi %}
+		<a href="{{ publication.doi }}" class="badge" target="_blank">
+			DOI
+		</a>
+		{% endif %}
+
+		{% if publication.abstract_link %}
+		<a href="{{ publication.abstract_link }}" class="badge" target="_blank">
+			Conference abstract
+		</a>
+		{% endif %}
+
+		{% if publication.press_release_en %}
+		<a href="{{ publication.press_release_en }}" class="badge" target="_blank">
+			Press release (English)
+		</a>
 		{% endif %}
 
 	</li>
@@ -82,15 +122,15 @@
 		{{ include.type_names[type] }}
 	</div>
 	<div class="col-md-10 cv-list">
-		<ol class="publication-list">
+		<ol>
 			{% for publication in publication_by_type %}
 			<li class="publication-item">
-				{% assign authors = publication.author | replace: ';', ',' %}
+				{% assign authors = publication.author | replace: ';', ',' | replace: '，', ', ' %}
 				{% assign authors = authors | replace: 'Takuya Sasatani', '<strong>Takuya Sasatani</strong>' %}
 				{% assign authors = authors | replace: '笹谷拓也', '<strong>笹谷拓也</strong>' %}
 				<span class="author-list">{{ authors | safe }},</span>
-				{% if publication.link %}
-				"<a href="{{ publication.link }}">{{ publication.title }}</a>"
+				{% if publication.doi %}
+				"<a href="{{ publication.doi }}">{{ publication.title }}</a>"
 				{% else %}
 				"{{ publication.title }}"
 				{% endif %}
@@ -107,6 +147,10 @@
 
 				{% if publication.article %}
 				Article {{ publication.article }},
+				{% endif %}
+
+				{% if publication.session %}
+				{{ publication.session }},
 				{% endif %}
 
 				{% if publication.pages %}
@@ -127,9 +171,8 @@
 				{% endif %}
 
 				{% if publication.note %}
-				<div class="pub-note">{{ publication.note }}</div>
+				<span class="pub-note">{{ publication.note }}</span>
 				{% endif %}
-				<br />
 			</li>
 			{% endfor %}
 		</ol>
