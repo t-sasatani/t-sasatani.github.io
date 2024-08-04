@@ -1,0 +1,16 @@
+---
+- role: Teaching assistant
+  program: Wireless Communication
+  institute: The University of Tokyo
+  start_date: 2016/10/1
+  end_date: 2019/3/31
+- role: Teaching assistant
+  program: C language Programming
+  institute: The University of Tokyo
+  start_date: 2016/4/1
+  end_date: 2016/7/31
+- role: Technical mentor
+  program: Tea Time Hackathon
+  institute: The University of Tokyo
+  start_date: 2016/4/1
+  end_date: 2016/7/31

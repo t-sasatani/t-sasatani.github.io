@@ -15,7 +15,7 @@ h1 {
 
 h2 {
   font-weight: 800; /* Heavy for headings */
-  font-size: 1.5em; /* Adjust the size as needed */
+  font-size: 1em; /* Adjust the size as needed */
   margin-top: 10pt;
   margin-bottom: 10pt;
 }
@@ -27,8 +27,22 @@ h3 {
   margin-bottom: 10pt;
 }
 
+.cv-pub-category {
+  font-weight: 800; /* Heavy for headings */
+  font-size: 1em; /* Adjust the size as needed */
+}
+
 .author-list {
   font-weight: 400; /* Normal for author list */
+}
+
+.cv-list .cv-date {
+  margin-top: 10pt;
+}
+.cv-category {
+  font-weight: 800; /* Heavy for headings */
+  font-size: 1em; /* Adjust the size as needed */
+  margin-top: 10pt;
 }
 
 ol {

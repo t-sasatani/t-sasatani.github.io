@@ -2,37 +2,82 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-<p>Contact information goes here</p>
+<h1>Takuya Sasatani</h1>
 
-<section>
-<h2>Awards</h2>
-<ol>
-    {% for award in site.data.award %}
-    <li>
-        <strong>{{ award['name_en'] }}</strong> - {{ award['from_en'] }} ({{ award['date'] }})
-    </li>
-    {% endfor %}
-</ol>
-</section>
+<h2>Professional experience</h2>
+{% for item in site.data.career %}
+  <div class="row">
+    <div class="col-md-2 cv-date">
+      {{ item['start_date'] | date: "%Y" }} -
+      {{ item['end_date'] | date: "%Y" }}
+    </div>
+    <div class="col-md-10 cv-list">
+      <strong>{{ item['affiliation'] }}</strong>
+      - {{ item['title'] }}
+    </div>
+  </div>
+{% endfor %}
+<hr>
 
-<section>
 <h2>Education</h2>
-<ul>
-    {% for education in site.data.education %}
-    <li>
-        <strong>{{ education['degree'] }}</strong> - {{ education['institution'] }} ({{ education['year'] }})
-    </li>
-    {% endfor %}
-</ul>
-</section>
+{% for item in site.data.education %}
+  <div class="row">
+    <div class="col-md-2 cv-date">
+      {{ item['start_date'] | date: "%Y" }} -
+      {{ item['end_date'] | date: "%Y" }}
+    </div>
+    <div class="col-md-10 cv-list">
+      <strong>{{ item['degree'] }}</strong>
+      - {{ item['institution'] }}
+    </div>
+  </div>
+{% endfor %}
+<hr>
 
-<!-- Publications Section -->
-<section>
+<h2>Grants awarded (as PI)</h2>
+{% for item in site.data.grant %}
+  <div class="row">
+    <div class="col-md-2 cv-date">
+      {{ item['start_date'] | date: "%Y" }} -
+      {{ item['end_date'] | date: "%Y" }}
+    </div>
+    <div class="col-md-10 cv-list">
+      <strong>{{ item['program'] }}</strong>
+      - {{ item['support'] }}
+    </div>
+  </div>
+{% endfor %}
+<hr>
+
+<h2>Awards and honers</h2>
+{% for item in site.data.award %}
+  <div class="row">
+    <div class="col-md-2 cv-date">
+      {{ item['date'] | date: "%b %d, %Y" }}
+    </div>
+    <div class="col-md-10 cv-list">
+      <strong>{{ item['name_en'] }}</strong>
+      - {{ item['from_en'] }}
+    </div>
+  </div>
+{% endfor %}
+<hr>
+
+<h2>Academic service / reviewer</h2>
+{% for item in site.data.service %}
+  <div class="row">
+    <div class="col-md-2 cv-date"></div>
+    <div class="col-md-10 cv-list">
+      <strong>{{ item['role'] }}</strong>
+      - {{ item['program'] }}
+    </div>
+  </div>
+{% endfor %}
+<hr>
+
 <h2>Publications</h2>
 {% include publication_list.html 
-    context='cv'
-    type_names=page.type_names
-    debug=false
-    toc=false %}
-</section>
+ context='cv'
+ type_names=page.type_names
+ debug=false
+ toc=false %}</section>

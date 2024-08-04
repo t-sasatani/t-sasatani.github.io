@@ -1,0 +1,39 @@
+---
+- role: Reviewer
+  program: Nature Electronics
+- role: Scientific Committee
+  program: IEEE/GRSS International Geoscience and Remote Sensing Symposium (IGARSS)
+    2024
+- role: Reviewer
+  program: Advanced Materials
+- role: Reviewer
+  program: Joule (Cell sister journal)
+- role: Reviewer
+  program: Device (Cell sister journal)
+- role: Reviewer
+  program: The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies (ACM IMWUT)
+- role: Reviewer
+  program: National Science Review
+- role: Reviewer
+  program: IEEE Transactions on Industrial Electronics
+- role: Reviewer
+  program: IEEE Transactions on Power Electronics
+- role: Reviewer
+  program: IEEE Transactions on Microwave Theory and Techniques
+- role: Reviewer
+  program: IEEE Microwave and Wireless Components Letters
+- role: Reviewer
+  program: IEEE Transactions on Wireless Communications
+- role: Reviewer
+  program: IEEE Pervasive Computing
+- role: Reviewer
+  program: IEEE Access
+- role: Reviewer
+  program: Scientific Reports
+- role: Reviewer
+  program: MDPI Magnetochemistry / Sustainability / Energies / Sensors
+- role: Reviewer
+  program: PeerJ Computer Science
+- role: Reviewer
+  program: ROBOMECH Journal
