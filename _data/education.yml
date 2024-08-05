@@ -1,16 +1,18 @@
 ---
-- institution: The University of Tokyo
-  degree: Ph.D. in Information Science and Technology
+- institution: The University of Tokyo, Graduate School of Information Science and
+    Technology
+  degree: Ph.D.
   start_date: 2018/4/1
   end_date: 2021/3/19
   location: Tokyo
-- institution: The University of Tokyo
-  degree: Master of Information Science and Technology
+- institution: The University of Tokyo, Graduate School of Information Science and
+    Technology
+  degree: M.S.
   start_date: 2016/4/1
   end_date: 2018/3/22
   location: Tokyo
-- institution: The University of Tokyo
-  degree: Bachelor of Engineering
+- institution: The University of Tokyo, Department of Electrical and Electronic Engineering
+  degree: BEng
   start_date: 2012/4/1
   end_date: 2016/3/25
   location: Tokyo
