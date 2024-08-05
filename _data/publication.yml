@@ -206,32 +206,6 @@
   article: 
   pages: 
   session: 
-  city: 
-  to_appear: 
-  _priority: 
-  doi: 
-  open_access: 
-  abstract_link: 
-  video: 
-  press_release_en: 
-  press_release_jp: 
-  note: 
-- title: 'Untethering Discovery: wireless power for mobile sensing and neuroscience'
-  publication: GCL/IIW workshop
-  publication_abbr: 
-  type: invited
-  thumbnail: 
-  author: Takuya Sasatani
-  _time: 2024-6
-  year: '2024'
-  month: '6'
-  month_str: June
-  volume: 
-  Issue: 
-  number: 
-  article: 
-  pages: 
-  session: 
   city: Tokyo, Japan
   to_appear: 
   _priority: 
