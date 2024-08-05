@@ -1,41 +1,44 @@
 ---
-- affiliation: The University of Tokyo, EEIS department
-  title: Assistant professor
+- affiliation: The University of Tokyo, Department of Electrical Engineering and Information
+    Systems
+  title: Assistant Professor
   start_date: 2023/4/1
   end_date: 
   location: Tokyo
-- affiliation: UCLA Department of Neurology
-  title: Postdoctoral scholar
+- affiliation: University of California, Los Angeles, Department of Neurology
+  title: Postdoctoral Scholar
   start_date: 2023/4/1
   end_date: 2023/9/30
   location: Los Angeles
-- affiliation: The University of Tokyo, EEIS department
-  title: Visiting researcher
+- affiliation: The University of Tokyo, Department of Electrical Engineering and Information
+    Systems
+  title: Visiting Researcher
   start_date: 2023/4/1
   end_date: 2023/9/30
   location: Tokyo
-- affiliation: The University of Tokyo, EEIS department
-  title: Project assistant professor
+- affiliation: The University of Tokyo, Department of Electrical Engineering and Information
+    Systems
+  title: Project Assistant Professor
   start_date: 2021/4/1
   end_date: 2023/3/31
   location: Tokyo
-- affiliation: UCLA Department of Neurology
-  title: Visiting project scientist
+- affiliation: University of California, Los Angeles, Department of Neurology
+  title: Visiting Assistant Project Scientist
   start_date: 2022/7/26
   end_date: 2023/3/31
   location: Los Angeles
 - affiliation: JST ERATO Kawahara UIN Project
-  title: Research assistant
+  title: Research Assistant
   start_date: 2018/5/23
   end_date: 2021/3/31
   location: Tokyo
 - affiliation: JSPS Research Fellow DC1
-  title: Research fellow
+  title: Research Fellow
   start_date: 2018/4/1
   end_date: 2021/3/31
   location: Tokyo
 - affiliation: Disney Research Pittsburgh
-  title: Lab associate researcher (internship)
+  title: Lab Associate Researcher
   start_date: 2017/1/23
   end_date: 2017/7/23
   location: Pittsburgh
