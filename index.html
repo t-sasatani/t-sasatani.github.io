@@ -35,7 +35,13 @@ layout: default
   <hr>
   <h2>Selected projects</h2>
   <div class=" container projects-list">
-    {% for publication in site.data.publication %}
+    {% assign publication_list = site.data.publication %}
+    {% if publication_list != null and publication_list.size > 0 %}
+    {% assign publication_list = publication_list | sort: 'month' %}
+    {% assign publication_list = publication_list | sort: 'year' %}
+    {% assign publication_list = publication_list | sort: 'priority' | reverse %}
+    {% endif %}
+    {% for publication in publication_list %}
       {% if publication.thumbnail %}
         {% if debug %}
           <p>Listed publication: {{ publication.title }}</p>
