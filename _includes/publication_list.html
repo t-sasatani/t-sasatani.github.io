@@ -126,9 +126,9 @@
 				{% assign authors = authors | replace: '笹谷拓也', '<u>笹谷拓也</u>' %}
 				<span class="author-list">{{ authors | safe }},</span>
 				{% if publication.doi %}
-				"<a href="{{ publication.doi }}">{{ publication.title }}</a>"
+				"<a href="{{ publication.doi }}">{{ publication.title }}</a>,"
 				{% else %}
-				"{{ publication.title }}"
+				"{{ publication.title }},"
 				{% endif %}
 				<em>{{ publication.publication }}</em>
 				{% if publication.publication_abbr %} ({{ publication.publication_abbr }}){% endif %}
@@ -150,7 +150,8 @@
 				{% endif %}
 
 				{% if publication.pages %}
-				pp. {{ publication.pages }},
+				{% assign pages = publication.pages | replace: ' - ', '&ndash;' %}
+				pp. {{ pages }},
 				{% endif %}
 
 				{% if publication.city %}

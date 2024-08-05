@@ -2,19 +2,19 @@
 layout: default
 ---
 
-<h1>Takuya Sasatani - Curriculum Vitae</h1>
+<h1>Takuya Sasatani&mdash;Curriculum Vitae</h1>
 {{ site.data.profile.shortbio }}
 
 <h2>Professional experience</h2>
 {% for item in site.data.career %}
   <div class="row">
     <div class="col-md-2 cv-date">
-      {{ item['start_date'] | date: "%Y" }} -
+      {{ item['start_date'] | date: "%Y" }} &ndash;
       {{ item['end_date'] | date: "%Y" }}
     </div>
     <div class="col-md-10 cv-list">
       <strong>{{ item['title'] }}</strong>
-      - {{ item['affiliation'] }}
+      &mdash;{{ item['affiliation'] }}
     </div>
   </div>
 {% endfor %}
@@ -24,12 +24,12 @@ layout: default
 {% for item in site.data.education %}
   <div class="row">
     <div class="col-md-2 cv-date">
-      {{ item['start_date'] | date: "%Y" }} -
+      {{ item['start_date'] | date: "%Y" }} &ndash;
       {{ item['end_date'] | date: "%Y" }}
     </div>
     <div class="col-md-10 cv-list">
       <strong>{{ item['degree'] }}</strong>
-      - {{ item['institution'] }}
+      &mdash;{{ item['institution'] }}
     </div>
   </div>
 {% endfor %}
@@ -39,18 +39,18 @@ layout: default
 {% for item in site.data.grant %}
   <div class="row">
     <div class="col-md-2 cv-date">
-      {{ item['start_date'] | date: "%Y" }} -
+      {{ item['start_date'] | date: "%Y" }} &ndash;
       {{ item['end_date'] | date: "%Y" }}
     </div>
     <div class="col-md-10 cv-list">
       <strong>{{ item['program'] }}</strong>
-      - {{ item['support'] }}
+      &mdash;{{ item['support'] }}
     </div>
   </div>
 {% endfor %}
 <hr>
 
-<h2>Awards and honers</h2>
+<h2>Awards and honors</h2>
 {% for item in site.data.award %}
   <div class="row">
     <div class="col-md-2 cv-date">
@@ -58,7 +58,7 @@ layout: default
     </div>
     <div class="col-md-10 cv-list">
       <strong>{{ item['name_en'] }}</strong>
-      - {{ item['from_en'] }}
+      &mdash;{{ item['from_en'] }}
     </div>
   </div>
 {% endfor %}
@@ -70,7 +70,7 @@ layout: default
     <div class="col-md-2 cv-date"></div>
     <div class="col-md-10 cv-list">
       <strong>{{ item['role'] }}</strong>
-      - {{ item['program'] }}
+      &mdash;{{ item['program'] }}
     </div>
   </div>
 {% endfor %}
