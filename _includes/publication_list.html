@@ -131,8 +131,10 @@
 				"{{ publication.title }},"
 				{% endif %}
 				<em>{{ publication.publication }}</em>
-				{% if publication.publication_abbr %} ({{ publication.publication_abbr }}){% endif %}
-				.
+				{% if publication.publication_abbr %} ({{ publication.publication_abbr }}),
+				{% else %}
+				,
+				{% endif %}
 				{% if publication.volume %}
 				Vol. {{ publication.volume }},
 				{% endif %}
