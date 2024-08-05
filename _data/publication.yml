@@ -110,7 +110,7 @@
   type: conference-en-full
   thumbnail: 
   priority: 
-  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara; Tohru Asami
+  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara; and Tohru Asami
   _time: 2016-5
   year: '2016'
   month: '5'
@@ -192,7 +192,7 @@
   thumbnail: hashizume2016ubicomp.jpg
   priority: 
   author: Takahiro Hashizume; Takuya Sasatani; Koya Narumi; Yoshiaki Narusue; Yoshihiro
-    Kawahara; Tohru Asami
+    Kawahara; and Tohru Asami
   _time: 2016-9
   year: '2016'
   month: '9'
@@ -271,7 +271,7 @@
   type: conference-en-full
   thumbnail: 
   priority: 
-  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara; Tohru Asami
+  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara; and Tohru Asami
   _time: 2017-5
   year: '2017'
   month: '5'
@@ -297,7 +297,8 @@
   type: journal-en
   thumbnail: 
   priority: 
-  author: Takuya Sasatani; Matthew J. Chabalko; Yoshihiro Kawahara; Alanson P. Sample
+  author: Takuya Sasatani; Matthew J. Chabalko; Yoshihiro Kawahara; and Alanson P.
+    Sample
   _time: 2017-8
   year: '2017'
   month: '8'
@@ -458,7 +459,7 @@
   type: conference-en-full
   thumbnail: sasatani2018wptc.jpg
   priority: 
-  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara
+  author: Takuya Sasatani; Yoshiaki Narusue; and Yoshihiro Kawahara
   _time: 2018-6
   year: '2018'
   month: '6'
@@ -615,7 +616,7 @@
   type: conference-jp
   thumbnail: 
   priority: 
-  author: Zhehao Li, Takuya Sasatani, Yuki Nishizawa, Yoshihiro Kawahara
+  author: Zhehao Li, Takuya Sasatani, Yuki Nishizawa, and Yoshihiro Kawahara
   _time: 2018-9
   year: '2018'
   month: '9'
@@ -642,7 +643,7 @@
   type: conference-en-adjunct
   thumbnail: 
   priority: 
-  author: Ryo Takahashi; Takuya Sasatani; Fuminori Okuya; Yoshiaki Narusue; Yoshihiro
+  author: Ryo Takahashi; Takuya Sasatani; Fuminori Okuya; Yoshiaki Narusue; and Yoshihiro
     Kawahara
   _time: 2018-10
   year: '2018'
@@ -671,7 +672,7 @@
   thumbnail: 
   priority: 
   author: Kazunobu Sumiya; Takuya Sasatani; Yuki Nishizawa; Kenji Tsushio; Yoshiaki
-    Narusue; Yoshihiro Kawahara
+    Narusue; and Yoshihiro Kawahara
   _time: 2018-10
   year: '2018'
   month: '10'
@@ -699,7 +700,7 @@
   type: conference-en-adjunct
   thumbnail: 
   priority: 
-  author: Takuya Sasatani; Alanson P. Sample; Yoshihiro Kawahara
+  author: Takuya Sasatani; Alanson P. Sample; and Yoshihiro Kawahara
   _time: 2018-10
   year: '2018'
   month: '10'
@@ -754,7 +755,7 @@
   thumbnail: sasatani2018imwut.jpg
   priority: 
   author: Takuya Sasatani; Chouchang Jack Yang; Matthew J. Chabalko; Yoshihiro Kawahara;
-    Alanson P. Sample
+    and Alanson P. Sample
   _time: 2018-12
   year: '2018'
   month: '12'
@@ -781,7 +782,7 @@
   type: journal-en
   thumbnail: takahashi2018imwut.gif
   priority: 
-  author: Ryo Takahashi; Takuya Sasatani; Fuminori Okuya; Yoshiaki Narusue; Yoshihiro
+  author: Ryo Takahashi; Takuya Sasatani; Fuminori Okuya; Yoshiaki Narusue; and Yoshihiro
     Kawahara
   _time: 2018-12
   year: '2018'
@@ -914,7 +915,7 @@
   thumbnail: sumiya2019imwut.gif
   priority: 
   author: Kazunobu Sumiya; Takuya Sasatani; Yuki Nishizawa; Kenji Tsushio; Yoshiaki
-    Narusue; Yoshihiro Kawahara
+    Narusue; and Yoshihiro Kawahara
   _time: 2019-6
   year: '2019'
   month: '6'
@@ -967,7 +968,7 @@
   type: conference-en-full
   thumbnail: hayashi2019vtc.png
   priority: 
-  author: Hiromasa Hayashi; Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara
+  author: Hiromasa Hayashi; Takuya Sasatani; Yoshiaki Narusue; and Yoshihiro Kawahara
   _time: 2019-9
   year: '2019'
   month: '9'
@@ -1072,7 +1073,7 @@
   type: conference-en-full
   thumbnail: 
   priority: 
-  author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; Yoshihiro Kawahara
+  author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; and Yoshihiro Kawahara
   _time: 2020-1
   year: '2020'
   month: '1'
@@ -1101,8 +1102,8 @@
   thumbnail: tingyu2020imwut.gif
   priority: 
   author: Tingyu Cheng; Koya Narumi; Youngwook Do; Yang Zhang; Tung D. Ta; Takuya
-    Sasatani; Eric Markvicka; Yoshihiro Kawahara; Lining Yao; Gregory D. Abowd; HyunJoo
-    Oh
+    Sasatani; Eric Markvicka; Yoshihiro Kawahara; Lining Yao; Gregory D. Abowd; and
+    HyunJoo Oh
   _time: 2020-3
   year: '2020'
   month: '3'
@@ -1181,7 +1182,7 @@
   thumbnail: yoshida2020iscience.png
   priority: 
   author: Sachine Yoshida; Yoshihiro Kawahara; Takuya Sasatani; Ken Kiyono; Yo Kobayashi;
-    Hiromasa Funato
+    and Hiromasa Funato
   _time: 2020-4
   year: '2020'
   month: '4'
@@ -1261,7 +1262,7 @@
   thumbnail: nishizawa2020ral.png
   priority: 
   author: Yuki Nishizawa; Takuya Sasatani; Matthew Ishige; Yoshiaki Narusue; Takuya
-    Umedachi; Yoshihiro Kawahara
+    Umedachi; and Yoshihiro Kawahara
   _time: 2020-7
   year: '2020'
   month: '7'
@@ -1341,8 +1342,8 @@
   type: conference-en-full
   thumbnail: takaki2020iswc.png
   priority: 
-  author: Ken Takaki; Takuya Sasatani; Hironobu Kasashima; Yoshihiro Kawahara; Takeshi
-    Naemura
+  author: Ken Takaki; Takuya Sasatani; Hironobu Kasashima; Yoshihiro Kawahara; and
+    Takeshi Naemura
   _time: 2020-9
   year: '2020'
   month: '9'
@@ -1423,7 +1424,7 @@
   thumbnail: takahashi2020uist.gif
   priority: 
   author: Ryo Takahashi; Masaaki Fukumoto; Changyo Han; Takuya Sasatani; Yoshiaki
-    Narusue; Yoshihiro Kawahara
+    Narusue; and Yoshihiro Kawahara
   _time: 2020-10
   year: '2020'
   month: '10'
@@ -1451,7 +1452,7 @@
   thumbnail: 
   priority: 
   author: Hiromasa Hayashi; Katsuhiro Hata; Takuya Sasatani; Hiroki Sato; Ryosuke
-    Yamamura; Young ah Seong; Ryuma Niiyama; Yoshihiro Kawahara
+    Yamamura; Young ah Seong; Ryuma Niiyama; and Yoshihiro Kawahara
   _time: 2020-11
   year: '2020'
   month: '11'
@@ -1478,7 +1479,7 @@
   type: journal-en
   thumbnail: sasatani2020access.jpg
   priority: 
-  author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara
+  author: Takuya Sasatani; Yoshiaki Narusue; and Yoshihiro Kawahara
   _time: 2020-12
   year: '2020'
   month: '12'
@@ -1504,7 +1505,7 @@
   type: conference-en-full
   thumbnail: 
   priority: 
-  author: Yoshihiro Kawahara; Takuya Sasatani
+  author: Yoshihiro Kawahara; and Takuya Sasatani
   _time: 2020-12
   year: '2020'
   month: '12'
@@ -1532,7 +1533,7 @@
   thumbnail: colm2020soro.gif
   priority: 
   author: Colm Mc Caffrey; Takuya Umedachi; Weiwei Jiang; Takuya Sasatani; Yoshiaki
-    Narusue; Ryuma Niiyama; Yoshihiro Kawahara
+    Narusue; Ryuma Niiyama; and Yoshihiro Kawahara
   _time: 2020-12
   year: '2020'
   month: '12'
@@ -1638,7 +1639,7 @@
   thumbnail: kadomoto2021pervasive.png
   priority: 
   author: Junichiro Kadomoto; Takuya Sasatani; Koya Narumi; Naoto Usami; Hidetsugu
-    Irie; Shuichi Sakai; Yoshihiro Kawahara
+    Irie; Shuichi Sakai; and Yoshihiro Kawahara
   _time: 2021-6
   year: '2021'
   month: '6'
@@ -1691,7 +1692,7 @@
   thumbnail: 
   priority: 
   author: Lai Chen; Takuya Sasatani; Keung Or; Satoshi Nishikawa; Yoshihiro Kawahara;
-    Ryuma Niiyama; Yasuo Kuniyoshi
+    Ryuma Niiyama; and Yasuo Kuniyoshi
   _time: 2021-7
   year: '2021'
   month: '7'
@@ -1718,7 +1719,7 @@
   type: journal-en
   thumbnail: sasatani2021nat.gif
   priority: '10'
-  author: Takuya Sasatani; Alanson P. Sample; Yoshihiro Kawahara
+  author: Takuya Sasatani; Alanson P. Sample; and Yoshihiro Kawahara
   _time: 2021-8
   year: '2021'
   month: '8'
@@ -1770,7 +1771,7 @@
   type: journal-en
   thumbnail: morita2021access.png
   priority: 
-  author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; Yoshihiro Kawahara
+  author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; and Yoshihiro Kawahara
   _time: 2021-9
   year: '2021'
   month: '9'
@@ -1929,7 +1930,7 @@
   thumbnail: takahashi2021imwut.gif
   priority: 
   author: Ryo Takahashi; Wakako Yukita; Takuya Sasatani; Tomoyuki Yokota; Takao Someya;
-    Yoshihiro Kawahara
+    and Yoshihiro Kawahara
   _time: 2021-12
   year: '2021'
   month: '12'
@@ -2034,7 +2035,7 @@
   type: journal-en
   thumbnail: sasatani2022ojpel.jpg
   priority: 
-  author: Takuya Sasatani; Matthew Chabalko; Yoshihiro Kawahara; Alanson Sample
+  author: Takuya Sasatani; Matthew Chabalko; Yoshihiro Kawahara; and Alanson Sample
   _time: 2022-6
   year: '2022'
   month: '6'
@@ -2193,7 +2194,8 @@
   type: conference-en-adjunct
   thumbnail: 
   priority: 
-  author: Yuke Zhang; Ken Takaki; Hiroaki Murakami; Takuya Sasatani; Yoshihiro Kawahara
+  author: Yuke Zhang; Ken Takaki; Hiroaki Murakami; Takuya Sasatani; and Yoshihiro
+    Kawahara
   _time: 2023-1
   year: '2023'
   month: '1'
@@ -2271,7 +2273,7 @@
   type: journal-en
   thumbnail: iizuka2023awpl.png
   priority: 
-  author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; Takuya
+  author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; and Takuya
     Sasatani
   _time: 2023-7
   year: '2023'
@@ -2380,7 +2382,7 @@
   type: conference-en-full
   thumbnail: iizuka2023mobicom.gif
   priority: '5'
-  author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; Takuya
+  author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; and Takuya
     Sasatani
   _time: 2023-10
   year: '2023'
@@ -2409,7 +2411,7 @@
   priority: '8'
   author: "*Takuya Sasatani; *Marcel Brosch; Zhe Dong; Federico Sangiuliano Jimka;
     Megah Sehgal; Hemal Semwal; Aparajeeta Guha; Hamid Chorsi; Karina Keus; Blake
-    Madruga; Daniel Aharoni"
+    Madruga; and Daniel Aharoni"
   _time: 2023-11
   year: '2023'
   month: '11'
@@ -2436,7 +2438,7 @@
   type: journal-en
   thumbnail: honjo2023awpl.jpg
   priority: 
-  author: Yuichi Honjo; Cedric Caremel; Yoshihiro Kawahara; Takuya Sasatani
+  author: Yuichi Honjo; Cedric Caremel; Yoshihiro Kawahara; and Takuya Sasatani
   _time: 2024-1
   year: '2024'
   month: '1'
@@ -2492,7 +2494,7 @@
   type: conference-en-adjunct
   thumbnail: 
   priority: 
-  author: Yukiya Mita; Hiroaki Murakami; Takuya Sasatani; Matthew Ishige; Yoshihiro
+  author: Yukiya Mita; Hiroaki Murakami; Takuya Sasatani; Matthew Ishige; and Yoshihiro
     Kawahara
   _time: 2024-4
   year: '2024'
