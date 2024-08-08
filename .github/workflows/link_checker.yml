@@ -1,4 +1,4 @@
-name: Check Links
+name: Check Link format
 
 on:
   schedule:
