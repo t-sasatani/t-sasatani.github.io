@@ -1,3 +1,5 @@
+name: Deploy Page
+
 on:
   schedule:
     - cron: '0 3 * * *' # Run on 12:00 JST / 3:00 UTC
@@ -22,7 +24,7 @@ jobs:
 
     - name: Run Linkchecker
       run: |
-        linkchecker https://www.takuyasasatani.com --file-output html/crawljob
+        linkchecker https://www.takuyasasatani.com --file-output link-check-report.md
 
     - name: Upload artifact
       uses: actions/upload-artifact@v4
