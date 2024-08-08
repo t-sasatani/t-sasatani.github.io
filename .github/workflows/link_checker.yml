@@ -1,4 +1,4 @@
-name: Deploy Page
+name: Check Links
 
 on:
   schedule:
@@ -24,10 +24,10 @@ jobs:
 
     - name: Run Linkchecker
       run: |
-        linkchecker https://www.takuyasasatani.com --file-output link-check-report.md
+        linkchecker https://www.takuyasasatani.com > link-check-report.txt
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v2
       with:
         name: link-check-report
-        path: link-check-report.md
+        path: link-check-report.txt
