@@ -24,7 +24,7 @@ jobs:
 
     - name: Run Linkchecker
       run: |
-        linkchecker https://www.takuyasasatani.com --file-output text/link-check-report.txt
+        linkchecker https://www.takuyasasatani.com > link-check-report.txt
 
     - name: Upload artifact
       uses: actions/upload-artifact@v2
