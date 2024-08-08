@@ -22,9 +22,9 @@ jobs:
       run: |
         pip install linkchecker
 
-        - name: Run Linkchecker
-        run: |
-          linkchecker http://www.takuyasasatani.com --file-output text/link-check-report.txt
+    - name: Run Linkchecker
+      run: |
+        linkchecker https://www.takuyasasatani.com --file-output text/link-check-report.txt
 
     - name: Upload artifact
       uses: actions/upload-artifact@v2
