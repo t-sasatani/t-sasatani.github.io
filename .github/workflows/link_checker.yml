@@ -3,7 +3,7 @@ on:
     - cron: '0 3 * * *' # Run on 12:00 JST / 3:00 UTC
   workflow_dispatch:
 
-name: Check markdown links
+name: Check links
 jobs:
   my-broken-link-checker:
     name: Check broken links
@@ -13,4 +13,4 @@ jobs:
         uses: ruzickap/action-my-broken-link-checker@v2
         with:
           url: https://www.takuyasasatani.com
-          cmd_params: "--buffer-size=8192 --max-connections=10 --color=always --timeout=20"  # Check just one page
+          cmd_params: "--buffer-size=32768 --max-connections=10 --color=always --timeout=20"  # Check just one page
