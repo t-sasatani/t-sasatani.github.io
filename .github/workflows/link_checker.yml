@@ -24,4 +24,4 @@ jobs:
 
     - name: Run Linkchecker
       run: |
-        linkchecker https://www.takuyasasatani.com > link-check-report.txt
+        linkchecker https://www.takuyasasatani.com\
