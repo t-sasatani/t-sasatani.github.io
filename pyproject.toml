@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "t-sasatani-github-io"
+version = "0.1.0"
+description = ""
+authors = ["t-sasatani <sasatani.dev@gmail.com>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.11"
+linkchecker = "^10.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

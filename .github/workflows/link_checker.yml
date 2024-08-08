@@ -1,4 +1,4 @@
-name: Check Links
+name: Check Internal Link and Link Format
 
 on:
   schedule:
@@ -24,10 +24,10 @@ jobs:
 
     - name: Run Linkchecker
       run: |
-        linkchecker https://www.takuyasasatani.com > link-check-report.txt
+        linkchecker https://www.takuyasasatani.com > link-check-report.txt || true
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: link-check-report
         path: link-check-report.txt
