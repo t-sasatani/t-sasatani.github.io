@@ -1,4 +1,4 @@
-name: Deploy Page
+name: Check Links
 
 on:
   schedule:
@@ -22,12 +22,12 @@ jobs:
       run: |
         pip install linkchecker
 
-    - name: Run Linkchecker
-      run: |
-        linkchecker https://www.takuyasasatani.com --file-output link-check-report.md
+        - name: Run Linkchecker
+        run: |
+          linkchecker http://www.takuyasasatani.com --file-output text/link-check-report.txt
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v2
       with:
         name: link-check-report
-        path: link-check-report.md
+        path: link-check-report.txt
