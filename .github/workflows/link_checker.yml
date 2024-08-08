@@ -24,10 +24,10 @@ jobs:
 
     - name: Run Linkchecker
       run: |
-        linkchecker https://www.takuyasasatani.com --output link-check-report.txt || true
+        linkchecker https://www.takuyasasatani.com > link-check-report.txt || true
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: link-check-report
         path: link-check-report.txt
