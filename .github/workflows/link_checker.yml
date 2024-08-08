@@ -3,14 +3,29 @@ on:
     - cron: '0 3 * * *' # Run on 12:00 JST / 3:00 UTC
   workflow_dispatch:
 
-name: Check links
 jobs:
-  my-broken-link-checker:
-    name: Check broken links
+  check-links:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Check
-        uses: ruzickap/action-my-broken-link-checker@v2
-        with:
-          url: https://www.takuyasasatani.com
-          cmd_params: '--buffer-size=32768 --max-connections=10 --color=always --timeout=20'
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install Linkchecker
+      run: |
+        pip install linkchecker
+
+    - name: Run Linkchecker
+      run: |
+        linkchecker https://www.takuyasasatani.com --file-output html/crawljob
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: link-check-report
+        path: link-check-report.md
