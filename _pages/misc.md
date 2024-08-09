@@ -34,4 +34,4 @@ permalink: /misc/
 <hr>
 
 ### Blog posts
-- [D進前の研究インターン@Disney Research](/misc/advent_calendar_2017.md), 研究留学 Advent Calendar 2017の10日目 (2017/12/10)
+- [D進前の研究インターン@Disney Research](/misc/advent_calendar_2017), 研究留学 Advent Calendar 2017の10日目 (2017/12/10)
