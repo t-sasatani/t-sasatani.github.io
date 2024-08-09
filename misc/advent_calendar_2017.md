@@ -2,6 +2,7 @@
 layout: default
 title:  "D進前の研究インターン@Disney Research
 "
+permalink: /misc/advent_calendar_2017/
 ---
 
 # はじめに
