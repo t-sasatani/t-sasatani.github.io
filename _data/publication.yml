@@ -20,7 +20,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -46,7 +46,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -72,7 +72,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -98,7 +98,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -125,7 +125,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/wpt.2016.7498842
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -151,7 +151,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -178,7 +178,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -207,7 +207,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/2971648.2971705
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -233,7 +233,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -259,7 +259,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -286,7 +286,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/wpt.2017.7953900
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -313,7 +313,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/lawp.2017.2744658
   open_access: https://studios.disneyresearch.com/wp-content/uploads/2019/04/Multimode-Quasistatic-Cavity-Resonators-for-Wireless-Power-Transfer.pdf
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -341,7 +341,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -367,7 +367,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -393,7 +393,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -419,7 +419,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -447,7 +447,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -474,7 +474,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/wpt.2018.8639301
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -501,7 +501,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -527,7 +527,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -553,7 +553,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -579,7 +579,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -605,7 +605,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -631,7 +631,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -659,7 +659,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3267305.3267570
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -687,7 +687,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3267305.3267632
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -715,7 +715,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3267305.3267571
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -741,7 +741,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -770,7 +770,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3287066
   open_access: "/assets/paper/sasatani2018imwut.pdf"
-  abstract_link: 
+  link: 
   video: 
   press_release_en: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00055.html
   press_release_jp: 
@@ -798,7 +798,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3287068
   open_access: https://dl.acm.org/doi/10.1145/3287068
-  abstract_link: 
+  link: 
   video: https://youtu.be/eBqJG65DhPQ?feature=shared
   press_release_en: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00024.html
   press_release_jp: https://www.jst.go.jp/pr/announce/20190107-2/index.html
@@ -824,7 +824,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -850,7 +850,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -876,7 +876,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -902,7 +902,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -930,7 +930,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3332533
   open_access: https://dl.acm.org/doi/10.1145/3332533
-  abstract_link: 
+  link: 
   video: https://youtu.be/jVwN9ioL5JU?feature=shared
   press_release_en: 
   press_release_jp: 
@@ -956,7 +956,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -983,7 +983,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/vtcfall.2019.8891268
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1009,7 +1009,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1035,7 +1035,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1061,7 +1061,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1088,7 +1088,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/icce46568.2020.9043052
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1118,7 +1118,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3381013
   open_access: https://static1.squarespace.com/static/5fc1dbf8116eb00e3c52b568/t/5fc5e140eaf37e3b6467afb0/1606803779146/silvertape.pdf
-  abstract_link: 
+  link: 
   video: https://youtu.be/Ntqc5bHQdYc?feature=shared
   press_release_en: 
   press_release_jp: 
@@ -1144,7 +1144,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1170,7 +1170,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1197,7 +1197,7 @@
   to_appear: 
   doi: https://doi.org/10.1016/j.isci.2020.100996
   open_access: https://www.cell.com/iscience/fulltext/S2589-0042%2820%2930180-2
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1223,7 +1223,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1249,7 +1249,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1277,7 +1277,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/lra.2020.2988176
   open_access: "/assets/paper/nishizawa2020ral.pdf"
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1304,7 +1304,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1330,7 +1330,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1358,7 +1358,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3410531.3414299
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1384,7 +1384,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1410,7 +1410,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2020-145821/11/ja
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1439,7 +1439,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3379337.3415873
   open_access: 
-  abstract_link: 
+  link: 
   video: https://www.youtube.com/watch?v=pD4FRuVnmJg
   press_release_en: 
   press_release_jp: 
@@ -1467,7 +1467,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/WPTC48563.2020.9295533
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1494,7 +1494,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/access.2020.3044224
   open_access: https://ieeexplore.ieee.org/document/9291454
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1520,7 +1520,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/iedm13553.2020.9371927
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1548,7 +1548,7 @@
   to_appear: 
   doi: https://doi.org/10.1089/soro.2019.0090
   open_access: https://www.liebertpub.com/doi/10.1089/soro.2019.0090
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1574,7 +1574,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1600,7 +1600,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1627,7 +1627,7 @@
   to_appear: 
   doi: 
   open_access: https://repository.dl.itc.u-tokyo.ac.jp/records/2007221
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1654,7 +1654,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/mprv.2021.3086035
   open_access: "/assets/paper/kadomoto2021pervasive.pdf"
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1680,7 +1680,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1707,7 +1707,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/lra.2021.3097271
   open_access: https://ieeexplore.ieee.org/document/9484851
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1734,7 +1734,7 @@
   to_appear: 
   doi: https://doi.org/10.1038/s41928-021-00636-3
   open_access: https://rdcu.be/dPUCw
-  abstract_link: 
+  link: 
   video: https://youtu.be/LJd-T2BUEx8?feature=shared
   press_release_en: https://news.engin.umich.edu/2021/08/will-power-cords-go-the-way-of-land-lines/
   press_release_jp: https://www.t.u-tokyo.ac.jp/hubfs/shared-old/press/data/setnws_201906111450167441845423_217957.pdf
@@ -1760,7 +1760,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1786,7 +1786,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/access.2021.3115143
   open_access: https://ieeexplore.ieee.org/document/9547299
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1812,7 +1812,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1838,12 +1838,12 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
   note: 
-- title: 眼鏡型デバイス（特開2021-129497）
+- title: ウェアラブルデバイス（特開2021-129497）
   publication: 特許庁
   publication_abbr: 
   type: patent
@@ -1864,7 +1864,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-129497/11/ja
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1890,7 +1890,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: https://physics.itmo.ru/en/seminar/microwave-seminar-18102021-takuya-sasatani
   press_release_en: 
   press_release_jp: 
@@ -1916,7 +1916,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1945,7 +1945,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3494996
   open_access: "/assets/paper/takahashi2021imwut.pdf"
-  abstract_link: 
+  link: 
   video: https://youtu.be/S7sJQAP5a7A?feature=shared
   press_release_en: 
   press_release_jp: 
@@ -1971,7 +1971,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -1982,7 +1982,7 @@
   type: patent
   thumbnail: 
   priority: 
-  author: 丹羽 直幹，緑川浩史，松岡信仁，宇治川智，小谷宏己，川原圭博，成末義哲，笹谷拓也（鹿島建設株式会社; 国立大学法人東京大学）
+  author: 丹羽直幹，緑川浩史，松岡信仁，宇治川智，小谷宏己，川原圭博，成末義哲，笹谷拓也（鹿島建設株式会社; 国立大学法人東京大学）
   _time: '2022-3-4'
   year: '2022'
   month: '3'
@@ -1997,7 +1997,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-035336/11/ja
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2023,7 +2023,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2050,7 +2050,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/ojpel.2022.3183600
   open_access: https://ieeexplore.ieee.org/document/9797856
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2076,7 +2076,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2102,7 +2102,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2128,7 +2128,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2155,7 +2155,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2182,7 +2182,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2210,7 +2210,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3560905.3568075
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2236,7 +2236,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2262,7 +2262,7 @@
   to_appear: 
   doi: https://doi.org/10.18974/jvrsj.28.2_14
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2289,7 +2289,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/lawp.2023.3294940
   open_access: https://ieeexplore.ieee.org/document/10182363
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2317,7 +2317,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/IGARSS52108.2023.10282437
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2343,7 +2343,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2369,7 +2369,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2398,7 +2398,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3570361.3613264
   open_access: https://dl.acm.org/doi/10.1145/3570361.3613264
-  abstract_link: 
+  link: 
   video: https://youtu.be/7SezvxK_vrY?feature=shared
   press_release_en: https://group.ntt/en/newsrelease/2023/10/02/231002a.html
   press_release_jp: https://group.ntt/jp/newsrelease/2023/10/02/231002a.html
@@ -2426,7 +2426,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: https://www.abstractsonline.com/pp8/#!/10892/presentation/35686
+  link: https://www.abstractsonline.com/pp8/#!/10892/presentation/35686
   video: https://x.com/takuyasasatani/status/1723707465286517017
   press_release_en: 
   press_release_jp: 
@@ -2453,7 +2453,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/lawp.2023.3318244
   open_access: "/assets/paper/honjo2023awpl.pdf"
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2481,7 +2481,7 @@
   to_appear: 
   doi: https://doi.org/10.1109/PerComWorkshops59983.2024.10503176
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2510,7 +2510,7 @@
   to_appear: 
   doi: https://doi.org/10.1145/3625687.3629535
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2536,7 +2536,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2562,7 +2562,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2588,7 +2588,7 @@
   to_appear: 
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2614,7 +2614,7 @@
   to_appear: 'TRUE'
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2641,7 +2641,7 @@
   to_appear: 'TRUE'
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2669,7 +2669,59 @@
   to_appear: 'TRUE'
   doi: 
   open_access: 
-  abstract_link: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  note: 
+- title: 検出システム、検出方法及びプログラム（特開2024-065074）
+  publication: 特許庁
+  publication_abbr: 
+  type: patent
+  thumbnail: 
+  priority: 
+  author: 川原圭博，高木健，張雨珂，笹谷拓也，村上弘晃（国立大学法人東京大学）
+  _time: '2024-5-14'
+  year: '2024'
+  month: '5'
+  month_str: May
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-065074/11/ja
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  note: 
+- title: ウェアラブルセンシング装置（特開2022-128421）
+  publication: 特許庁
+  publication_abbr: 
+  type: patent
+  thumbnail: 
+  priority: 
+  author: 川原圭博，高橋亮，笹谷拓也（国立大学法人東京大学）
+  _time: '2022-9-1'
+  year: '2022'
+  month: '9'
+  month_str: September
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-128421/11/ja
   video: 
   press_release_en: 
   press_release_jp: 
