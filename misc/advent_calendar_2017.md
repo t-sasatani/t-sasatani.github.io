@@ -4,6 +4,8 @@ title:  "D進前の研究インターン@Disney Research
 "
 ---
 
+# はじめに
+
 [研究留学 Advent Calendar 2017](https://adventar.org/calendars/2562) 10日目の記事です。
 東京大学の川原研究室で修士2年をやっています、笹谷拓也（[@takuyasasatani](https://x.com/takuyasasatani)）です。
 今年の1月から7月までの間、Disney Researchで研究インターンをしていて思ったことなどを書こうと思います。（研究所のシステムとかに関しては、NDA的に怪しいので触れません。）非常に良い時期に充実した研究インターンができたと思っているので、良い話が中心になると思います。
