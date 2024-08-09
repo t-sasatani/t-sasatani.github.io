@@ -48,7 +48,6 @@ h3 {
 .cv-pub-category,
 .cv-category {
   font-weight: var(--font-weight-bold); /* Heavy for headings */
-  font-size: 1em; /* Adjust the size as needed */
   margin-top: 10pt;
 }
 
