@@ -113,8 +113,8 @@
 {% endif %}
 
 {% if include.context == 'cv' %}
-<div class="row">
-	<div class="col-md-2 cv-pub-category">
+<div class="row cv-pub-category">
+	<div class="col-md-2 cv-pub-category-name">
 		{{ include.type_names[type] }}
 	</div>
 	<div class="col-md-10 cv-list">
@@ -175,6 +175,7 @@
 			</li>
 			{% endfor %}
 		</ol>
+		<hr>
 	</div>
 </div>
 {% endif %}
