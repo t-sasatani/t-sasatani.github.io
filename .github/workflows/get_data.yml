@@ -38,6 +38,7 @@ jobs:
           "_data/publication.yml"
           "_data/service.yml"
           "_data/teaching.yml"
+          "_data/media.yml"
         )
 
         # Initialize the change flag
