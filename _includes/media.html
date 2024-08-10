@@ -4,8 +4,7 @@
 {% assign media_by_lang = site.data.media | where: 'language', language %}
 
 {% if media_by_lang != null and media_by_lang.size > 0 %}
-{% assign media_by_lang = media_by_lang | sort: 'month' %}
-{% assign media_by_lang = media_by_lang | sort: 'year' | reverse %}
+{% assign media_by_lang = media_by_lang | sort: 'date' | reverse %}
 {% if include.debug %}
 <h3>
 	{{ language }}
