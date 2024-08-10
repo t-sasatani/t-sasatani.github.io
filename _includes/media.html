@@ -1,0 +1,32 @@
+{% assign ordered_languages = "en,jp,other" | split: "," %}
+
+{% for language in ordered_languages %}
+{% assign media_by_lang = site.data.media | where: 'language', language %}
+
+{% if media_by_lang != null and media_by_lang.size > 0 %}
+{% assign media_by_lang = media_by_lang | sort: 'month' %}
+{% assign media_by_lang = media_by_lang | sort: 'year' | reverse %}
+{% if include.debug %}
+<h3>
+	{{ language }}
+</h3>
+{% endif %}
+<h2 id="{{ type }}">{{ include.lang_names[language] }}</h2>
+{% for item in media_by_lang %}
+{% if item.date and item.title %}
+<div class="row">
+	<div class="col-md-2 media-date">
+		{{ item['date'] | date: "%b %d, %Y" }}
+	</div>
+	<div class="col-md-10 media-list">
+		{% if item.url %}
+		<strong>{{ item.media }}</strong>&mdash;<a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+		{% else %}
+		<strong>{{ item.media }}</strong>&mdash;{{ item.title }}
+		{% endif %}
+	</div>
+</div>
+{% endif %}
+{% endfor %}
+{% endif %}
+{% endfor %}

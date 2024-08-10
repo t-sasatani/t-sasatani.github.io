@@ -126,7 +126,7 @@
 				{% assign authors = authors | replace: '笹谷拓也', '<u>笹谷拓也</u>' %}
 				<span class="author-list">{{ authors | safe }},</span>
 				{% if publication.doi %}
-				"<a href="{{ publication.doi }}">{{ publication.title }}</a>,"
+				"<a href="{{ publication.doi }}" target="_blank">{{ publication.title }}</a>,"
 				{% else %}
 				"{{ publication.title }},"
 				{% endif %}
