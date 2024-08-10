@@ -7,7 +7,7 @@ layout: default
 
 <h2>Professional experience</h2>
 {% for item in site.data.career %}
-  <div class="row">
+  <div class="row cv-item">
     <div class="col-md-2 cv-date">
       {{ item['start_date'] | date: "%Y" }}&ndash;{{ item['end_date'] | date: "%Y" }}
     </div>
@@ -20,7 +20,7 @@ layout: default
 
 <h2>Education</h2>
 {% for item in site.data.education %}
-  <div class="row">
+  <div class="row cv-item">
     <div class="col-md-2 cv-date">
       {{ item['start_date'] | date: "%Y" }}&ndash;{{ item['end_date'] | date: "%Y" }}
     </div>
@@ -33,7 +33,7 @@ layout: default
 
 <h2>Grants awarded (as PI)</h2>
 {% for item in site.data.grant %}
-  <div class="row">
+  <div class="row cv-item">
     <div class="col-md-2 cv-date">
       {{ item['start_date'] | date: "%Y" }}&ndash;{{ item['end_date'] | date: "%Y" }}
     </div>
@@ -46,7 +46,7 @@ layout: default
 
 <h2>Awards and honors</h2>
 {% for item in site.data.award %}
-  <div class="row">
+  <div class="row cv-item">
     <div class="col-md-2 cv-date">
       {{ item['date'] | date: "%b %d, %Y" }}
     </div>
@@ -59,7 +59,7 @@ layout: default
 
 <h2>Academic service / reviewer</h2>
 {% for item in site.data.service %}
-  <div class="row">
+  <div class="row cv-item">
     <div class="col-md-2 cv-date"></div>
     <div class="col-md-10 cv-list">
       <strong>{{ item['role'] }}</strong>&mdash;{{ item['program'] }}

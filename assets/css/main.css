@@ -19,8 +19,8 @@ body {
 
 h1, h2, h3 {
   font-weight: var(--font-weight-bold); /* Heavy for headings */
-  margin-top: 20pt;
-  margin-bottom: 10pt;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 h1 {
@@ -57,17 +57,16 @@ h3 {
 }
 
 .cv-list .cv-date .media-list .media-date{
-  margin-top: 10pt;
+  margin-top: 0px;
+}
+
+.cv-item{
+  margin-top: 3px;
 }
 
 .publication-number {
   font-weight: bold;
   margin-right: 5px;
-}
-
-.publication-list {
-  margin-left: 20pt;
-  margin-top: 20pt;
 }
 
 /* Lists and Paragraphs */
