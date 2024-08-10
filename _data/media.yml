@@ -1,33 +1,33 @@
 ---
 - date: '2019-6-17'
-  media: WBS
+  media: テレビ東京：WBS
   title: 部屋中どこでもワイヤレス充電
   type: TV
   language: jp
   url: https://www.tv-tokyo.co.jp/mv/wbs/newsl/post_179498/
   _internal: 
-- date: 
-  media: 日本テレビ（news every./日テレNEWS24）
-  title: 部屋のどこでもワイヤレス充電 東大が開発
+- date: '2019-6-18'
+  media: 日本テレビ：news every./日テレNEWS24/おはセレクト
+  title: '東大研究グループが開発・部屋のどこでもワイヤレス充電：Oha!4 '
   type: TV
   language: jp
   url: https://headlines.yahoo.co.jp/videonews/nnn?a=20190617-00000413-nnn-soci
   _internal: 
-- date: 
-  media: テレビ朝日
-  title: スーパーJチャンネル 部屋に入るだけで充電！東大チーム驚きの技術
+- date: '2019-6-17'
+  media: テレビ朝日：スーパーJチャンネル
+  title: 部屋に入るだけで充電！東大チーム驚きの技術
   type: TV
   language: jp
   url: https://headlines.yahoo.co.jp/videonews/ann?a=20190617-00000054-ann-soci
   _internal: 
-- date: 
+- date: '2019-6-17'
   media: 広島ホームテレビ
   title: コンセントいらず… どこでもワイヤレス充電に成功
   type: TV
   language: jp
   url: https://www.home-tv.co.jp/news/content/?news_id=000157298
   _internal: 
-- date: 
+- date: '2019-6-17'
   media: 時事通信
   title: 未来の家、配線不要に？＝部屋中どこでも無線充電－東大
   type: TV
@@ -104,14 +104,14 @@
   language: other
   url: https://www.deingenieur.nl/artikel/de-hele-woonkamer-wordt-een-oplader
   _internal: 
-- date: 
+- date: '2019-6-19'
   media: fabcross
   title: 東大、部屋のどこでもワイヤレス充電が可能になる技術を開発｜fabcross
   type: Web
   language: jp
   url: https://fabcross.jp/news/2019/20190619_eratokawahara_wirelesspowersupply.html
   _internal: 
-- date: 
+- date: '2019-6-19'
   media: Itmedia News
   title: スマホなど部屋中どこでもワイヤレス充電 東大が実験部屋を公開
   type: Web
@@ -153,7 +153,7 @@
   language: other
   url: https://m.weibo.cn/1642634100/4386718704645453
   _internal: 
-- date: 
+- date: '2019-6-24'
   media: NHK WORLD-JAPAN News
   title: Researchers turn room into wireless charger
   type: TV
@@ -174,7 +174,7 @@
   language: jp
   url: 
   _internal: 朝刊9面 科学技術
-- date: 
+- date: '2019-6-25'
   media: ねとらぼ
   title: 部屋中どこでもワイヤレス充電できる技術、東大が開発
   type: Web
@@ -188,21 +188,21 @@
   language: jp
   url: https://bae.dentsutec.co.jp/articles/charging/
   _internal: 
-- date: 
-  media: TBS 未来の起源
-  title: 未来の起源「どこでもワイヤレス充電できるシステム」
+- date: '2019-11-3'
+  media: TBS：未来の起源
+  title: "「どこでもワイヤレス充電できるシステム」"
   type: TV
   language: jp
   url: 
   _internal: 
-- date: 
-  media: テレビ東京 AI・DOLプロジェクト（エーアイドルプロジェクト）
-  title: AI・DOLプロジェクト　 未来の部屋はコンセントいらず！部屋中どこでもワイヤレス充電
+- date: '2020-3-16'
+  media: テレビ東京：AI・DOLプロジェクト
+  title: 未来の部屋はコンセントいらず！部屋中どこでもワイヤレス充電
   type: TV
   language: jp
   url: https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202003/21135_202003162500.html
   _internal: 
-- date: 
+- date: '2021-9-2'
   media: Scientific American
   title: This Room Could Wirelessly Charge All Your Devices
   type: Web
@@ -223,7 +223,7 @@
   language: other
   url: https://videnskab.dk/teknologi-innovation/japansk-oplader-rum-giver-traadloes-stroem-til-baade-en-lampe-vifte-og-mobil
   _internal: 
-- date: 
+- date: '2021-9-1'
   media: The Register
   title: Arms not long enough to reach the plug socket? Room-wide wireless charging
     is on the way
@@ -231,7 +231,7 @@
   language: en
   url: https://www.theregister.com/2021/09/01/wireless_charging_tech_paper/
   _internal: 
-- date: 
+- date: '2021-8-31'
   media: ABC News (Australia)
   title: Wireless charging room powers your devices without plugs or cables
   type: TV
@@ -253,7 +253,7 @@
   language: en
   url: https://www.futurity.org/charging-room-wireless-electricity-power-2619972/?utm_source=rss&utm_medium=rss&utm_campaign=charging-room-wireless-electricity-power-2619972
   _internal: 
-- date: 
+- date: '2021-8-31'
   media: nature asia
   title: 'Electronics: Wireless power scales up'
   type: Web
@@ -375,14 +375,14 @@
   language: other
   url: https://ab-news.ru/2021/08/31/pomeshhenie-dlya-besprovodnoj-zaryadki/
   _internal: 
-- date: 
+- date: '2021-9-16'
   media: Fast Company
   title: This magic room charges your phone as soon as you walk in
   type: Web
   language: en
   url: https://www.fastcompany.com/90676884/this-magic-room-charges-your-phone-as-soon-as-you-walk-in
   _internal: 
-- date: 
+- date: '2021-9-21'
   media: IEEE Spectrum
   title: Charging Rooms Can Power Devices Without Wires
   type: Web
