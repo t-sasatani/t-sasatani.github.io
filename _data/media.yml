@@ -93,66 +93,55 @@
   type: TV
   language: jp
   featured: 
-  url: https://www.tv-tokyo.co.jp/mv/wbs/newsl/post_179498/
+  url: 
   year: '2019'
   month: '6'
   day: '17'
-  _internal: 
+  _internal: https://www.tv-tokyo.co.jp/mv/wbs/newsl/post_179498/
 - date: '2019-6-17'
   media: テレビ朝日：スーパーJチャンネル
   title: 部屋に入るだけで充電！東大チーム驚きの技術
   type: TV
   language: jp
   featured: 
-  url: https://headlines.yahoo.co.jp/videonews/ann?a=20190617-00000054-ann-soci
+  url: 
   year: '2019'
   month: '6'
   day: '17'
-  _internal: 
+  _internal: https://headlines.yahoo.co.jp/videonews/ann?a=20190617-00000054-ann-soci
 - date: '2019-6-17'
   media: 広島ホームテレビ
   title: コンセントいらず… どこでもワイヤレス充電に成功
   type: TV
   language: jp
   featured: 
-  url: https://www.home-tv.co.jp/news/content/?news_id=000157298
+  url: 
   year: '2019'
   month: '6'
   day: '17'
-  _internal: 
+  _internal: https://www.home-tv.co.jp/news/content/?news_id=000157298
 - date: '2019-6-17'
   media: 時事通信
   title: 未来の家、配線不要に？＝部屋中どこでも無線充電－東大
   type: TV
   language: jp
   featured: 
-  url: https://www.jiji.com/jc/article?k=2019061700814&g=soc
+  url: 
   year: '2019'
   month: '6'
   day: '17'
-  _internal: 
+  _internal: https://www.jiji.com/jc/article?k=2019061700814&g=soc
 - date: '2019-6-17'
   media: 読売新聞オンライン
   title: 部屋中どこでもスマホ充電、東大グループが開発
   type: Web
   language: jp
   featured: 
-  url: https://www.yomiuri.co.jp/science/20190617-OYT1T50172/?fbclid=IwAR0pIMkBwDygKBBvWd1cqd0YgC9vdUonWI1h3ls7kM83VE_HWIoGAzO766Q
+  url: 
   year: '2019'
   month: '6'
   day: '17'
-  _internal: 
-- date: '2019-6-17'
-  media: 日本経済新聞 電子版
-  title: 配線不要の電力供給 東大が磁界使い開発、IoT用に
-  type: Web
-  language: jp
-  featured: 
-  url: https://www.nikkei.com/article/DGXMZO46200030X10C19A6000000/
-  year: '2019'
-  month: '6'
-  day: '17'
-  _internal: 
+  _internal: https://www.yomiuri.co.jp/science/20190617-OYT1T50172/?fbclid=IwAR0pIMkBwDygKBBvWd1cqd0YgC9vdUonWI1h3ls7kM83VE_HWIoGAzO766Q
 - date: '2019-6-17'
   media: 日本経済新聞
   title: "配線不要の電力供給　東大が磁界使い開発、IoT用に\r"
@@ -170,11 +159,11 @@
   type: Web
   language: jp
   featured: 
-  url: https://abema.tv/video/episode/89-42_s0_p157298
+  url: 
   year: '2019'
   month: '6'
   day: '17'
-  _internal: 
+  _internal: https://abema.tv/video/episode/89-42_s0_p157298
 - date: '2019-6-17'
   media: 読売新聞
   title: 部屋中どこでもスマホ充電、東大グループが開発
@@ -203,11 +192,11 @@
   type: TV
   language: jp
   featured: 
-  url: https://headlines.yahoo.co.jp/videonews/nnn?a=20190617-00000413-nnn-soci
+  url: 
   year: '2019'
   month: '6'
   day: '18'
-  _internal: 
+  _internal: https://headlines.yahoo.co.jp/videonews/nnn?a=20190617-00000413-nnn-soci
 - date: '2019-6-18'
   media: 日本テレビ：ZIP
   title: 部屋中どこでもワイヤレス充電
@@ -346,11 +335,11 @@
   type: Web
   language: other
   featured: 
-  url: http://life.eastmoney.com/a/201906191155509470.html
+  url: 
   year: '2019'
   month: '6'
   day: '19'
-  _internal: 
+  _internal: http://life.eastmoney.com/a/201906191155509470.html
 - date: '2019-6-21'
   media: SimmTester.com
   title: How to expand ways in wireless charging ?
@@ -379,33 +368,33 @@
   type: TV
   language: en
   featured: 
-  url: https://www3.nhk.or.jp/nhkworld/en/news/ataglance/399/
+  url: 
   year: '2019'
   month: '6'
   day: '24'
-  _internal: 
+  _internal: https://www3.nhk.or.jp/nhkworld/en/news/ataglance/399/
 - date: '2019-6-24'
   media: 微博
   title: 东京大学研发团队研发出
   type: Web
   language: other
   featured: 
-  url: https://m.weibo.cn/1642634100/4386718704645453
+  url: 
   year: '2019'
   month: '6'
   day: '24'
-  _internal: 
+  _internal: https://m.weibo.cn/1642634100/4386718704645453
 - date: '2019-6-24'
   media: カミアプ
   title: 東大「室内どこでもワイヤレス充電」を実用化へ
   type: Web
   language: jp
   featured: 
-  url: https://www.appps.jp/331894/
+  url: 
   year: '2019'
   month: '6'
   day: '24'
-  _internal: 
+  _internal: https://www.appps.jp/331894/
 - date: '2019-6-24'
   media: 日本経済新聞
   title: 配線使わずに磁界で電力供給
@@ -445,11 +434,11 @@
   type: Web
   language: jp
   featured: 
-  url: https://bae.dentsutec.co.jp/articles/charging/
+  url: 
   year: '2019'
   month: '8'
   day: '16'
-  _internal: 
+  _internal: https://bae.dentsutec.co.jp/articles/charging/
 - date: '2019-10-4'
   media: Seamless
   title: "東京大学、パズルのように組み合わせてワイヤレス充電面を構築できる2D無線電力伝送シートシステム「Alvus」発表\r"
@@ -509,7 +498,7 @@
   media: ITmedia NEWS
   title: "机や太ももの上でキーボードなしタイピング　指輪型「TelemetRing」、東大とMicrosoftが開発\r"
   type: Web
-  language: en
+  language: jp
   featured: 
   url: https://www.itmedia.co.jp/news/articles/2104/09/news051.html
   year: '2021'
@@ -655,11 +644,11 @@
   type: Web
   language: en
   featured: 
-  url: http://www.natureasia.com/en/research/highlight/13802
+  url: 
   year: '2021'
   month: '8'
   day: '31'
-  _internal: 
+  _internal: http://www.natureasia.com/en/research/highlight/13802
 - date: '2021-8-31'
   media: All About Ann Arbor
   title: "University of Michigan researchers unveil wireless ‘charging room’ system
@@ -1053,6 +1042,182 @@
   month: '4'
   day: '20'
   _internal: 
+- date: '2023-10-2'
+  media: NTT (Press Release)
+  title: "World's first millimeter-wave RFID tag to improve drone navigation accuracy\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://group.ntt/en/newsrelease/2023/10/02/231002a.html
+  year: '2023'
+  month: '10'
+  day: '2'
+  _internal: 
+- date: '2023-10-2'
+  media: DRONE
+  title: "NTTと東京大学、世界初ドローンの航法精度を向上するミリ波RFIDタグを開発。視界不良下でも安全に\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://www.drone.jp/news/2023100215001073733.html
+  year: '2023'
+  month: '10'
+  day: '2'
+  _internal: 
+- date: '2023-10-2'
+  media: Impress Watch
+  title: "NTTと東大、悪天候でもドローンを精密誘導する「ミリ波RFIDタグ」\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://www.watch.impress.co.jp/docs/news/1536079.html
+  year: '2023'
+  month: '10'
+  day: '2'
+  _internal: 
+- date: '2023-10-2'
+  media: Robot Business News
+  title: "NTT、東大とドローンの航法精度を向上するミリ波RFIDタグ開発\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://robobiz.biz/drone/1667/
+  year: '2023'
+  month: '10'
+  day: '2'
+  _internal: 
+- date: '2023-10-2'
+  media: IoT News
+  title: "NTTと東京大学、視界不良状況下でのドローンの航法精度を向上するミリ波RFIDタグを開発\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://iotnews.jp/drone/234892/
+  year: '2023'
+  month: '10'
+  day: '2'
+  _internal: 
+- date: '2023-10-2'
+  media: ロボスタ
+  title: "【世界初】NTTと東京大学がドローンの航法精度を向上する「ミリ波RFIDタグ」開発　視界不良でのドローンの航法精度を向上"
+  type: Web
+  language: jp
+  featured: 
+  url: https://robotstart.info/2023/10/02/developed-millimeter-rfid-tags.html
+  year: '2023'
+  month: '10'
+  day: '2'
+  _internal: 
+- date: '2023-10-3'
+  media: 電波新聞
+  title: "NTTと東大新技術開発、ミリ波RFIDでドローン高度化 　視界不良下でも飛行可能に\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://dempa-digital.com/article/479612
+  year: '2023'
+  month: '10'
+  day: '3'
+  _internal: 
+- date: '2023-10-3'
+  media: Tech+
+  title: "NTTと東大がミリ波RFIDタグを開発 - 視界不良下のドローン航法精度向上へ\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://news.mynavi.jp/techplus/article/20231003-2783637/
+  year: '2023'
+  month: '10'
+  day: '3'
+  _internal: 
+- date: '2023-10-4'
+  media: EE Times Japan
+  title: ドローンの航法精度を向上、ミリ波RFIDタグ開発
+  type: Web
+  language: jp
+  featured: 
+  url: https://eetimes.itmedia.co.jp/ee/articles/2310/04/news035.html
+  year: '2023'
+  month: '10'
+  day: '4'
+  _internal: 
+- date: '2023-10-4'
+  media: 日刊工業新聞
+  title: NTTと東大、読み取り範囲7.8倍のミリ波RFIDタグ開発　ドローン航行補助
+  type: News_paper
+  language: jp
+  featured: 
+  url: https://www.nikkan.co.jp/articles/view/00687986
+  year: '2023'
+  month: '10'
+  day: '4'
+  _internal: 
+- date: '2023-10-10'
+  media: ドローンジャーナル
+  title: "NTTと東京大学、ドローンの航法精度を向上するミリ波RFIDタグを開発\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://drone-journal.impress.co.jp/docs/news/1185505.html
+  year: '2023'
+  month: '10'
+  day: '10'
+  _internal: 
+- date: '2023-10-13'
+  media: New Atlas
+  title: "Millisign tech guides autonomous drones via battery-less ground tags\r"
+  type: Web
+  language: en
+  featured: 
+  url: https://newatlas.com/drones/millisign-guides-drones-rfid-tags/
+  year: '2023'
+  month: '10'
+  day: '13'
+  _internal: 
+- date: '2023-10-16'
+  media: NIKKEI Mobility
+  title: "視界不良でもドローン飛行　NTTと東大が共同開発\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://www.nikkei.com/prime/mobility/article/DGXZQOUC050PB0V01C23A0000000
+  year: '2023'
+  month: '10'
+  day: '16'
+  _internal: 
+- date: '2023-10-16'
+  media: TelcoNews
+  title: "NTT unveils the world's first battery-free drone nav system\r"
+  type: Web
+  language: en
+  featured: 
+  url: https://telconews.asia/story/ntt-unveils-the-world-s-first-battery-free-drone-nav-system
+  year: '2023'
+  month: '10'
+  day: '16'
+  _internal: 
+- date: '2023-11-30'
+  media: MIT Technology Review
+  title: "笹谷拓也：Wi-Fiのような給電技術と「その先」を探る研究者\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://www.technologyreview.jp/s/320610/trajectory-of-u35-innovators-takuya-sasatani/
+  year: '2023'
+  month: '11'
+  day: '30'
+  _internal: 
+- date: '2024-3-21'
+  media: Beyond Our Planet
+  title: "ドローンの標識となるミリ波RFIDタグを活用した気象予測や災害対応の高度化\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://www.rd.ntt/se/media/article/0094.html
+  year: '2024'
+  month: '3'
+  day: '21'
+  _internal: 
 - date: 
   media: 
   title: 
@@ -1152,14 +1317,14 @@
   month: 
   day: 
   _internal: 
-- date: '2023-11-30'
-  media: MIT Technology Review
-  title: "笹谷拓也：Wi-Fiのような給電技術と「その先」を探る研究者\r"
+- date: '2023-5-18'
+  media: Forbes
+  title: '30 Under 30 2023: Healthcare & Science'
   type: Web
-  language: jp
+  language: en
   featured: 
-  url: 
+  url: https://www.forbes.com/30-under-30/2023/asia/healthcare-science
   year: '2023'
-  month: '11'
-  day: '30'
+  month: '5'
+  day: '18'
   _internal: 
