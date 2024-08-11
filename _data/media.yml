@@ -4,6 +4,7 @@
   title: Charging Rooms Can Power Devices Without Wires
   type: Web
   language: en
+  featured: 'TRUE'
   url: https://spectrum.ieee.org/charging-rooms-can-power-devices-without-wires
   year: '2021'
   month: '9'
@@ -14,6 +15,7 @@
   title: This magic room charges your phone as soon as you walk in
   type: Web
   language: en
+  featured: 'TRUE'
   url: https://www.fastcompany.com/90676884/this-magic-room-charges-your-phone-as-soon-as-you-walk-in
   year: '2021'
   month: '9'
@@ -24,6 +26,7 @@
   title: Japanese experts turn whole room into wireless charger
   type: Web
   language: en
+  featured: 
   url: https://www.bolnews.com/trending/2021/09/japanese-experts-turned-the-whole-room-into-a-wireless-charger/
   year: '2021'
   month: '9'
@@ -34,6 +37,7 @@
   title: This Room Can Wirelessly Charge All Of Your Devices – Here Is How
   type: Web
   language: en
+  featured: 
   url: https://wonderfulengineering.com/this-room-can-wirelessly-charge-all-of-your-devices-here-is-how/
   year: '2021'
   month: '9'
@@ -45,6 +49,7 @@
     the \"Charging Room\"\r"
   type: Web
   language: en
+  featured: 
   url: https://www.everythingrf.com/news/details/13084-lights-phones-and-laptops-can-now-wirelessly-charge-at-the-same-time-in-the-charging-room
   year: '2021'
   month: '9'
@@ -56,6 +61,7 @@
     Devices
   type: Web
   language: en
+  featured: 
   url: https://www.industrytap.com/the-future-is-looking-wireless-charging-room-can-wirelessly-charge-your-devices/60112
   year: '2021'
   month: '9'
@@ -66,6 +72,7 @@
   title: 最新黑科技！房间级无线电力传输梦想成真，功率超50W
   type: Web
   language: other
+  featured: 
   url: https://www.sohu.com/a/488093571_120493035
   year: '2021'
   month: '9'
@@ -76,6 +83,7 @@
   title: Researchers Build Room That Wirelessly Charges Electronics
   type: Web
   language: en
+  featured: 
   url: https://interestingengineering.com/researchers-build-room-that-wirelessly-charges-electronics
   year: '2021'
   month: '9'
@@ -86,6 +94,7 @@
   title: "Bientôt la recharge sans fil partout dans votre bâtiment !\r"
   type: Web
   language: other
+  featured: 
   url: https://www.futura-sciences.com/tech/actualites/ondes-bientot-recharge-fil-partout-votre-batiment-93279/#xtor%3DRSS-8
   year: '2021'
   month: '9'
@@ -96,6 +105,7 @@
   title: This Room Can Wirelessly Charge Devices Anywhere Within Its Walls
   type: Web
   language: en
+  featured: 
   url: https://singularityhub.com/2021/09/03/this-room-can-wirelessly-charge-all-the-devices-between-its-walls/
   year: '2021'
   month: '9'
@@ -106,6 +116,7 @@
   title: This Room Could Wirelessly Charge All Your Devices
   type: Web
   language: en
+  featured: 'TRUE'
   url: https://www.scientificamerican.com/article/this-room-could-wirelessly-charge-all-your-devices/
   year: '2021'
   month: '9'
@@ -116,6 +127,7 @@
   title: 部屋がまるごと無線充電デバイスに！？米ミシガン大学と東大が無線充電システムを開発
   type: Web
   language: jp
+  featured: 
   url: https://www.axismag.jp/posts/2021/09/400402.html
   year: '2021'
   month: '9'
@@ -127,6 +139,7 @@
     Wires\r"
   type: Web
   language: en
+  featured: 
   url: https://www.allaboutcircuits.com/news/new-wireless-power-transfer-prototype-charging-room-aims-to-power-your-living-room-without-wires/
   year: '2021'
   month: '9'
@@ -138,6 +151,7 @@
     is on the way
   type: Web
   language: en
+  featured: 
   url: https://www.theregister.com/2021/09/01/wireless_charging_tech_paper/
   year: '2021'
   month: '9'
@@ -148,6 +162,7 @@
   title: Wireless charging breakthrough turns rooms into charging zones
   type: Web
   language: en
+  featured: 
   url: https://www.hiddenwires.co.uk/news/article/wireless-charging-breakthrough-turns-rooms-into-charging-zones
   year: '2021'
   month: '9'
@@ -158,6 +173,7 @@
   title: "ワイヤレス給電の新たな方法が開発される\r"
   type: Web
   language: jp
+  featured: 
   url: https://jp.sputniknews.com/science/202109018665506/
   year: '2021'
   month: '9'
@@ -168,6 +184,7 @@
   title: "Wireless charging offers pervasive power in buildings\r"
   type: Web
   language: en
+  featured: 
   url: https://www.theengineer.co.uk/wireless-charging-offers-pervasive-power-in-buildings/
   year: '2021'
   month: '9'
@@ -178,16 +195,18 @@
   title: "This entire room has been turned into a giant wireless charger\r"
   type: 
   language: 
+  featured: 
   url: https://www.weforum.org/agenda/2021/09/electricity-power-wireless-charging-tech-future/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+inside-the-world-economic-forum+%28Inside+The+World+Economic+Forum%29
   year: '2021'
   month: '9'
   day: '1'
   _internal: 
 - date: '2021-8-31'
-  media: ABC News (Australia)
+  media: ABC News
   title: Wireless charging room powers your devices without plugs or cables
   type: TV
   language: en
+  featured: 'TRUE'
   url: https://www.abc.net.au/news/science/2021-08-31/wireless-charging-room-can-power-devices-without-cables/100418234
   year: '2021'
   month: '8'
@@ -198,6 +217,7 @@
   title: 'Electronics: Wireless power scales up'
   type: Web
   language: en
+  featured: 
   url: http://www.natureasia.com/en/research/highlight/13802
   year: '2021'
   month: '8'
@@ -209,6 +229,7 @@
     that powers phones, laptops\r"
   type: Web
   language: en
+  featured: 
   url: https://www.clickondetroit.com/all-about-ann-arbor/2021/08/30/university-of-michigan-researchers-unveil-wireless-charging-room-system-that-powers-phones-laptops/#//
   year: '2021'
   month: '8'
@@ -219,6 +240,7 @@
   title: "‘Charging room’ system can power your devices without wires\r"
   type: 
   language: 
+  featured: 
   url: https://www.dpaonthenet.net/article/186793/-Charging-room--system-can-power-your-devices-without-wires.aspx
   year: '2021'
   month: '8'
@@ -229,6 +251,7 @@
   title: 未来の部屋はコンセントいらず！部屋中どこでもワイヤレス充電
   type: TV
   language: jp
+  featured: 
   url: https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202003/21135_202003162500.html
   year: '2020'
   month: '3'
@@ -239,6 +262,7 @@
   title: "「どこでもワイヤレス充電できるシステム」"
   type: TV
   language: jp
+  featured: 
   url: 
   year: '2019'
   month: '11'
@@ -249,6 +273,7 @@
   title: 部屋中どこでもワイヤレス充電できる技術、東大が開発
   type: Web
   language: jp
+  featured: 
   url: https://nlab.itmedia.co.jp/nl/articles/1906/25/news135.html
   year: '2019'
   month: '6'
@@ -259,6 +284,7 @@
   title: Researchers turn room into wireless charger
   type: TV
   language: en
+  featured: 
   url: https://www3.nhk.or.jp/nhkworld/en/news/ataglance/399/
   year: '2019'
   month: '6'
@@ -269,6 +295,7 @@
   title: 東大、部屋のどこでもワイヤレス充電が可能になる技術を開発｜fabcross
   type: Web
   language: jp
+  featured: 
   url: https://fabcross.jp/news/2019/20190619_eratokawahara_wirelesspowersupply.html
   year: '2019'
   month: '6'
@@ -279,6 +306,7 @@
   title: スマホなど部屋中どこでもワイヤレス充電 東大が実験部屋を公開
   type: Web
   language: jp
+  featured: 'TRUE'
   url: https://www.itmedia.co.jp/news/articles/1906/19/news046.html
   year: '2019'
   month: '6'
@@ -289,6 +317,7 @@
   title: '東大研究グループが開発・部屋のどこでもワイヤレス充電：Oha!4 '
   type: TV
   language: jp
+  featured: 
   url: https://headlines.yahoo.co.jp/videonews/nnn?a=20190617-00000413-nnn-soci
   year: '2019'
   month: '6'
@@ -299,6 +328,7 @@
   title: 部屋中どこでもワイヤレス充電
   type: TV
   language: jp
+  featured: 
   url: https://www.tv-tokyo.co.jp/mv/wbs/newsl/post_179498/
   year: '2019'
   month: '6'
@@ -309,6 +339,7 @@
   title: 部屋に入るだけで充電！東大チーム驚きの技術
   type: TV
   language: jp
+  featured: 
   url: https://headlines.yahoo.co.jp/videonews/ann?a=20190617-00000054-ann-soci
   year: '2019'
   month: '6'
@@ -319,6 +350,7 @@
   title: コンセントいらず… どこでもワイヤレス充電に成功
   type: TV
   language: jp
+  featured: 
   url: https://www.home-tv.co.jp/news/content/?news_id=000157298
   year: '2019'
   month: '6'
@@ -329,6 +361,7 @@
   title: 未来の家、配線不要に？＝部屋中どこでも無線充電－東大
   type: TV
   language: jp
+  featured: 
   url: https://www.jiji.com/jc/article?k=2019061700814&g=soc
   year: '2019'
   month: '6'
@@ -339,6 +372,7 @@
   title: 部屋中どこでもスマホ充電、東大グループが開発
   type: Web
   language: jp
+  featured: 
   url: https://www.yomiuri.co.jp/science/20190617-OYT1T50172/?fbclid=IwAR0pIMkBwDygKBBvWd1cqd0YgC9vdUonWI1h3ls7kM83VE_HWIoGAzO766Q
   year: 
   month: 
@@ -349,6 +383,7 @@
   title: 配線不要の電力供給 東大が磁界使い開発、IoT用に
   type: Web
   language: jp
+  featured: 
   url: https://www.nikkei.com/article/DGXMZO46200030X10C19A6000000/
   year: 
   month: 
@@ -359,6 +394,7 @@
   title: ZIP (部屋中どこでもワイヤレス充電)
   type: TV
   language: jp
+  featured: 
   url: 
   year: 
   month: 
@@ -369,6 +405,7 @@
   title: 部屋全域で無線充電 東大、高効率システム
   type: News_paper
   language: jp
+  featured: 
   url: 
   year: 
   month: 
@@ -379,6 +416,7 @@
   title: 室内どこでも充電 配線不要、電気代は割高
   type: News_paper
   language: jp
+  featured: 
   url: 
   year: 
   month: 
@@ -389,6 +427,7 @@
   title: スマホ、部屋のどこでも充電 東大が無線システム
   type: Web
   language: jp
+  featured: 
   url: https://www.nikkan.co.jp/articles/view/00520565
   year: 
   month: 
@@ -399,6 +438,7 @@
   title: 部屋中どこでもワイヤレス充電--東大が研究施設を公開
   type: Web
   language: jp
+  featured: 
   url: https://japan.cnet.com/article/35138620/
   year: 
   month: 
@@ -409,6 +449,7 @@
   title: 部屋全域へのワイヤレス充電を実証、コンセントフリー社会へ一歩前進、東大発表
   type: Web
   language: jp
+  featured: 
   url: https://pps-net.org/column/72228
   year: 
   month: 
@@ -419,6 +460,7 @@
   title: Tokyo engineers present a novel way to charge devices wirelessly
   type: Web
   language: jp
+  featured: 
   url: https://www.hardfindelectronics.com/a/179801.html
   year: 
   month: 
@@ -429,6 +471,7 @@
   title: DE HELE WOONKAMER WORDT EEN OPLADER
   type: Web
   language: other
+  featured: 
   url: https://www.deingenieur.nl/artikel/de-hele-woonkamer-wordt-een-oplader
   year: 
   month: 
@@ -439,6 +482,7 @@
   title: 部屋中どこでもワイヤレス充電、東京大学が実現
   type: Web
   language: jp
+  featured: 
   url: https://univ-journal.jp/26444/
   year: 
   month: 
@@ -449,6 +493,7 @@
   title: Researchers Demonstrate a New, Easy Way to Charge Devices Wirelessly
   type: Web
   language: en
+  featured: 
   url: https://www.azosensors.com/news.aspx?newsID=13074
   year: 
   month: 
@@ -459,6 +504,7 @@
   title: 东京大学研究人员提出无线充电设备的新方法
   type: Web
   language: other
+  featured: 
   url: http://life.eastmoney.com/a/201906191155509470.html
   year: 
   month: 
@@ -469,6 +515,7 @@
   title: How to expand ways in wireless charging ?
   type: Web
   language: en
+  featured: 
   url: https://simmtester.com/News/IndustryArticle/21243
   year: 
   month: 
@@ -479,6 +526,7 @@
   title: 东京大学研发团队研发出
   type: Web
   language: other
+  featured: 
   url: https://m.weibo.cn/1642634100/4386718704645453
   year: 
   month: 
@@ -489,6 +537,7 @@
   title: 東大「室内どこでもワイヤレス充電」を実用化へ
   type: Web
   language: jp
+  featured: 
   url: https://www.appps.jp/331894/
   year: 
   month: 
@@ -499,6 +548,7 @@
   title: 配線使わずに磁界で電力供給
   type: News_paper
   language: jp
+  featured: 
   url: 
   year: 
   month: 
@@ -509,6 +559,7 @@
   title: 次世代IoTやモビリティ社会の進化のカギを握る「ワイヤレス充電」 に画期的な技術が誕生
   type: Web
   language: jp
+  featured: 
   url: https://bae.dentsutec.co.jp/articles/charging/
   year: 
   month: 
@@ -519,6 +570,7 @@
   title: 无线充电扩大范围：台灯、风扇在室内任意位置都可充电
   type: Web
   language: other
+  featured: 
   url: https://www.thepaper.cn/newsDetail_forward_14274542
   year: 
   month: 
@@ -529,6 +581,7 @@
   title: Japansk ‘oplader-rum’ giver trådløs strøm til både en lampe, vifte og mobil
   type: Web
   language: other
+  featured: 
   url: https://videnskab.dk/teknologi-innovation/japansk-oplader-rum-giver-traadloes-stroem-til-baade-en-lampe-vifte-og-mobil
   year: 
   month: 
@@ -539,6 +592,7 @@
   title: Wireless charging room takes plugs out of the picture
   type: Web
   language: en
+  featured: 
   url: https://newatlas.com/electronics/room-scale-wireless-charging/
   year: 
   month: 
@@ -550,6 +604,7 @@
     air, potentially turning entire buildings into wireless charging zones.
   type: Web
   language: en
+  featured: 
   url: https://www.futurity.org/charging-room-wireless-electricity-power-2619972/?utm_source=rss&utm_medium=rss&utm_campaign=charging-room-wireless-electricity-power-2619972
   year: 
   month: 
@@ -560,6 +615,7 @@
   title: Charging room' system powers lights, phones, laptops without wires
   type: Web
   language: en
+  featured: 
   url: https://www.sciencedaily.com/releases/2021/08/210830123220.htm
   year: 
   month: 
@@ -570,6 +626,7 @@
   title: Charging room' system powers lights, phones, laptops without wires
   type: Web
   language: en
+  featured: 
   url: https://techxplore.com/news/2021-08-room-powers-laptops-wires.html
   year: 
   month: 
@@ -580,6 +637,7 @@
   title: "‘Charging room’ system powers lights, phones, laptops without wires"
   type: Web
   language: en
+  featured: 
   url: https://www.miragenews.com/charging-room-system-powers-lights-phones-622455/
   year: 
   month: 
@@ -590,6 +648,7 @@
   title: Kabelloses Laden im ganzen Raum möglich
   type: Web
   language: other
+  featured: 
   url: https://www.n-tv.de/wissen/Kabelloses-Laden-im-ganzen-Raum-moeglich-article22773073.html
   year: 
   month: 
@@ -600,6 +659,7 @@
   title: Wireless charging room delivers electricity over the AIR
   type: Web
   language: en
+  featured: 
   url: https://expressinformer.com/wireless-charging-room-delivers-electricity-over-the-air/
   year: 
   month: 
@@ -610,6 +670,7 @@
   title: De har byggt ett helt rum för trådlös laddning
   type: Web
   language: other
+  featured: 
   url: https://www.nyteknik.se/popularteknik/de-har-byggt-ett-helt-rum-for-tradlos-laddning-7019941
   year: 
   month: 
@@ -621,6 +682,7 @@
     Does it Work?
   type: Web
   language: en
+  featured: 
   url: https://www.techtimes.com/articles/264790/20210831/wireless-charging-room-wireless-charging-room-smartphones-wireless-charging-room-laptops-how-does-it-work.htm
   year: 
   month: 
@@ -631,6 +693,7 @@
   title: Разработан новый способ беспроводной зарядки
   type: Web
   language: other
+  featured: 
   url: https://lenta.ru/news/2021/08/31/charge/
   year: 
   month: 
@@ -641,6 +704,7 @@
   title: "‘Charging Room’ System Powers Lights, Phones, Laptops without Wires"
   type: Web
   language: en
+  featured: 
   url: https://www.eletimes.com/charging-room-system-powers-lights-phones-laptops-without-wires
   year: 
   month: 
@@ -653,6 +717,7 @@
     cables
   type: Web
   language: en
+  featured: 
   url: https://www.dailymail.co.uk/sciencetech/article-9942763/Wireless-charging-room-delivers-electricity-AIR.html
   year: 
   month: 
@@ -663,6 +728,7 @@
   title: 日本搞出奇妙充电屋，坐在任意位置都能隔空充电，研究登上Nature子刊
   type: Web
   language: other
+  featured: 
   url: https://36kr.com/p/1378214862962049
   year: 
   month: 
@@ -673,6 +739,7 @@
   title: "“Charging room”, la trasmissione di energia wireless si fonde con l’edificio"
   type: Web
   language: other
+  featured: 
   url: https://www.rinnovabili.it/innovazione/trasmissione-di-energia-wireless/
   year: 
   month: 
@@ -683,6 +750,7 @@
   title: Charging room system powers lights, phones, laptops without wires
   type: Web
   language: en
+  featured: 
   url: https://www.pressreleasepoint.com/charging-room-system-powers-lights-phones-laptops-without-wires
   year: 
   month: 
@@ -693,6 +761,7 @@
   title: Wireless ‘charging room’ powers devices safely at up to 50W
   type: Web
   language: en
+  featured: 
   url: https://eandt.theiet.org/content/articles/2021/08/wireless-charging-room-powers-devices-safely-at-up-to-50w/
   year: 
   month: 
@@ -703,6 +772,7 @@
   title: This charging room could power your lights, phones, laptops without wires
   type: Web
   language: en
+  featured: 
   url: https://www.newsbreak.com/news/2357098213299/this-charging-room-could-power-your-lights-phones-laptops-without-wires
   year: 
   month: 
@@ -713,6 +783,7 @@
   title: Инженеры создали помещение для беспроводной зарядки телефонов
   type: Web
   language: other
+  featured: 
   url: https://ab-news.ru/2021/08/31/pomeshhenie-dlya-besprovodnoj-zaryadki/
   year: 
   month: 
@@ -723,6 +794,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://g9ija.com/2021/09/09/tech-coming-soon-wireless-charging-room-that-could-deliver-electricity-through-the-air-to-any-devices-without-the-need-for-plugs-and-cables/
   year: 
   month: 
@@ -733,6 +805,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://tnbarg.com/build-a-room-that-charges-electronics-wirelessly-and-over-the-air/
   year: 
   month: 
@@ -743,6 +816,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://whatsnew2day.com/draadloze-oplaadruimte-levert-stroom-via-de-air/
   year: 
   month: 
@@ -753,6 +827,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://www.diariodaamazonia.com.br/salas-que-recarregam-celulares-sem-fios-podem-aposentar-as-tomadas/
   year: 
   month: 
@@ -763,6 +838,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://canaltech.com.br/inovacao/salas-que-recarregam-baterias-sem-fios-podem-aposentar-as-tomadas-no-futuro-194636/
   year: 
   month: 
@@ -773,6 +849,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://www.svt.se/nyheter/vetenskap/helt-rum-med-tradlos-el-testas
   year: 
   month: 
@@ -783,6 +860,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://www.engineersonline.nl/nieuws/id34551-als-de-hele-kamer-je-telefoon-oplaadt.html
   year: 
   month: 
@@ -793,6 +871,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://www.faz.net/aktuell/wissen/physik-mehr/wie-akkus-kontaktlos-im-raum-strom-tanken-17509505.html
   year: 
   month: 
@@ -803,6 +882,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://portail.free.fr/tech/sciences/la-recharge-sans-fil-integree-dans-tout-un-batiment-cest-pour-bientot/
   year: 
   month: 
@@ -813,6 +893,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://www.labmanager.com/news/charging-room-system-powers-lights-phones-laptops-without-wires-26626
   year: 
   month: 
@@ -823,6 +904,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://www.newscabal.co.uk/wireless-charging-room-delivers-electricity-over-the-air/
   year: 
   month: 
@@ -833,6 +915,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://uk.news.yahoo.com/magic-magnetics-scientists-discover-secret-193954121.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uYXR1cmUuYWx0bWV0cmljLmNvbS9kZXRhaWxzLzExMjYwMzEzOC9uZXdz&guce_referrer_sig=AQAAANm9EhFEsVwMlqQZF1u491uvYNmd_9oP6zDHw8OIPg2dzkw4baE64lUTIOHO3yjucAibE-jjvwZ_p1IKdE6O_HnsDFKAPrRHyLve0NCQBuW3TiRpDM9AXcp5GWbqj8IDiVNgQXxAj7oJaEvMYGvH9gMB8onFAiSYXNaAf5Z1qbi0
   year: 
   month: 
@@ -843,6 +926,7 @@
   title: 
   type: 
   language: 
+  featured: 
   url: https://www.enn.com/articles/68574-charging-room-system-powers-lights-phones-laptops-without-wires
   year: 
   month: 
