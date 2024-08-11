@@ -2391,7 +2391,7 @@
   volume: 
   Issue: 
   number: 
-  article: 
+  article: '50'
   pages: 1 - 15
   session: 
   city: 
@@ -2421,7 +2421,7 @@
   number: 
   article: 
   pages: 
-  session: 
+  session: PSTR241.23 / WW66
   city: Washington D.C., USA
   to_appear: 
   doi: 
