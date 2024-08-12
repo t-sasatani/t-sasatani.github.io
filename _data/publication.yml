@@ -2382,8 +2382,8 @@
   type: conference-en-full
   thumbnail: iizuka2023mobicom.gif
   priority: '5'
-  author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; and Takuya
-    Sasatani
+  author: Tatsuya Iizuka, Takuya Sasatani, Toru Nakamura, Naoko Kosaka, Masaki Hisada,
+    and Yoshihiro Kawahara
   _time: 2023-10
   year: '2023'
   month: '10'
@@ -2409,9 +2409,9 @@
   type: conference-en-adjunct
   thumbnail: sasatani2023sfn.gif
   priority: '8'
-  author: "*Takuya Sasatani; *Marcel Brosch; Zhe Dong; Federico Sangiuliano Jimka;
-    Megah Sehgal; Hemal Semwal; Aparajeeta Guha; Hamid Chorsi; Karina Keus; Blake
-    Madruga; and Daniel Aharoni"
+  author: "*Takuya Sasatani, *Marcel Brosch, Zhe Dong, Federico Sangiuliano Jimka,
+    Megah Sehgal, Hemal Semwal, Aparajeeta Guha, Hamid Chorsi, Karina Keus, Blake
+    Madruga, and Daniel Aharoni (*co-first authors)"
   _time: 2023-11
   year: '2023'
   month: '11'
