@@ -627,6 +627,17 @@
   month: '8'
   day: '30'
   _internal: 
+- date: '2021-8-30'
+  media: University of Michigan News
+  title: "‘Charging room’ system powers lights, phones, laptops without wires\r"
+  type: Web
+  language: en
+  featured: 
+  url: https://news.umich.edu/charging-room-system-powers-lights-phones-laptops-without-wires/
+  year: '2021'
+  month: '8'
+  day: '30'
+  _internal: 
 - date: '2021-8-31'
   media: ABC News
   title: Wireless charging room powers your devices without plugs or cables
@@ -785,6 +796,17 @@
   month: '8'
   day: '31'
   _internal: 
+- date: '2021-8-31'
+  media: TechInsider
+  title: "Ученые придумали более удобный способ беспроводной зарядки\r"
+  type: Web
+  language: other
+  featured: 
+  url: https://www.techinsider.ru/gadgets/news-741113-uchenye-pridumali-bolee-udobnyy-sposob-besprovodnoy-zaryadki/
+  year: '2021'
+  month: '8'
+  day: '31'
+  _internal: 
 - date: '2021-9-1'
   media: The Register
   title: Arms not long enough to reach the plug socket? Room-wide wireless charging
@@ -886,6 +908,17 @@
   month: '9'
   day: '2'
   _internal: 
+- date: '2021-9-2'
+  media: Canaltech
+  title: Salas que recarregam celulares sem fios podem aposentar as tomadas no futuro
+  type: Web
+  language: other
+  featured: 
+  url: https://canaltech.com.br/inovacao/salas-que-recarregam-baterias-sem-fios-podem-aposentar-as-tomadas-no-futuro-194636/
+  year: '2021'
+  month: '9'
+  day: '2'
+  _internal: 
 - date: '2021-9-3'
   media: Singularity Hub
   title: This Room Can Wirelessly Charge Devices Anywhere Within Its Walls
@@ -966,7 +999,7 @@
   day: '6'
   _internal: 
 - date: '2021-9-6'
-  media: engieersonline.nl
+  media: Engineers Online
   title: "Als de hele kamer je telefoon oplaadt…\r"
   type: Web
   language: other
@@ -977,7 +1010,7 @@
   day: '6'
   _internal: 
 - date: '2021-9-6'
-  media: Frankfurter Allgemeine Zeitung
+  media: Frankfurter Allgemeine
   title: Wie Akkus kontaktlos im Raum Strom tanken
   type: Web
   language: other
@@ -1009,6 +1042,17 @@
   month: '9'
   day: '16'
   _internal: 
+- date: '2021-9-17'
+  media: L'Humanite
+  title: Énergie sans fil. Demain, de l’électricité dans l’air comme le Wifi  ?
+  type: Web
+  language: other
+  featured: 
+  url: https://www.humanite.fr/energie-sans-fil-demain-de-lelectricite-dans-lair-comme-le-wifi-720407
+  year: '2021'
+  month: '9'
+  day: '17'
+  _internal: 
 - date: '2021-9-21'
   media: IEEE Spectrum
   title: Charging Rooms Can Power Devices Without Wires
@@ -1020,6 +1064,29 @@
   month: '9'
   day: '21'
   _internal: 
+- date: '2021-9-22'
+  media: Heise
+  title: "Laden ohne Ladematte\r"
+  type: Web
+  language: other
+  featured: 
+  url: https://www.heise.de/news/Laden-ohne-Ladematte-6197903.html?wt_mc=rss.red.tr.tr.atom.beitrag.beitrag
+  year: '2021'
+  month: '9'
+  day: '22'
+  _internal: 
+- date: '2021-9-23'
+  media: Kopalnia Wiedzy
+  title: Pokój jak ładowarka bezprzewodowa. Naładujemy smartfon w dowolnym punkcie
+    mieszkania?
+  type: Web
+  language: other
+  featured: 
+  url: http://kopalniawiedzy.pl/ladowanie-bezprzewodowe-pole-magnetyczne-smartfon-mieszkanie-fabryka,34263
+  year: '2021'
+  month: '9'
+  day: '23'
+  _internal: 
 - date: '2022-1-5'
   media: MIT Technology Review Japan
   title: "「Wi-Fiのような給電技術で電源の制約をなくす」東京大学 笹谷拓也"
@@ -1030,6 +1097,18 @@
   year: '2022'
   month: '1'
   day: '5'
+  _internal: 
+- date: '2022-2-28'
+  media: Gazeta.ru
+  title: "Российские беспроводные комнаты для зарядки электроники доработают в 2027
+    году\r"
+  type: Web
+  language: other
+  featured: 
+  url: https://www.gazeta.ru/tech/2022/02/28/14561803.shtml
+  year: '2022'
+  month: '2'
+  day: '28'
   _internal: 
 - date: '2022-4-20'
   media: テレビ朝日
@@ -1152,83 +1231,6 @@
   month: '10'
   day: '4'
   _internal: 
-- date: '2023-10-4'
-  media: 日刊工業新聞
-  title: NTTと東大、読み取り範囲7.8倍のミリ波RFIDタグ開発　ドローン航行補助
-  type: News_paper
-  language: jp
-  featured: 
-  url: https://www.nikkan.co.jp/articles/view/00687986
-  year: '2023'
-  month: '10'
-  day: '4'
-  _internal: 
-- date: '2023-10-10'
-  media: ドローンジャーナル
-  title: "NTTと東京大学、ドローンの航法精度を向上するミリ波RFIDタグを開発\r"
-  type: Web
-  language: jp
-  featured: 
-  url: https://drone-journal.impress.co.jp/docs/news/1185505.html
-  year: '2023'
-  month: '10'
-  day: '10'
-  _internal: 
-- date: '2023-10-13'
-  media: New Atlas
-  title: "Millisign tech guides autonomous drones via battery-less ground tags\r"
-  type: Web
-  language: en
-  featured: 
-  url: https://newatlas.com/drones/millisign-guides-drones-rfid-tags/
-  year: '2023'
-  month: '10'
-  day: '13'
-  _internal: 
-- date: '2023-10-16'
-  media: NIKKEI Mobility
-  title: "視界不良でもドローン飛行　NTTと東大が共同開発\r"
-  type: Web
-  language: jp
-  featured: 
-  url: https://www.nikkei.com/prime/mobility/article/DGXZQOUC050PB0V01C23A0000000
-  year: '2023'
-  month: '10'
-  day: '16'
-  _internal: 
-- date: '2023-10-16'
-  media: TelcoNews
-  title: "NTT unveils the world's first battery-free drone nav system\r"
-  type: Web
-  language: en
-  featured: 
-  url: https://telconews.asia/story/ntt-unveils-the-world-s-first-battery-free-drone-nav-system
-  year: '2023'
-  month: '10'
-  day: '16'
-  _internal: 
-- date: '2023-11-30'
-  media: MIT Technology Review
-  title: "笹谷拓也：Wi-Fiのような給電技術と「その先」を探る研究者\r"
-  type: Web
-  language: jp
-  featured: 
-  url: https://www.technologyreview.jp/s/320610/trajectory-of-u35-innovators-takuya-sasatani/
-  year: '2023'
-  month: '11'
-  day: '30'
-  _internal: 
-- date: '2024-3-21'
-  media: Beyond Our Planet
-  title: "ドローンの標識となるミリ波RFIDタグを活用した気象予測や災害対応の高度化\r"
-  type: Web
-  language: jp
-  featured: 
-  url: https://www.rd.ntt/se/media/article/0094.html
-  year: '2024'
-  month: '3'
-  day: '21'
-  _internal: 
 - date: 
   media: 
   title: 
@@ -1327,4 +1329,81 @@
   year: 
   month: 
   day: 
+  _internal: 
+- date: '2023-10-4'
+  media: 日刊工業新聞
+  title: NTTと東大、読み取り範囲7.8倍のミリ波RFIDタグ開発　ドローン航行補助
+  type: News_paper
+  language: jp
+  featured: 
+  url: https://www.nikkan.co.jp/articles/view/00687986
+  year: '2023'
+  month: '10'
+  day: '4'
+  _internal: 
+- date: '2023-10-10'
+  media: ドローンジャーナル
+  title: "NTTと東京大学、ドローンの航法精度を向上するミリ波RFIDタグを開発\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://drone-journal.impress.co.jp/docs/news/1185505.html
+  year: '2023'
+  month: '10'
+  day: '10'
+  _internal: 
+- date: '2023-10-13'
+  media: New Atlas
+  title: "Millisign tech guides autonomous drones via battery-less ground tags\r"
+  type: Web
+  language: en
+  featured: 
+  url: https://newatlas.com/drones/millisign-guides-drones-rfid-tags/
+  year: '2023'
+  month: '10'
+  day: '13'
+  _internal: 
+- date: '2023-10-16'
+  media: NIKKEI Mobility
+  title: "視界不良でもドローン飛行　NTTと東大が共同開発\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://www.nikkei.com/prime/mobility/article/DGXZQOUC050PB0V01C23A0000000
+  year: '2023'
+  month: '10'
+  day: '16'
+  _internal: 
+- date: '2023-10-16'
+  media: TelcoNews
+  title: "NTT unveils the world's first battery-free drone nav system\r"
+  type: Web
+  language: en
+  featured: 
+  url: https://telconews.asia/story/ntt-unveils-the-world-s-first-battery-free-drone-nav-system
+  year: '2023'
+  month: '10'
+  day: '16'
+  _internal: 
+- date: '2023-11-30'
+  media: MIT Technology Review
+  title: "笹谷拓也：Wi-Fiのような給電技術と「その先」を探る研究者\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://www.technologyreview.jp/s/320610/trajectory-of-u35-innovators-takuya-sasatani/
+  year: '2023'
+  month: '11'
+  day: '30'
+  _internal: 
+- date: '2024-3-21'
+  media: Beyond Our Planet
+  title: "ドローンの標識となるミリ波RFIDタグを活用した気象予測や災害対応の高度化\r"
+  type: Web
+  language: jp
+  featured: 
+  url: https://www.rd.ntt/se/media/article/0094.html
+  year: '2024'
+  month: '3'
+  day: '21'
   _internal: 
