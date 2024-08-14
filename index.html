@@ -5,30 +5,30 @@ layout: default
 {% assign debug = false %}
 
 <div class="container">
-  <div class="row ts-profile">
+  <div class="row ts-metadata">
     <div class="col-md-4">
       <div class="photo">
         <img
-          src="{{ site.data.profile.contact.photo }}"
-          alt="{{ site.data.profile.contact.name }}"
+          src="{{ site.data.metadata.contact.photo }}"
+          alt="{{ site.data.metadata.contact.name }}"
           class="img-fluid">
       </div>
       <div class="contact-info">
       </br>
-        <strong>{{ site.data.profile.contact.name }}</strong>
-        <p>{{ site.data.profile.contact.title }}</p>
-        <!--<p>{{ site.data.profile.contact.department }}</p>-->
-        <p>{{ site.data.profile.contact.university }}</p>
+        <strong>{{ site.data.metadata.contact.name }}</strong>
+        <p>{{ site.data.metadata.contact.title }}</p>
+        <!--<p>{{ site.data.metadata.contact.department }}</p>-->
+        <p>{{ site.data.metadata.contact.university }}</p>
         <br/>
-        <p>{{ site.data.profile.contact.email }}</p>
+        <p>{{ site.data.metadata.contact.email }}</p>
         <br/>
       </div>
     </div>
     <div class="col-md-8">
       <div class="bio">
-        <p>{{ site.data.profile.shortbio }}</p>
+        <p>{{ site.data.metadata.shortbio }}</p>
         <br/>
-        <p>{{ site.data.profile.extrabio }}</p>
+        <p>{{ site.data.metadata.extrabio }}</p>
       </div>
     </div>
   </div>

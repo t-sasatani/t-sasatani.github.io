@@ -57,6 +57,10 @@ jobs:
         fi
       shell: bash
 
+    - name: Update date
+      if: steps.check_changes.outputs.changes == 'true'
+      run: ruby _scripts/get_date.rb
+
     - name: Create Pull Request
       if: steps.check_changes.outputs.changes == 'true'
       uses: peter-evans/create-pull-request@v6

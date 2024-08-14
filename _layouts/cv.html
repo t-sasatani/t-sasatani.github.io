@@ -2,8 +2,10 @@
 layout: default
 ---
 
-<h1>Takuya Sasatani&mdash;Curriculum Vitae</h1>
-{{ site.data.profile.shortbio }}
+<h1>{{ site.data.metadata.contact.name }}&mdash;Curriculum Vitae</h1>
+{{ site.data.metadata.contact.email }}<br>
+Last updated: {{ metadata.gsheet_update | date: "%b %d, %Y" }}<br><br>
+{{ site.data.metadata.shortbio }}
 
 <h2>Professional experience</h2>
 {% for item in site.data.career %}
