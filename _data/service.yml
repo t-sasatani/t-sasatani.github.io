@@ -1,9 +1,6 @@
 ---
 - role: Reviewer
   program: Nature Electronics
-- role: Scientific Committee
-  program: IEEE/GRSS International Geoscience and Remote Sensing Symposium (IGARSS)
-    2024
 - role: Reviewer
   program: Advanced Materials
 - role: Reviewer
@@ -15,6 +12,9 @@
     Technologies (ACM IMWUT)
 - role: Reviewer
   program: National Science Review
+- role: Scientific Committee
+  program: IEEE/GRSS International Geoscience and Remote Sensing Symposium (IGARSS)
+    2024
 - role: Reviewer
   program: IEEE Transactions on Industrial Electronics
 - role: Reviewer
