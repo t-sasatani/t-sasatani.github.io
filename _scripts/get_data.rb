@@ -10,7 +10,6 @@ sheet_urls = {
   'education' => 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR2On3N_zySnJdNc9hGJozMkjrkBVwArZppAEUQg4LlYBny9IwkAtBss5-yfgGg0TYWkR_NhZd-QWIr/pub?gid=759938177&single=true&output=csv',
   'grant' => 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR2On3N_zySnJdNc9hGJozMkjrkBVwArZppAEUQg4LlYBny9IwkAtBss5-yfgGg0TYWkR_NhZd-QWIr/pub?gid=479210847&single=true&output=csv',
   'service' => 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR2On3N_zySnJdNc9hGJozMkjrkBVwArZppAEUQg4LlYBny9IwkAtBss5-yfgGg0TYWkR_NhZd-QWIr/pub?gid=636553546&single=true&output=csv',
-  'press' => 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR2On3N_zySnJdNc9hGJozMkjrkBVwArZppAEUQg4LlYBny9IwkAtBss5-yfgGg0TYWkR_NhZd-QWIr/pub?gid=238688342&single=true&output=csv',
   'teaching' => 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR2On3N_zySnJdNc9hGJozMkjrkBVwArZppAEUQg4LlYBny9IwkAtBss5-yfgGg0TYWkR_NhZd-QWIr/pub?gid=153311681&single=true&output=csv',
   'media' => 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR2On3N_zySnJdNc9hGJozMkjrkBVwArZppAEUQg4LlYBny9IwkAtBss5-yfgGg0TYWkR_NhZd-QWIr/pub?gid=273044259&single=true&output=csv',
 }
