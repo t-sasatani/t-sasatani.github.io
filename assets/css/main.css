@@ -34,7 +34,9 @@ h2 {
 h3 {
   font-size: 1em; /* Adjust the size as needed */
 }
-
+.ts-metadata {
+  margin-top: 20px;
+}
 /* Typography */
 .pub-note {
   font-weight: var(--font-weight-bold); /* Heavy for headings */
