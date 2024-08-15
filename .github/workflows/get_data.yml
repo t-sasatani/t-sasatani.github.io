@@ -33,7 +33,6 @@ jobs:
           "_data/career.yml"
           "_data/education.yml"
           "_data/grant.yml"
-          "_data/press.yml"
           "_data/profile.yml"
           "_data/publication.yml"
           "_data/service.yml"
