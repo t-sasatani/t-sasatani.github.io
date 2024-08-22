@@ -1,5 +1,5 @@
 ---
-- sis: 送電共振器アレイを用いた無線電力伝送における給電効率向上のための受電共振器アレイ形状の検討
+- title: 送電共振器アレイを用いた無線電力伝送における給電効率向上のための受電共振器アレイ形状の検討
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -25,7 +25,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 磁界共振結合型無線電力伝送における遺伝的アルゴリズムを用いた受電共振器アレイの設計
+- title: 磁界共振結合型無線電力伝送における遺伝的アルゴリズムを用いた受電共振器アレイの設計
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -51,7 +51,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 銀ナノインクを用いたパッシブ型圧力センサの人体貼付用途における設計手法
+- title: 銀ナノインクを用いたパッシブ型圧力センサの人体貼付用途における設計手法
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -77,7 +77,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 磁界共振結合型無線電力伝送における遺伝的アルゴリズムを用いた受電共振器アレイの設計手法
+- title: 磁界共振結合型無線電力伝送における遺伝的アルゴリズムを用いた受電共振器アレイの設計手法
   publication: 東京大学工学部電気電子工学科
   publication_abbr: 卒業論文
   type: dissertation
@@ -103,8 +103,8 @@
   press_release_en: 
   press_release_jp: 
   note: 電気学術奨励賞 & 優秀卒業論文賞
-- sis: Genetic algorithm-based design of receiving resonator arrays for wireless power
-    transfer via magnetic resonant coupling
+- title: Genetic algorithm-based design of receiving resonator arrays for wireless
+    power transfer via magnetic resonant coupling
   publication: 2016 IEEE Wireless Power Transfer Conference
   publication_abbr: IEEE WPTC
   type: conference-en-full
@@ -130,7 +130,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 銀ナノインクを用いた非接触読み取り可能なパッシブ型静電容量式圧力センサと着圧測定への応用
+- title: 銀ナノインクを用いた非接触読み取り可能なパッシブ型静電容量式圧力センサと着圧測定への応用
   publication: マルチメディア，分散，協調とモバイル シンポジウム
   publication_abbr: DICOMO 2017
   type: conference-jp
@@ -156,7 +156,7 @@
   press_release_en: 
   press_release_jp: 
   note: 最優秀論文賞 & 優秀プレゼンテーション賞
-- sis: Indoor Wireless Power Transfer
+- title: Indoor Wireless Power Transfer
   publication: TECO Green Tech Contest 2016
   publication_abbr: 
   type: conference-en-adjunct
@@ -183,7 +183,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Passive and contactless epidermal pressure sensor printed with silver nano-particle
+- title: Passive and contactless epidermal pressure sensor printed with silver nano-particle
     ink
   publication: Proceedings of the 2016 ACM International Joint Conference on Pervasive
     and Ubiquitous Computing
@@ -212,7 +212,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 受電器アレイとシート型送電器を用いた電界結合型無線電力伝送における極板形状に関する一検討
+- title: 受電器アレイとシート型送電器を用いた電界結合型無線電力伝送における極板形状に関する一検討
   publication: 電子情報通信学会技術研究報告
   publication_abbr: 信学技報
   type: conference-jp
@@ -238,7 +238,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 磁界共振結合型無線電力伝送ツールキットの設計および実装
+- title: 磁界共振結合型無線電力伝送ツールキットの設計および実装
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -264,7 +264,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: DC-based impedance tuning method using magnetic saturation for wireless power
+- title: DC-based impedance tuning method using magnetic saturation for wireless power
     transfer
   publication: 2017 IEEE Wireless Power Transfer Conference (WPTC)
   publication_abbr: IEEE WPTC
@@ -291,7 +291,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Multimode Quasistatic Cavity Resonators for Wireless Power Transfer
+- title: Multimode Quasistatic Cavity Resonators for Wireless Power Transfer
   publication: "IEEE Antennas and Wireless Propagation Letters\r"
   publication_abbr: 
   type: journal-en
@@ -318,7 +318,8 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: A design of an asymmetric resonator for wirelessly powered wearable ring device
+- title: A design of an asymmetric resonator for wirelessly powered wearable ring
+    device
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -345,7 +346,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 無線電力伝送のための DC/DC コンバータを用いた複素インピーダンス変換手法についての一検討
+- title: 無線電力伝送のための DC/DC コンバータを用いた複素インピーダンス変換手法についての一検討
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -371,7 +372,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 切断により形状の変更が可能な無線電力伝送シートの設計の一検討
+- title: 切断により形状の変更が可能な無線電力伝送シートの設計の一検討
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -397,7 +398,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 二次元共振器アレイを用いた給電領域を自由に変更可能な無線給電システムの構成
+- title: 二次元共振器アレイを用いた給電領域を自由に変更可能な無線給電システムの構成
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -423,7 +424,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Multimode Quasistatic Cavity Resonators and DC-Controlled Complex Impedance
+- title: Multimode Quasistatic Cavity Resonators and DC-Controlled Complex Impedance
     Conversion Techniques for Wireless Power Transfer
   publication: Department of Information and Communication Engineering, Graduate School
     of Information Science and Technology, The University of Tokyo
@@ -451,7 +452,7 @@
   press_release_en: 
   press_release_jp: 
   note: 研究科長賞 & 専攻長賞
-- sis: Dynamic Complex Impedance Tuning Method Using a Multiple-Input DC/DC Converter
+- title: Dynamic Complex Impedance Tuning Method Using a Multiple-Input DC/DC Converter
     for Wireless Power Transfer
   publication: 2018 IEEE Wireless Power Transfer Conference
   publication_abbr: IEEE WPTC
@@ -478,7 +479,7 @@
   press_release_en: 
   press_release_jp: 
   note: Best Student Paper Finalist.
-- sis: 'Multimode Quasistatic Cavity Resonators for Wireless Power Transfer: Towards
+- title: 'Multimode Quasistatic Cavity Resonators for Wireless Power Transfer: Towards
     Empowering Freely Moving Animal Experiments in 3-D Environments'
   publication: International Symposium on Systems Science of Bio-Navigation 2018
   publication_abbr: 
@@ -505,7 +506,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 三次元無線電力伝送のためのMultimode Quasistatic Cavity Resonatorの実装
+- title: 三次元無線電力伝送のためのMultimode Quasistatic Cavity Resonatorの実装
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -531,7 +532,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 'Ramus: 周波数選択性電力バスによる多数アクチュエータの独立駆動システムの検討'
+- title: 'Ramus: 周波数選択性電力バスによる多数アクチュエータの独立駆動システムの検討'
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -557,7 +558,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: パーソナルモビリティへの磁界共振結合型無線電力伝送における位置ずれの影響評価
+- title: パーソナルモビリティへの磁界共振結合型無線電力伝送における位置ずれの影響評価
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -583,7 +584,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 渦電流を利用した非接触駆動による相転移アクチュエータの高速化
+- title: 渦電流を利用した非接触駆動による相転移アクチュエータの高速化
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -609,7 +610,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Coil Design for Wireless Power Transfer through Walls with Metallic Lattice
+- title: Coil Design for Wireless Power Transfer through Walls with Metallic Lattice
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -635,7 +636,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Design of Cuttable Wireless Power Transfer Sheet
+- title: Design of Cuttable Wireless Power Transfer Sheet
   publication: Proceedings of the 2018 ACM International Joint Conference on Pervasive
     and Ubiquitous Computing
   publication_abbr: ACM UbiComp
@@ -663,7 +664,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: A Reconfigurable 2-D Wireless Charging System
+- title: A Reconfigurable 2-D Wireless Charging System
   publication: Proceedings of the 2018 ACM International Joint Conference on Pervasive
     and Ubiquitous Computing
   publication_abbr: ACM UbiComp
@@ -691,8 +692,8 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 3-D Wireless Charging for Indoor Electronics Using Multimode Quasistatic Cavity
-    Resonators
+- title: 3-D Wireless Charging for Indoor Electronics Using Multimode Quasistatic
+    Cavity Resonators
   publication: Proceedings of the 2018 ACM International Joint Conference on Pervasive
     and Ubiquitous Computing
   publication_abbr: ACM UbiComp
@@ -719,7 +720,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: "[依頼講演] 1MHz磁界共振結合方式を用いた無線給電プラレールの設計と製作"
+- title: "[依頼講演] 1MHz磁界共振結合方式を用いた無線給電プラレールの設計と製作"
   publication: 電子情報通信学会技術研究報告
   publication_abbr: 信学技報
   type: conference-jp
@@ -745,7 +746,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Room-Wide Wireless Charging and Load-Modulation Communication via Quasistatic
+- title: Room-Wide Wireless Charging and Load-Modulation Communication via Quasistatic
     Cavity Resonance
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies
@@ -774,7 +775,7 @@
   press_release_en: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00055.html
   press_release_jp: 
   note: 
-- sis: A Cuttable Wireless Power Transfer Sheet
+- title: A Cuttable Wireless Power Transfer Sheet
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies
   publication_abbr: ACM IMWUT
@@ -802,7 +803,7 @@
   press_release_en: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00024.html
   press_release_jp: https://www.jst.go.jp/pr/announce/20190107-2/index.html
   note: 
-- sis: 三次元無線電力伝送のための面電流を用いたマルチモード共振器についての一検討
+- title: 三次元無線電力伝送のための面電流を用いたマルチモード共振器についての一検討
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -828,7 +829,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: ワイヤレスな指輪型キーボードのバッテリレス化手法
+- title: ワイヤレスな指輪型キーボードのバッテリレス化手法
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -854,7 +855,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: センサフィードバックの統合が可能な周波数選択性電力バスによる多数アクチュエータの独立駆動システム
+- title: センサフィードバックの統合が可能な周波数選択性電力バスによる多数アクチュエータの独立駆動システム
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -880,7 +881,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: パーソナルモビリティの走行中無線電力伝送に向けた送電コイル設計に関する一検討
+- title: パーソナルモビリティの走行中無線電力伝送に向けた送電コイル設計に関する一検討
   publication: 情報処理学会第81回全国大会
   publication_abbr: 
   type: conference-jp
@@ -906,7 +907,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 'Alvus: A Reconfigurable 2-D Wireless Charging System'
+- title: 'Alvus: A Reconfigurable 2-D Wireless Charging System'
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies
   publication_abbr: ACM IMWUT
@@ -934,7 +935,7 @@
   press_release_en: 
   press_release_jp: 
   note: Distinguished paper award.
-- sis: 部屋全域への無線電力伝送に向けたマルチモード準静空洞共振器,
+- title: 部屋全域への無線電力伝送に向けたマルチモード準静空洞共振器,
   publication: 情報処理学会ユビキタスコンピューティングシステム研究会
   publication_abbr: IPSJ SIGUBI
   type: conference-jp
@@ -960,7 +961,7 @@
   press_release_en: 
   press_release_jp: 
   note: 山下記念論文賞 & 優秀論文賞
-- sis: Design of Wireless Power Transfer Systems for Personal Mobility Devices in
+- title: Design of Wireless Power Transfer Systems for Personal Mobility Devices in
     City Spaces
   publication: 2019 IEEE 90th Vehicular Technology Conference
   publication_abbr: IEEE VTC
@@ -987,7 +988,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: マルチモード準静空洞共振器を用いた無線電力伝送における中継共振器の配置についての一検討
+- title: マルチモード準静空洞共振器を用いた無線電力伝送における中継共振器の配置についての一検討
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -1013,7 +1014,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 三次元無線給電システムにより駆動する空中浮遊デバイスに向けたペイロードと給電効率の検証
+- title: 三次元無線給電システムにより駆動する空中浮遊デバイスに向けたペイロードと給電効率の検証
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -1039,7 +1040,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: "「マルチモード準静空洞共振器による部屋ごと無線給電」の技術紹介,"
+- title: "「マルチモード準静空洞共振器による部屋ごと無線給電」の技術紹介,"
   publication: ワイヤレス電力伝送実用化コンソーシアムWG3 講演（見学）会
   publication_abbr: 
   type: invited
@@ -1065,8 +1066,8 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Topology Construction Protocol for Wireless Power Transfer System with a 2-D
-    Relay Resonator Array
+- title: Topology Construction Protocol for Wireless Power Transfer System with a
+    2-D Relay Resonator Array
   publication: 2020 IEEE International Conference on Consumer Electronics
   publication_abbr: IEEE ICCE
   type: conference-en-full
@@ -1092,7 +1093,8 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 'Silver Tape: Inkjet-Printed Circuits Peeled-and-Transferred on Versatile Substrates'
+- title: 'Silver Tape: Inkjet-Printed Circuits Peeled-and-Transferred on Versatile
+    Substrates'
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies
   publication_abbr: ACM IMWUT
@@ -1121,7 +1123,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 眼鏡型デバイスにおけるヒンジ部の配線の無線化
+- title: 眼鏡型デバイスにおけるヒンジ部の配線の無線化
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -1147,7 +1149,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: マルチモード準静空洞共振器を用いた無線給電における中継器の構成についての検討
+- title: マルチモード準静空洞共振器を用いた無線給電における中継器の構成についての検討
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -1173,7 +1175,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Infants Show Physiological Responses Specific to Parental Hugs
+- title: Infants Show Physiological Responses Specific to Parental Hugs
   publication: iScience
   publication_abbr: 
   type: journal-en
@@ -1200,7 +1202,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 準静空洞共振器を用いた無線給電の自動車技術への応用可能性
+- title: 準静空洞共振器を用いた無線給電の自動車技術への応用可能性
   publication: 自動車技術会2020年春季大会
   publication_abbr: 
   type: conference-jp
@@ -1226,7 +1228,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 電動パーソナルモビリティのシェアリング事業に向けた無線充電システムのシミュレーションによる解析
+- title: 電動パーソナルモビリティのシェアリング事業に向けた無線充電システムのシミュレーションによる解析
   publication: マルチメディア，分散，協調とモバイル シンポジウム
   publication_abbr: DICOMO 2020
   type: conference-jp
@@ -1252,7 +1254,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 'Ramus: A Frequency-Multiplexed Power Bus for Powering, Sensing and Controlling
+- title: 'Ramus: A Frequency-Multiplexed Power Bus for Powering, Sensing and Controlling
     Robots'
   publication: IEEE Robotics and Automation Letters
   publication_abbr: 
@@ -1280,7 +1282,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Measurement of heart rate variability during hugs in parents and infants,
+- title: Measurement of heart rate variability during hugs in parents and infants,
   publication: The International Congress of Infant Studies
   publication_abbr: ICIS
   type: conference-en-adjunct
@@ -1307,7 +1309,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 親との触れ合いで起こるヒト乳児の生理反応
+- title: 親との触れ合いで起こるヒト乳児の生理反応
   publication: 第43回日本神経科学大会
   publication_abbr: 
   type: conference-jp
@@ -1333,8 +1335,8 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Coil design for wireless power transfer and communication over hinges of smart
-    glasses
+- title: Coil design for wireless power transfer and communication over hinges of
+    smart glasses
   publication: Proceedings of the 2020 International Symposium on Wearable Computers
   publication_abbr: ISWC
   type: conference-en-full
@@ -1361,7 +1363,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 体内への電磁界暴露を抑制可能な無線給電・通信用テキスタイルコイルの設計
+- title: 体内への電磁界暴露を抑制可能な無線給電・通信用テキスタイルコイルの設計
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -1387,7 +1389,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 無線電力伝送シート（特開2020-145821）
+- title: 無線電力伝送シート（特開2020-145821）
   publication: 特許庁
   publication_abbr: 
   type: patent
@@ -1413,7 +1415,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 'TelemetRing: A batteryless and wireless ring-shaped keyboard using passive
+- title: 'TelemetRing: A batteryless and wireless ring-shaped keyboard using passive
     inductive telemetry'
   publication: "Proceedings of the 33rd Annual ACM Symposium on User Interface Software
     and Technology\r"
@@ -1442,7 +1444,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Effect of body materials on transmission efficiency and resonant frequency
+- title: Effect of body materials on transmission efficiency and resonant frequency
     in wirelessly powered personal mobility devices
   publication: 2020 IEEE Wireless Power Transfer Conference
   publication_abbr: IEEE WPTC
@@ -1470,7 +1472,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Genetic Algorithm-Based Receiving Resonator Array Design for Wireless Power
+- title: Genetic Algorithm-Based Receiving Resonator Array Design for Wireless Power
     Transfer
   publication: IEEE Access
   publication_abbr: 
@@ -1497,7 +1499,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Wireless power transfer for internet of things
+- title: Wireless power transfer for internet of things
   publication: International Electron Devices Meeting
   publication_abbr: IEEE IEDM
   type: conference-en-full
@@ -1523,7 +1525,8 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Continuum Robotic Caterpillar with Wirelessly Powered Shape Memory Alloy Actuators
+- title: Continuum Robotic Caterpillar with Wirelessly Powered Shape Memory Alloy
+    Actuators
   publication: Soft Robotics
   publication_abbr: 
   type: journal-en
@@ -1550,7 +1553,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: マスク越しフレーズ認識に向けたミリ波レーダによる口の形状変化の検出手法
+- title: マスク越しフレーズ認識に向けたミリ波レーダによる口の形状変化の検出手法
   publication: 情報処理学会第83回全国大会
   publication_abbr: 
   type: conference-jp
@@ -1576,7 +1579,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 電動パーソナルモビリティのシェアリング事業に向けた無線充電システムの導入とインセンティブスキームに関する検討
+- title: 電動パーソナルモビリティのシェアリング事業に向けた無線充電システムの導入とインセンティブスキームに関する検討
   publication: 情報処理学会第83回全国大会
   publication_abbr: 
   type: conference-jp
@@ -1602,7 +1605,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Ubiquitous wireless power transfer in three-dimensional spaces
+- title: Ubiquitous wireless power transfer in three-dimensional spaces
   publication: Department of Information and Communication Engineering, Graduate School
     of Information Science and Technology, The University of Tokyo
   publication_abbr: Ph.D. thesis
@@ -1629,7 +1632,7 @@
   press_release_en: 
   press_release_jp: 
   note: 日本学術振興会育志賞 & 専攻長賞
-- sis: Toward Wirelessly Cooperated Shape-Changing Computing Particles
+- title: Toward Wirelessly Cooperated Shape-Changing Computing Particles
   publication: IEEE Pervasive Computing
   publication_abbr: 
   type: journal-en
@@ -1656,7 +1659,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 準静空洞共振器によるワイヤレス電力伝送
+- title: 準静空洞共振器によるワイヤレス電力伝送
   publication: TECHNO-FRONTIER 2021 第29回 磁気応用技術シンポジウム
   publication_abbr: 
   type: invited
@@ -1682,7 +1685,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Wireless Powered Dielectric Elastomer Actuator
+- title: Wireless Powered Dielectric Elastomer Actuator
   publication: IEEE Robotics and Automation Letters
   publication_abbr: 
   type: journal-en
@@ -1709,7 +1712,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Room-scale magnetoquasistatic wireless power transfer using a cavity-based
+- title: Room-scale magnetoquasistatic wireless power transfer using a cavity-based
     multimode resonator
   publication: Nature Electronics
   publication_abbr: 
@@ -1736,7 +1739,7 @@
   press_release_en: https://news.engin.umich.edu/2021/08/will-power-cords-go-the-way-of-land-lines/
   press_release_jp: https://www.t.u-tokyo.ac.jp/hubfs/shared-old/press/data/setnws_201906111450167441845423_217957.pdf
   note: Featured on the journal cover and in the editorial.
-- sis: 準静空洞共振器を用いた部屋スケール無線充電と負荷変調通信
+- title: 準静空洞共振器を用いた部屋スケール無線充電と負荷変調通信
   publication: IPSJ FIT 2021 トップコンファレンスセッション
   publication_abbr: 
   type: invited
@@ -1762,7 +1765,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Surface Routing for Wireless Power Transfer Using 2-D Relay Resonator Arrays
+- title: Surface Routing for Wireless Power Transfer Using 2-D Relay Resonator Arrays
   publication: IEEE Access
   publication_abbr: 
   type: journal-en
@@ -1788,7 +1791,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 衣服スケールのメアンダコイルによるバッテリレスセンサの高感度な無線読み取り手法
+- title: 衣服スケールのメアンダコイルによるバッテリレスセンサの高感度な無線読み取り手法
   publication: 情報処理学会ユビキタスコンピューティングシステム研究会
   publication_abbr: IPSJ SIGUBI
   type: conference-jp
@@ -1814,7 +1817,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: カメラを用いた筋力トレーニングにおける最大挙上重量の推定に関する検討
+- title: カメラを用いた筋力トレーニングにおける最大挙上重量の推定に関する検討
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -1840,7 +1843,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: ウェアラブルデバイス（特開2021-129497）
+- title: ウェアラブルデバイス（特開2021-129497）
   publication: 特許庁
   publication_abbr: 
   type: patent
@@ -1866,7 +1869,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Ubiquitous wireless power transfer in three-dimensional spaces
+- title: Ubiquitous wireless power transfer in three-dimensional spaces
   publication: ITMO University microwave seminars at the Department of Physics
   publication_abbr: 
   type: invited
@@ -1892,7 +1895,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Ubiquitous wireless power transfer in three-dimensional spaces
+- title: Ubiquitous wireless power transfer in three-dimensional spaces
   publication: TOYOTA Central R&D Labs., Inc.
   publication_abbr: 
   type: invited
@@ -1918,7 +1921,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 'Twin Meander Coil: Sensitive Readout of Battery-free On-body Wireless Sensors
+- title: 'Twin Meander Coil: Sensitive Readout of Battery-free On-body Wireless Sensors
     Using Body-scale Meander Coils'
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies
@@ -1947,7 +1950,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 広範囲から読み取り可能なコーナーリフレクタ型チップレスRFIDの検討
+- title: 広範囲から読み取り可能なコーナーリフレクタ型チップレスRFIDの検討
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
@@ -1973,7 +1976,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 給電構造、及び給電構造の設計方法（特開2022-035336）
+- title: 給電構造、及び給電構造の設計方法（特開2022-035336）
   publication: 特許庁
   publication_abbr: 
   type: patent
@@ -1999,7 +2002,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Towards ubiquitous wireless power transfer
+- title: Towards ubiquitous wireless power transfer
   publication: d.lab 協賛事業 特別講演及びキックオフ
   publication_abbr: 
   type: invited
@@ -2025,7 +2028,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Geometry-Based Circuit Modeling of Quasi-Static Cavity Resonators for Wireless
+- title: Geometry-Based Circuit Modeling of Quasi-Static Cavity Resonators for Wireless
     Power Transfer
   publication: IEEE Open Journal of Power Electronics
   publication_abbr: 
@@ -2052,7 +2055,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Empowering the IoT with wireless power and sensing technologies
+- title: Empowering the IoT with wireless power and sensing technologies
   publication: Google APAC
   publication_abbr: 
   type: invited
@@ -2078,7 +2081,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: IoTシステムへの新たな無線電力伝送技術
+- title: IoTシステムへの新たな無線電力伝送技術
   publication: 科学情報出版 月刊EMC6月号
   publication_abbr: 
   type: tutorial
@@ -2104,7 +2107,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 低出力ミリ波レーダで広範囲から読み取り可能なコーナーリフレクタ型チップレスRFID
+- title: 低出力ミリ波レーダで広範囲から読み取り可能なコーナーリフレクタ型チップレスRFID
   publication: マルチメディア，分散，協調とモバイル シンポジウム
   publication_abbr: DICOMO 2022
   type: conference-jp
@@ -2130,8 +2133,8 @@
   press_release_en: 
   press_release_jp: 
   note: ヤングリサーチャー章受賞
-- sis: A Halbach-Array-Based Resonator for Suppressing Leakage Magnetic Field in Wireless
-    Power Transfer Systems
+- title: A Halbach-Array-Based Resonator for Suppressing Leakage Magnetic Field in
+    Wireless Power Transfer Systems
   publication: Asian Wireless Power Transfer Workshop 2022
   publication_abbr: AWPT
   type: conference-en-adjunct
@@ -2157,7 +2160,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Simultaneous Wireless Information and Power Transfer Technique Using Frequency-Modulated
+- title: Simultaneous Wireless Information and Power Transfer Technique Using Frequency-Modulated
     DC/DC Converters
   publication: Asian Wireless Power Transfer Workshop 2022
   publication_abbr: AWPT
@@ -2184,7 +2187,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Toward Continuous Finger Positioning on Ear Using Bone Conduction Speaker
+- title: Toward Continuous Finger Positioning on Ear Using Bone Conduction Speaker
   publication: Proceedings of the 20th ACM Conference on Embedded Networked Sensor
     Systems
   publication_abbr: ACM SenSys
@@ -2212,7 +2215,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 水中でのインタラクションに向けた電気インピーダンストモグラフィの検討
+- title: 水中でのインタラクションに向けた電気インピーダンストモグラフィの検討
   publication: 情報処理学会第85回全国大会
   publication_abbr: 
   type: conference-jp
@@ -2238,7 +2241,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 'ACT-X: 学びと加速の三年半'
+- title: 'ACT-X: 学びと加速の三年半'
   publication: 日本バーチャルリアリティ学会誌
   publication_abbr: 
   type: tutorial
@@ -2264,7 +2267,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Trimmed Aperture Corner Reflector for Angle-Selective Chipless RFID
+- title: Trimmed Aperture Corner Reflector for Angle-Selective Chipless RFID
   publication: "IEEE Antennas and Wireless Propagation Letters\r"
   publication_abbr: 
   type: journal-en
@@ -2291,7 +2294,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: An Inclination Estimation Method for UAV Landing Surfaces Using Millimeter
+- title: An Inclination Estimation Method for UAV Landing Surfaces Using Millimeter
     Wave Radar
   publication: 2023 IEEE International Symposium on Geoscience and Remote Sensing
   publication_abbr: IEEE IGARSS
@@ -2319,7 +2322,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Time-of-Flight プロファイルを特徴量とする屋内測位の検討
+- title: Time-of-Flight プロファイルを特徴量とする屋内測位の検討
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -2345,7 +2348,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 高速通信用伝送線路結合器と無線給電用コイルによる非接触コネクタの検討
+- title: 高速通信用伝送線路結合器と無線給電用コイルによる非接触コネクタの検討
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -2371,7 +2374,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 'MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility
+- title: 'MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility
     Conditions'
   publication: Proceedings of the 29th Annual International Conference on Mobile Computing
     and Networking
@@ -2400,7 +2403,7 @@
   press_release_en: https://group.ntt/en/newsrelease/2023/10/02/231002a.html
   press_release_jp: https://group.ntt/jp/newsrelease/2023/10/02/231002a.html
   note: 
-- sis: Untethering open-source Miniscopes with wireless power and data transfer
+- title: Untethering open-source Miniscopes with wireless power and data transfer
   publication: Neuroscience 2023
   publication_abbr: SfN
   type: conference-en-adjunct
@@ -2428,7 +2431,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Suppressing Leakage Magnetic Field in Wireless Power Transfer Using Halbach
+- title: Suppressing Leakage Magnetic Field in Wireless Power Transfer Using Halbach
     Array-Based Resonators
   publication: "IEEE Antennas and Wireless Propagation Letters\r"
   publication_abbr: 
@@ -2455,7 +2458,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Camera-Based Position Estimation using Frequency-Multiplexed Luminance Gradient
+- title: Camera-Based Position Estimation using Frequency-Multiplexed Luminance Gradient
   publication: 2024 IEEE International Conference on Pervasive Computing and Communications
     Workshops and other Affiliated Events
   publication_abbr: PerCom Workshops
@@ -2483,7 +2486,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Enhancing Fingerprint-based Smartphone Localization Using Acoustic Time-of-Flight
+- title: Enhancing Fingerprint-based Smartphone Localization Using Acoustic Time-of-Flight
     for Complex Indoors
   publication: "Proceedings of the 21st ACM Conference on Embedded Networked Sensor
     Systems\r"
@@ -2512,7 +2515,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 'Untethering Discovery: wireless power for mobile sensing and neuroscience'
+- title: 'Untethering Discovery: wireless power for mobile sensing and neuroscience'
   publication: GCL/IIW workshop
   publication_abbr: 
   type: invited
@@ -2538,7 +2541,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 単一スピーカからの多重反射波のTime-of-Flight情報を用いた位置指紋に基づく屋内測位
+- title: 単一スピーカからの多重反射波のTime-of-Flight情報を用いた位置指紋に基づく屋内測位
   publication: マルチメディア，分散，協調とモバイル シンポジウム
   publication_abbr: DICOMO 2024
   type: conference-jp
@@ -2564,7 +2567,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 天井・間仕切り壁を介した磁界共鳴結合方式による非接触給電
+- title: 天井・間仕切り壁を介した磁界共鳴結合方式による非接触給電
   publication: 2024年度日本建築学会大会
   publication_abbr: 
   type: conference-jp
@@ -2590,7 +2593,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 再構成可能な二次元無線給電システムにおける中継共振器損失の影響の解析
+- title: 再構成可能な二次元無線給電システムにおける中継共振器損失の影響の解析
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
@@ -2616,7 +2619,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 'Geometric Sound Profile: Multipath-Time-of-Flight Fingerprint for High-Accuracy
+- title: 'Geometric Sound Profile: Multipath-Time-of-Flight Fingerprint for High-Accuracy
     Acoustic Localization'
   publication: 14th International Conference on Indoor Positioning and Indoor Navigation
   publication_abbr: IPIN
@@ -2643,7 +2646,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: Improving Coverage and Accuracy in Visible Light Positioning through Ceiling
+- title: Improving Coverage and Accuracy in Visible Light Positioning through Ceiling
     Reflection Modeling,
   publication: 14th International Conference on Indoor Positioning and Indoor Navigation
   publication_abbr: IPIN
@@ -2671,7 +2674,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: 検出システム、検出方法及びプログラム（特開2024-065074）
+- title: 検出システム、検出方法及びプログラム（特開2024-065074）
   publication: 特許庁
   publication_abbr: 
   type: patent
@@ -2697,7 +2700,7 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- sis: ウェアラブルセンシング装置（特開2022-128421）
+- title: ウェアラブルセンシング装置（特開2022-128421）
   publication: 特許庁
   publication_abbr: 
   type: patent
