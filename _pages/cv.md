@@ -1,6 +1,8 @@
 ---
 layout: cv
 title: Curriculum Vitae
+description: "Takuya Sasatani's CV."
+keywords: "CV, Takuya Sasatani, 笹谷拓也"
 permalink: /cv/
 type_names:
   journal-en: "Journal"

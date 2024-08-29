@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Publications
+description: "Takuya Sasatani's publication page."
+keywords: "Takuya Sasatani, 笹谷拓也, research, publications"
 permalink: /publications/
 type_names:
   journal-en: "Journal articles (peer-reviewed)"
