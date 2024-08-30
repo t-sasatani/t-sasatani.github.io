@@ -1816,7 +1816,7 @@
   video: 
   press_release_en: 
   press_release_jp: 
-  note: 
+  note: 山下記念研究賞 & 優秀論文賞
 - title: カメラを用いた筋力トレーニングにおける最大挙上重量の推定に関する検討
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
@@ -2132,7 +2132,7 @@
   video: 
   press_release_en: 
   press_release_jp: 
-  note: ヤングリサーチャー章受賞
+  note: 優秀論文賞 & ヤングリサーチャー賞
 - title: A Halbach-Array-Based Resonator for Suppressing Leakage Magnetic Field in
     Wireless Power Transfer Systems
   publication: Asian Wireless Power Transfer Workshop 2022
@@ -2240,7 +2240,7 @@
   video: 
   press_release_en: 
   press_release_jp: 
-  note: 
+  note: 学生奨励賞
 - title: 'ACT-X: 学びと加速の三年半'
   publication: 日本バーチャルリアリティ学会誌
   publication_abbr: 
@@ -2752,3 +2752,29 @@
   press_release_en: 
   press_release_jp: 
   note: 
+- title: ミリ波レーダを用いたドローン飛行誘導手法
+  publication: 電子情報通信学会技術研究報告
+  publication_abbr: 信学技法
+  type: conference-jp
+  thumbnail: 
+  priority: 
+  author: 飯塚達哉，笹谷拓也，小阪直子，遠藤直人，松原浩史，久田正樹，川原圭博
+  _time: '2024-1-18'
+  year: '2024'
+  month: '1'
+  month_str: January
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 16 - 21
+  session: SANE2023-92
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: https://www.ieice.org/publications/ken/summary.php?contribution_id=128949&society_cd=CS&ken_id=AN&year=2024&presen_date=2024-01-18&schedule_id=7956&lang=jp&expandable=1
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  note: 若手奨励賞
