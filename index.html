@@ -74,37 +74,37 @@ keywords: "Takuya Sasatani, 笹谷, 拓也, 笹谷拓也, research, publications
 		        <span class="author-list">{{ authors | safe }}</span>
             <br/>
             {% if publication.open_access %}
-              <a href="{{ publication.open_access }}" class="badge" target="_blank" rel="noopener noreferrer">
+              <a href="{{ publication.open_access }}" class="badge" target="_blank">
                 Public access
               </a>
             {% endif %}
 
             {% if publication.video %}
-              <a href="{{ publication.video }}" class="badge" target="_blank" rel="noopener noreferrer">
+              <a href="{{ publication.video }}" class="badge" target="_blank">
                 Video
               </a>
             {% endif %}
 
             {% if publication.doi %}
-              <a href="{{ publication.doi }}" class="badge" target="_blank" rel="noopener noreferrer">
+              <a href="{{ publication.doi }}" class="badge" target="_blank">
                 Publisher
               </a>
             {% endif %}
 
             {% if publication.link %}
-              <a href="{{ publication.link }}" class="badge" target="_blank" rel="noopener noreferrer">
+              <a href="{{ publication.link }}" class="badge" target="_blank">
                 Link
               </a>
             {% endif %}
 
             {% if publication.press_release_en %}
-              <a href="{{ publication.press_release_en }}" class="badge" target="_blank" rel="noopener noreferrer">
+              <a href="{{ publication.press_release_en }}" class="badge" target="_blank">
                 Press release (English)
               </a>
             {% endif %}
 
             {% if publication.press_release_jp %}
-              <a href="{{ publication.press_release_jp }}" class="badge" target="_blank" rel="noopener noreferrer">
+              <a href="{{ publication.press_release_jp }}" class="badge" target="_blank">
                 Press release (Japanese)
               </a>
             {% endif %}
