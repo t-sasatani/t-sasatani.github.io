@@ -78,31 +78,31 @@
 		{% endif %}
 		<br />
 		{% if publication.open_access %}
-		<a href="{{ publication.open_access }}" class="badge" target="_blank">
+		<a href="{{ publication.open_access }}" class="badge" target="_blank" rel="noopener noreferrer">
 			Public Access
 		</a>
 		{% endif %}
 
 		{% if publication.video %}
-		<a href="{{ publication.video }}" class="badge" target="_blank">
+		<a href="{{ publication.video }}" class="badge" target="_blank" rel="noopener noreferrer">
 			Video
 		</a>
 		{% endif %}
 
 		{% if publication.doi %}
-		<a href="{{ publication.doi }}" class="badge" target="_blank">
+		<a href="{{ publication.doi }}" class="badge" target="_blank" rel="noopener noreferrer">
 			Publisher
 		</a>
 		{% endif %}
 
 		{% if publication.link %}
-		<a href="{{ publication.link }}" class="badge" target="_blank">
+		<a href="{{ publication.link }}" class="badge" target="_blank" rel="noopener noreferrer">
 			Link
 		</a>
 		{% endif %}
 
 		{% if publication.press_release_en %}
-		<a href="{{ publication.press_release_en }}" class="badge" target="_blank">
+		<a href="{{ publication.press_release_en }}" class="badge" target="_blank" rel="noopener noreferrer">
 			Press release (English)
 		</a>
 		{% endif %}
@@ -126,7 +126,7 @@
 				{% assign authors = authors | replace: '笹谷拓也', '<u>笹谷拓也</u>' %}
 				<span class="author-list">{{ authors | safe }},</span>
 				{% if publication.doi %}
-				"<a href="{{ publication.doi }}" target="_blank">{{ publication.title }}</a>,"
+				"<a href="{{ publication.doi }}" target="_blank" rel="noopener noreferrer">{{ publication.title }}</a>,"
 				{% else %}
 				"{{ publication.title }},"
 				{% endif %}
