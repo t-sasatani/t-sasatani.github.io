@@ -295,7 +295,7 @@
   publication: "IEEE Antennas and Wireless Propagation Letters\r"
   publication_abbr: 
   type: journal-en
-  thumbnail: 
+  thumbnail: sasatani2017awpl.jpg
   priority: 
   author: Takuya Sasatani; Matthew J. Chabalko; Yoshihiro Kawahara; and Alanson P.
     Sample
@@ -1071,7 +1071,7 @@
   publication: 2020 IEEE International Conference on Consumer Electronics
   publication_abbr: IEEE ICCE
   type: conference-en-full
-  thumbnail: 
+  thumbnail: morita2020icce.jpg
   priority: 
   author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; and Yoshihiro Kawahara
   _time: 2020-1
@@ -1449,7 +1449,7 @@
   publication: 2020 IEEE Wireless Power Transfer Conference
   publication_abbr: IEEE WPTC
   type: conference-en-full
-  thumbnail: 
+  thumbnail: hayashi2020wptc.jpg
   priority: 
   author: Hiromasa Hayashi; Katsuhiro Hata; Takuya Sasatani; Hiroki Sato; Ryosuke
     Yamamura; Young ah Seong; Ryuma Niiyama; and Yoshihiro Kawahara
@@ -1689,7 +1689,7 @@
   publication: IEEE Robotics and Automation Letters
   publication_abbr: 
   type: journal-en
-  thumbnail: 
+  thumbnail: chen2021ral.jpg
   priority: 
   author: Lai Chen; Takuya Sasatani; Keung Or; Satoshi Nishikawa; Yoshihiro Kawahara;
     Ryuma Niiyama; and Yasuo Kuniyoshi
@@ -2461,9 +2461,9 @@
 - title: Camera-Based Position Estimation using Frequency-Multiplexed Luminance Gradient
   publication: 2024 IEEE International Conference on Pervasive Computing and Communications
     Workshops and other Affiliated Events
-  publication_abbr: PerCom Workshops
+  publication_abbr: PerCom Industry Track 2024
   type: conference-en-adjunct
-  thumbnail: 
+  thumbnail: shimada2023percom.jpg
   priority: 
   author: Shota Shimada, Hiroaki Murakami, Kota Tsubouchi, Takuya Sasatani, and Yoshihiro
     Kawahara
@@ -2647,7 +2647,7 @@
   press_release_jp: 
   note: 
 - title: Improving Coverage and Accuracy in Visible Light Positioning through Ceiling
-    Reflection Modeling,
+    Reflection Modeling
   publication: 14th International Conference on Indoor Positioning and Indoor Navigation
   publication_abbr: IPIN
   type: conference-en-full
@@ -2753,7 +2753,7 @@
   press_release_jp: 
   note: 
 - title: ミリ波レーダを用いたドローン飛行誘導手法
-  publication: 電子情報通信学会技術研究報告
+  publication: 電子情報通信学会技術研究報告ﾄﾞｯｺｲｼｮ
   publication_abbr: 信学技法
   type: conference-jp
   thumbnail: 
