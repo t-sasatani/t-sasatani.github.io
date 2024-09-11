@@ -22,19 +22,27 @@
 - role: Reviewer
   program: IEEE Transactions on Microwave Theory and Techniques
 - role: Reviewer
-  program: IEEE Microwave and Wireless Components Letters
-- role: Reviewer
   program: IEEE Transactions on Wireless Communications
 - role: Reviewer
-  program: IEEE Pervasive Computing
-- role: Reviewer
   program: IEEE Transactions on Mobile Computing
+- role: Reviewer
+  program: IEEE Antennas and Wireless Propagation Letters
+- role: Reviewer
+  program: IEEE Microwave and Wireless Components Letters
+- role: Reviewer
+  program: IEEE Pervasive Computing
 - role: Reviewer
   program: IEEE Access
 - role: Reviewer
   program: Scientific Reports
 - role: Reviewer
-  program: MDPI Magnetochemistry / Sustainability / Energies / Sensors
+  program: MDPI Sensors
+- role: Reviewer
+  program: MDPI Energies
+- role: Reviewer
+  program: MDPI Sustainablility
+- role: Reviewer
+  program: MDPI Magnetochemistry
 - role: Reviewer
   program: PeerJ Computer Science
 - role: Reviewer
