@@ -2088,7 +2088,7 @@
   thumbnail: 
   priority: 
   author: 笹谷拓也，川原圭博
-  _time: '2022-06-01'
+  _time: '2022-06-05'
   year: '2022'
   month: '6'
   month_str: June
@@ -2100,9 +2100,9 @@
   session: 
   city: 
   to_appear: 
-  doi: 
+  doi: https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202219657587784
   open_access: 
-  link: 
+  link: https://www.it-book.co.jp/EMC/backnumber/410.html
   video: 
   press_release_en: 
   press_release_jp: 
@@ -2859,8 +2859,8 @@
   press_release_en: 
   press_release_jp: 
   note: 
-- title: Innovators Under 35 JP Summit 2021
-  publication: MIT Technology Review
+- title: Wi-Fiのような給電技術で電源の制約をなくす
+  publication: MIT Technology Review Innovators Under 35 JP Summit 2021
   publication_abbr: 
   type: invited
   thumbnail: 
