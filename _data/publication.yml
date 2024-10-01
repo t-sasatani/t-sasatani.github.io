@@ -2778,3 +2778,31 @@
   press_release_en: 
   press_release_jp: 
   note: 
+- title: 'SyncEcho: Echo-Based Single Speaker Time Offset Estimation for Time-of-Flight
+    Localization'
+  publication: 22nd ACM Conference on Embedded Networked Sensor Systems
+  publication_abbr: SenSys 2024
+  type: conference-en-full
+  thumbnail: 
+  priority: 
+  author: Hiroaki Murakami, Takuya Sasatani, Masanori Sugimoto, Issey Sukeda, Yukiya
+    Mita, and Yoshihiro Kawahara
+  _time: 2024-11
+  year: '2024'
+  month: '11'
+  month_str: November
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: Hangzhou, China
+  to_appear: 'TRUE'
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  note: 
