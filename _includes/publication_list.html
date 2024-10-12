@@ -51,7 +51,7 @@
 	{% for publication in publication_by_type %}
 	<li class="publication-item">
 		{% if publication.individual_page == 'TRUE' %}
-		{% assign publication_title = publication.title | downcase | replace: ' ', '_' | replace: ':', '' | replace: ',', '' | replace: /[^a-z0-9_]/, '' %}
+		{% assign publication_title = publication.title | downcase | replace: ' ', '_' | replace: ':', '' | replace: ',', '' | replace: '/', '' | replace: /[^a-z0-9_]/, '' %}
 		<strong>
 			<a href="/publications/{{ publication_title }}">{{ publication.title }}</a>
 		</strong>
