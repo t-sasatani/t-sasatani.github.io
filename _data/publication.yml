@@ -3,141 +3,141 @@
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也，成末義哲，川原圭博，浅見徹
   _time: '2015-09-01'
   year: '2015'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-21-6
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 磁界共振結合型無線電力伝送における遺伝的アルゴリズムを用いた受電共振器アレイの設計
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也，成末義哲，川原圭博，浅見徹
   _time: '2016-03-01'
   year: '2016'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-21-22
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 銀ナノインクを用いたパッシブ型圧力センサの人体貼付用途における設計手法
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 橋爪崇弘，笹谷拓也，成末義哲，川原圭博，浅見徹
   _time: '2016-03-01'
   year: '2016'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-18-17
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 磁界共振結合型無線電力伝送における遺伝的アルゴリズムを用いた受電共振器アレイの設計手法
   publication: 東京大学工学部電気電子工学科
   publication_abbr: 卒業論文
   type: dissertation
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也
   _time: '2016-03-01'
   year: '2016'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
   note: 電気学術奨励賞 & 優秀卒業論文賞
 - title: Genetic algorithm-based design of receiving resonator arrays for wireless
     power transfer via magnetic resonant coupling
   publication: 2016 IEEE Wireless Power Transfer Conference
   publication_abbr: IEEE WPTC
   type: conference-en-full
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara; and Tohru Asami
   _time: '2016-05-01'
   year: '2016'
   month: '5'
   month_str: May
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 1-4
-  session:
+  session: 
   city: Aveiro, Portugal
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1109/wpt.2016.7498842
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: Resonator design methods play an important role in realizing efficient
     wireless power transfer via magnetic resonant coupling (WPT-MRC) systems. In WPT-MRC
     systems, transmitting (Tx) resonator arrays are often used to extend the range
@@ -149,63 +149,63 @@
     minimum transfer efficiency of a power supply system using a Tx resonator array
     increased from 3.8% to 42.6%, and the computed results were verified by simulations
     and measurements.
-  note:
+  note: 
 - title: 銀ナノインクを用いた非接触読み取り可能なパッシブ型静電容量式圧力センサと着圧測定への応用
   publication: マルチメディア，分散，協調とモバイル シンポジウム
   publication_abbr: DICOMO 2017
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 橋爪崇弘，笹谷拓也，成末義哲，川原圭博，浅見徹
   _time: '2016-07-01'
   year: '2016'
   month: '7'
   month_str: July
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 840 - 845
   session: 4G-1
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
   note: 最優秀論文賞 & 優秀プレゼンテーション賞
 - title: Indoor Wireless Power Transfer
   publication: TECO Green Tech Contest 2016
-  publication_abbr:
+  publication_abbr: 
   type: conference-en-adjunct
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Yoshiaki Narusue, Arata Hashizume, Takuya Sasatani, Xinyang Shi, Yota Mizutani,
     Yoshihiro Kawahara, and Tohru Asami
   _time: '2016-08-01'
   year: '2016'
   month: '8'
   month_str: August
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Taipei, Taiwan
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
   note: Bronze Medalist
 - title: Passive and contactless epidermal pressure sensor printed with silver nano-particle
     ink
@@ -215,27 +215,27 @@
   type: conference-en-full
   thumbnail: hashizume2016ubicomp.jpg
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Takahiro Hashizume; Takuya Sasatani; Koya Narumi; Yoshiaki Narusue; Yoshihiro
     Kawahara; and Tohru Asami
   _time: '2016-09-01'
   year: '2016'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 190 - 195
-  session:
+  session: 
   city: Heidelberg, Germany
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1145/2971648.2971705
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "In this paper, we propose a passive and contactless epidermal pressure
     sensor patch printed on a paper substrate with silver nano-particle ink. This
     disposable patch can be used to measure the pressure between the clothes and the
@@ -247,14 +247,14 @@
     of the human body. We demonstrate our sensor patch by measuring the pressure exerted
     by compression garments whose pressure distribution is important for the wearer's
     health.\r"
-  note:
+  note: 
 - title: 受電器アレイとシート型送電器を用いた電界結合型無線電力伝送における極板形状に関する一検討
   publication: 電子情報通信学会技術研究報告
   publication_abbr: 信学技報
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 水谷陽太，笹谷拓也，成末義哲，川原圭博，浅見徹
   _time: '2016-11-01'
   year: '2016'
@@ -262,75 +262,75 @@
   month_str: November
   volume: '116'
   Issue: '321'
-  number:
-  article:
+  number: 
+  article: 
   pages: 7 - 11
   session: WPT2016-38
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 磁界共振結合型無線電力伝送ツールキットの設計および実装
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也，成末義哲，川原圭博，浅見徹
   _time: '2017-03-01'
   year: '2017'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-18-40
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: DC-based impedance tuning method using magnetic saturation for wireless power
     transfer
   publication: 2017 IEEE Wireless Power Transfer Conference (WPTC)
   publication_abbr: IEEE WPTC
   type: conference-en-full
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Takuya Sasatani; Yoshiaki Narusue; Yoshihiro Kawahara; and Tohru Asami
   _time: '2017-05-01'
   year: '2017'
   month: '5'
   month_str: May
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 1 - 4
-  session:
+  session: 
   city: Taipei, Taiwan
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1109/wpt.2017.7953900
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: The transfer efficiency of a resonant wireless power transfer system highly
     depends on the load impedance and the reactance of the resonators. In many practical
     applications, these parameters fluctuate by the variation of operating conditions.
@@ -344,14 +344,14 @@
     of the high-Q coil can be tuned from 80 Ω to 113 Ω and the characteristic impedance
     component of the K-inverter can be tuned from 39 Ω to 72 Ω using non-optimized,
     basic configurations of the proposed methods.
-  note:
+  note: 
 - title: Multimode Quasistatic Cavity Resonators for Wireless Power Transfer
   publication: IEEE Antennas and Wireless Propagation Letters
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: sasatani2017awpl.jpg
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Takuya Sasatani; Matthew J. Chabalko; Yoshihiro Kawahara; and Alanson P.
     Sample
   _time: '2017-08-01'
@@ -359,19 +359,19 @@
   month: '8'
   month_str: August
   volume: '16'
-  Issue:
-  number:
-  article:
+  Issue: 
+  number: 
+  article: 
   pages: 2746 - 2749
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1109/lawp.2017.2744658
   open_access: https://studios.disneyresearch.com/wp-content/uploads/2019/04/Multimode-Quasistatic-Cavity-Resonators-for-Wireless-Power-Transfer.pdf
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: The majority of existing wireless power transfer (WPT) solutions are limited
     to two-dimensional (2-D) configurations, which limits mobility when charging electronic
     devices. What is needed are systems capable of 3-D WPT, which can deliver power
@@ -388,150 +388,150 @@
     by shifting the operation frequency by less than 1%, and no physical switching
     components are required. It is shown by simulations that power can be delivered
     with over 66% efficiency to any location in the room by using this dual-mode operation.
-  note:
+  note: 
 - title: A design of an asymmetric resonator for wirelessly powered wearable ring
     device
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Weiwei Jiang, Haichao Zhu, Takuya Sasatani, Yoshiaki Narusue, Masaaki Fukumoto,
     and Yoshihiro Kawahara
   _time: '2017-09-01'
   year: '2017'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: BS-7-20
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 無線電力伝送のための DC/DC コンバータを用いた複素インピーダンス変換手法についての一検討
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也，成末義哲，川原圭博
   _time: '2018-03-01'
   year: '2018'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-21-2
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 切断により形状の変更が可能な無線電力伝送シートの設計の一検討
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 高橋亮，笹谷拓也，奥谷文徳，成末義哲，川原圭博
   _time: '2018-03-01'
   year: '2018'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-21-19
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 二次元共振器アレイを用いた給電領域を自由に変更可能な無線給電システムの構成
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 角谷和宣，西澤勇輝，笹谷拓也，橋詰新，成末義哲，川原圭博
   _time: '2018-03-01'
   year: '2018'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-18-15
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Multimode Quasistatic Cavity Resonators and DC-Controlled Complex Impedance
     Conversion Techniques for Wireless Power Transfer
   publication: Department of Information and Communication Engineering, Graduate School
     of Information Science and Technology, The University of Tokyo
   publication_abbr: Master thesis
   type: dissertation
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Takuya Sasatani
   _time: '2018-03-01'
   year: '2018'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
   note: 研究科長賞 & 専攻長賞
 - title: Dynamic Complex Impedance Tuning Method Using a Multiple-Input DC/DC Converter
     for Wireless Power Transfer
@@ -540,26 +540,26 @@
   type: conference-en-full
   thumbnail: sasatani2018wptc.jpg
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Takuya Sasatani; Yoshiaki Narusue; and Yoshihiro Kawahara
   _time: '2018-06-01'
   year: '2018'
   month: '6'
   month_str: June
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 1 - 4
-  session:
+  session: 
   city: Montreal, QC, Canada
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1109/wpt.2018.8639301
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: 'The performance of a wireless power transfer (WPT) system is highly dependent
     on the complex impedance of the receiver (RX). Therefore, dynamic complex impedance
     tuning methods are critical pieces for gaining sufficient control over WPT systems.
@@ -578,200 +578,200 @@
 - title: 'Multimode Quasistatic Cavity Resonators for Wireless Power Transfer: Towards
     Empowering Freely Moving Animal Experiments in 3-D Environments'
   publication: International Symposium on Systems Science of Bio-Navigation 2018
-  publication_abbr:
+  publication_abbr: 
   type: conference-en-adjunct
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Takuya Sasatani, and Yoshihiro Kawahara
   _time: '2018-09-01'
   year: '2018'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Kyoto, Japan
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 三次元無線電力伝送のためのMultimode Quasistatic Cavity Resonatorの実装
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也，川原圭博
   _time: '2018-09-01'
   year: '2018'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-21-14
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 'Ramus: 周波数選択性電力バスによる多数アクチュエータの独立駆動システムの検討'
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 西澤勇輝，成末義哲，笹谷拓也，川原圭博
   _time: '2018-09-01'
   year: '2018'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: A-1-6
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: パーソナルモビリティへの磁界共振結合型無線電力伝送における位置ずれの影響評価
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 林寛将，笹谷拓也，成末義哲，川原圭博
   _time: '2018-09-01'
   year: '2018'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-21-5
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 渦電流を利用した非接触駆動による相転移アクチュエータの高速化
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 中原健一，成末義哲，笹谷拓也，鳴海紘也，川原圭博
   _time: '2018-09-01'
   year: '2018'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-18-6
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Coil Design for Wireless Power Transfer through Walls with Metallic Lattice
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Zhehao Li, Takuya Sasatani, Yuki Nishizawa, and Yoshihiro Kawahara
   _time: '2018-09-01'
   year: '2018'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-21-9
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Design of Cuttable Wireless Power Transfer Sheet
   publication: Proceedings of the 2018 ACM International Joint Conference on Pervasive
     and Ubiquitous Computing
   publication_abbr: ACM UbiComp
   type: conference-en-adjunct
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Ryo Takahashi; Takuya Sasatani; Fuminori Okuya; Yoshiaki Narusue; and Yoshihiro
     Kawahara
   _time: '2018-10-01'
   year: '2018'
   month: '10'
   month_str: October
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 456 - 459
-  session:
+  session: 
   city: Singapore, Singapore
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1145/3267305.3267570
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: 'We propose a cuttable wireless power transfer sheet which allows users
     to modify its size and shape. This intuitive manipulation allows the users to
     easily add wireless power transmission capabilities to everyday objects. The properties
@@ -780,35 +780,35 @@
     allows the sheet to remain functional even when cut from the outside of the sheet.
     To show its feasibility, we present three applications in the combinations of
     our sheet and daily objects: wireless charging furniture, bag, and jacket.'
-  note:
+  note: 
 - title: A Reconfigurable 2-D Wireless Charging System
   publication: Proceedings of the 2018 ACM International Joint Conference on Pervasive
     and Ubiquitous Computing
   publication_abbr: ACM UbiComp
   type: conference-en-adjunct
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Kazunobu Sumiya; Takuya Sasatani; Yuki Nishizawa; Kenji Tsushio; Yoshiaki
     Narusue; and Yoshihiro Kawahara
   _time: '2018-10-01'
   year: '2018'
   month: '10'
   month_str: October
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 452 - 455
-  session:
+  session: 
   city: Singapore, Singapore
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1145/3267305.3267632
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: 'Wireless charging pads such as Qi are rapidly gaining ground, but their
     limited power supply range still requires precise placement on a specific point.
     2-D wireless power transfer (WPT) sheets consisting of coil arrays are one well-known
@@ -825,35 +825,35 @@
     an end-to-end WPT system and demonstrated that Alvus is capable of intuitive construction/reconfiguration
     of WPT surfaces, as well as automatically deciding the power routes based on the
     sensed information (e.g., receiver location, module placement, obstructive objects).'
-  note:
+  note: 
 - title: 3-D Wireless Charging for Indoor Electronics Using Multimode Quasistatic
     Cavity Resonators
   publication: Proceedings of the 2018 ACM International Joint Conference on Pervasive
     and Ubiquitous Computing
   publication_abbr: ACM UbiComp
   type: conference-en-adjunct
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Takuya Sasatani; Alanson P. Sample; and Yoshihiro Kawahara
   _time: '2018-10-01'
   year: '2018'
   month: '10'
   month_str: October
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 444 - 447
-  session:
+  session: 
   city: Singapore, Singapore
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1145/3267305.3267571
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Most existing wireless power transfer (WPT) solutions are limited to
     2-D configurations, which limits mobility when charging electronics. What is needed
     are 3-D WPT, which can deliver power anywhere in large volumes (e.g., factories,
@@ -868,14 +868,14 @@
     which works to the same degree as the previous QSCR without the central pole and
     (ii) dual-mode operation, which although requires the central pole, enables high-efficiency
     WPT all over the volume.\r"
-  note:
+  note: 
 - title: "[依頼講演] 1MHz磁界共振結合方式を用いた無線給電プラレールの設計と製作"
   publication: 電子情報通信学会技術研究報告
   publication_abbr: 信学技報
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 角谷和宣，西澤勇輝，笹谷拓也，高橋亮，成末義哲，川原圭博
   _time: '2018-10-01'
   year: '2018'
@@ -883,20 +883,20 @@
   month_str: October
   volume: '118'
   Issue: '227'
-  number:
-  article:
+  number: 
+  article: 
   pages: 111 - 114
   session: WPT2018-50
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Room-Wide Wireless Charging and Load-Modulation Communication via Quasistatic
     Cavity Resonance
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
@@ -905,7 +905,7 @@
   type: journal-en
   thumbnail: sasatani2018imwut.jpg
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Takuya Sasatani; Chouchang Jack Yang; Matthew J. Chabalko; Yoshihiro Kawahara;
     and Alanson P. Sample
   _time: '2018-12-01'
@@ -913,19 +913,19 @@
   month: '12'
   month_str: December
   volume: '2'
-  Issue:
+  Issue: 
   number: '4'
   article: '188'
   pages: 1 - 23
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1145/3287066
   open_access: "/assets/paper/sasatani2018imwut.pdf"
-  link:
-  video:
+  link: 
+  video: 
   press_release_en: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00055.html
-  press_release_jp:
+  press_release_jp: 
   abstract: "The rise of the Internet of Things (IoT) has led to a significant increase
     in the number of connected devices that stream data in our homes, offices and
     industrial spaces. However, as the number of these devices increases, the costs
@@ -943,7 +943,7 @@
     communication rate can achieve from 1 kbps without occurring any errors, up to
     5 kbps with 6% BER while the end node to central unit can achieve 10 kbps without
     occurring any errors.\r"
-  note:
+  note: 
 - title: A Cuttable Wireless Power Transfer Sheet
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies
@@ -951,7 +951,7 @@
   type: journal-en
   thumbnail: takahashi2018imwut.gif
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Ryo Takahashi; Takuya Sasatani; Fuminori Okuya; Yoshiaki Narusue; and Yoshihiro
     Kawahara
   _time: '2018-12-01'
@@ -959,16 +959,16 @@
   month: '12'
   month_str: December
   volume: '2'
-  Issue:
+  Issue: 
   number: '4'
   article: '190'
   pages: 1 - 25
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1145/3287068
   open_access: https://dl.acm.org/doi/10.1145/3287068
-  link:
+  link: 
   video: https://youtu.be/eBqJG65DhPQ?feature=shared
   press_release_en: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00024.html
   press_release_jp: https://www.jst.go.jp/pr/announce/20190107-2/index.html
@@ -987,119 +987,119 @@
     four applications which integrates our sheet into daily objects: wireless charging
     furniture, bag, jacket, and craft; these applications confirmed the feasibility
     of our prototype.'
-  note:
+  note: 
 - title: 三次元無線電力伝送のための面電流を用いたマルチモード共振器についての一検討
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也，川原圭博
   _time: '2019-03-01'
   year: '2019'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-21-37
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: ワイヤレスな指輪型キーボードのバッテリレス化手法
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 高橋亮，韓燦教，笹谷拓也，成末義哲，福本雅朗，川原圭博，苗村健
   _time: '2019-03-01'
   year: '2019'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-15-13
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: センサフィードバックの統合が可能な周波数選択性電力バスによる多数アクチュエータの独立駆動システム
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 西澤勇輝，笹谷拓也，成末義哲，川原圭博
   _time: '2019-03-01'
   year: '2019'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: A-1-20
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: パーソナルモビリティの走行中無線電力伝送に向けた送電コイル設計に関する一検討
   publication: 情報処理学会第81回全国大会
-  publication_abbr:
+  publication_abbr: 
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 林寛将，笹谷拓也，成末義哲，川原圭博
   _time: '2019-03-01'
   year: '2019'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: 4Y-06
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 'Alvus: A Reconfigurable 2-D Wireless Charging System'
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies
@@ -1107,7 +1107,7 @@
   type: journal-en
   thumbnail: sumiya2019imwut.gif
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Kazunobu Sumiya; Takuya Sasatani; Yuki Nishizawa; Kenji Tsushio; Yoshiaki
     Narusue; and Yoshihiro Kawahara
   _time: '2019-06-01'
@@ -1115,19 +1115,19 @@
   month: '6'
   month_str: June
   volume: '3'
-  Issue:
+  Issue: 
   number: '2'
   article: '68'
   pages: 1 - 29
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1145/3332533
   open_access: https://dl.acm.org/doi/10.1145/3332533
-  link:
+  link: 
   video: https://youtu.be/jVwN9ioL5JU?feature=shared
-  press_release_en:
-  press_release_jp:
+  press_release_en: 
+  press_release_jp: 
   abstract: "Wireless charging pads such as Qi are rapidly gaining ground, but their
     limited power supply range still requires precise placement on a specific point.
     2-D wireless power transfer (WPT) sheets consisting of coil arrays are one well-known
@@ -1149,29 +1149,29 @@
   publication: 情報処理学会ユビキタスコンピューティングシステム研究会
   publication_abbr: IPSJ SIGUBI
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也，川原圭博
   _time: '2019-06-01'
   year: '2019'
   month: '6'
   month_str: June
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 1 - 8
   session: 2019-UBI-62
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
   note: 山下記念論文賞 & 優秀論文賞
 - title: Design of Wireless Power Transfer Systems for Personal Mobility Devices in
     City Spaces
@@ -1180,26 +1180,26 @@
   type: conference-en-full
   thumbnail: hayashi2019vtc.png
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Hiromasa Hayashi; Takuya Sasatani; Yoshiaki Narusue; and Yoshihiro Kawahara
   _time: '2019-09-01'
   year: '2019'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 1 - 5
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1109/vtcfall.2019.8891268
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Sharing systems for personal mobility devices (PMDs) with batteries are
     gaining popularity because of their advantages in terms of maneuverability and
     low environmental burdens. However, PMDs suffer from a small battery capacity,
@@ -1215,91 +1215,91 @@
     placed on the road. Based on these considerations, we confirmed that around 90
     % transfer efficiency can be obtained in laboratory setups, whereas practical
     setups achieved around 70% efficiency.\r"
-  note:
+  note: 
 - title: マルチモード準静空洞共振器を用いた無線電力伝送における中継共振器の配置についての一検討
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 平井雄太，笹谷拓也，川原圭博
   _time: '2019-09-01'
   year: '2019'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-20-19
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 三次元無線給電システムにより駆動する空中浮遊デバイスに向けたペイロードと給電効率の検証
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 黒澤蓮，笹谷拓也，鳴海紘也，川原圭博
   _time: '2019-09-01'
   year: '2019'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-15-24
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: "「マルチモード準静空洞共振器による部屋ごと無線給電」の技術紹介"
   publication: ワイヤレス電力伝送実用化コンソーシアムWG3 講演（見学）会
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也
   _time: '2019-11-01'
   year: '2019'
   month: '11'
   month_str: November
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Tokyo, Japan
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Topology Construction Protocol for Wireless Power Transfer System with a
     2-D Relay Resonator Array
   publication: 2020 IEEE International Conference on Consumer Electronics
@@ -1307,26 +1307,26 @@
   type: conference-en-full
   thumbnail: morita2020icce.jpg
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; and Yoshihiro Kawahara
   _time: '2020-01-01'
   year: '2020'
   month: '1'
   month_str: January
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 1 - 5
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1109/icce46568.2020.9043052
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "The cost of deploying wireless power transfer (WPT) technology into products
     still remains high due to the order-made design process. As a new approach to
     alleviate the engineering cost to adapt to each use-case, a magnetic resonance
@@ -1342,7 +1342,7 @@
     robust topology construction and evaluated it through simulations. Through simulations,
     it was discovered that the topology construction can be executed in 2 seconds
     for a 30 module configuration.\r"
-  note:
+  note: 
 - title: 'Silver Tape: Inkjet-Printed Circuits Peeled-and-Transferred on Versatile
     Substrates'
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
@@ -1351,7 +1351,7 @@
   type: journal-en
   thumbnail: tingyu2020imwut.gif
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Tingyu Cheng; Koya Narumi; Youngwook Do; Yang Zhang; Tung D. Ta; Takuya
     Sasatani; Eric Markvicka; Yoshihiro Kawahara; Lining Yao; Gregory D. Abowd; and
     HyunJoo Oh
@@ -1362,17 +1362,17 @@
   volume: '4'
   Issue: '1'
   number: '6'
-  article:
+  article: 
   pages: 1 - 17
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1145/3381013
   open_access: https://static1.squarespace.com/static/5fc1dbf8116eb00e3c52b568/t/5fc5e140eaf37e3b6467afb0/1606803779146/silvertape.pdf
-  link:
+  link: 
   video: https://youtu.be/Ntqc5bHQdYc?feature=shared
-  press_release_en:
-  press_release_jp:
+  press_release_en: 
+  press_release_jp: 
   abstract: "We propose Silver Tape, a simple yet novel fabrication technique to transfer
     inkjet-printed silver traces from paper onto versatile substrates, without time-/space-
     consuming processes such as screen printing or heat sintering. This allows users
@@ -1389,70 +1389,70 @@
     applications. We believe Silver Tape enriches novel interactions for the ubiquitous
     computing domain, by enabling digital fabrication of electronics on versatile
     materials, surfaces, and shapes.\r"
-  note:
+  note: 
 - title: 眼鏡型デバイスにおけるヒンジ部の配線の無線化
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 高木健，笹谷拓也，笠島博信，川原圭博，苗村健
   _time: '2020-03-01'
   year: '2020'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-15-14
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: マルチモード準静空洞共振器を用いた無線給電における中継器の構成についての検討
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 平井雄太，笹谷拓也，高橋亮，川原圭博
   _time: '2020-03-01'
   year: '2020'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-20-11
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Infants Show Physiological Responses Specific to Parental Hugs
   publication: iScience
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: yoshida2020iscience.png
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Sachine Yoshida; Yoshihiro Kawahara; Takuya Sasatani; Ken Kiyono; Yo Kobayashi;
     and Hiromasa Funato
   _time: '2020-04-01'
@@ -1462,17 +1462,17 @@
   volume: '23'
   Issue: '4'
   number: '100996'
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1016/j.isci.2020.100996
   open_access: https://www.cell.com/iscience/fulltext/S2589-0042%2820%2930180-2
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: Caregivers hug their infants to express affection and joy. However, it
     remains unknown how infants react to being hugged. Here we examined heart rate
     responses in first-year infants during a hug, hold, and tight hug from parents.
@@ -1485,71 +1485,71 @@
     with contact pressure. Parents showed an increased RRI during hugging their infants.
     These results suggest the parent-infant hug underlies the parent-infant bonding
     and psychophysiological development of infants.
-  note:
+  note: 
 - title: 準静空洞共振器を用いた無線給電の自動車技術への応用可能性
   publication: 自動車技術会2020年春季大会（オーガナイズドセッション）
-  publication_abbr:
+  publication_abbr: 
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也，川原圭博
   _time: '2020-05-01'
   year: '2020'
   month: '5'
   month_str: May
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Online
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 電動パーソナルモビリティのシェアリング事業に向けた無線充電システムのシミュレーションによる解析
   publication: マルチメディア，分散，協調とモバイル シンポジウム
   publication_abbr: DICOMO 2020
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 林寛将，笹谷拓也，畑勝裕，山村亮介，川原圭博
   _time: '2020-06-01'
   year: '2020'
   month: '6'
   month_str: June
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: 4A-2
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 'Ramus: A Frequency-Multiplexed Power Bus for Powering, Sensing and Controlling
     Robots'
   publication: IEEE Robotics and Automation Letters
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: nishizawa2020ral.png
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Yuki Nishizawa; Takuya Sasatani; Matthew Ishige; Yoshiaki Narusue; Takuya
     Umedachi; and Yoshihiro Kawahara
   _time: '2020-07-01'
@@ -1558,18 +1558,18 @@
   month_str: July
   volume: '5'
   Issue: '3'
-  number:
-  article:
+  number: 
+  article: 
   pages: 4126 - 4132
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1109/lra.2020.2988176
   open_access: "/assets/paper/nishizawa2020ral.pdf"
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "As robots become more complex, small, and sophisticated, the cost and
     effort necessary for “wiring” become critical; the complex wiring makes the fabrication
     costly and necessitates care about space and stiffness of wires, which can inhibit
@@ -1585,64 +1585,64 @@
     analysis and experiments, we showed that eight nodes can be accommodated within
     a 9 MHz frequency band and can be independently controlled; finally, a caterpillar-like
     robot with four sensors and actuators was successfully driven by Ramus.\r"
-  note:
+  note: 
 - title: Measurement of heart rate variability during hugs in parents and infants,
   publication: The International Congress of Infant Studies
   publication_abbr: ICIS
   type: conference-en-adjunct
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Sachine Yoshida, Yoshihiro Kawahara, Takuya Sasatani, Ken Kiyono, Yo Kobayashi,
     and Hiromasa Funato
   _time: '2020-07-01'
   year: '2020'
   month: '7'
   month_str: July
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Virtual
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 親との触れ合いで起こるヒト乳児の生理反応
   publication: 第43回日本神経科学大会
-  publication_abbr:
+  publication_abbr: 
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 吉田さちね，川原圭博，笹谷拓也，清野健，小林洋，船戸弘正
   _time: '2020-07-01'
   year: '2020'
   month: '7'
   month_str: July
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: 1O07m-3-01
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Coil design for wireless power transfer and communication over hinges of
     smart glasses
   publication: Proceedings of the 2020 International Symposium on Wearable Computers
@@ -1650,27 +1650,27 @@
   type: conference-en-full
   thumbnail: takaki2020iswc.png
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Ken Takaki; Takuya Sasatani; Hironobu Kasashima; Yoshihiro Kawahara; and
     Takeshi Naemura
   _time: '2020-09-01'
   year: '2020'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 79 - 83
-  session:
+  session: 
   city: Virtual Event, Mexico
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1145/3410531.3414299
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Glasses are a suitable platform for embedding sensors and displays around
     our heads to support our daily lives. Furthermore, aesthetic features, durability,
     and portability are essential properties of glasses. However, designing such smart
@@ -1683,63 +1683,63 @@
     we were able to achieve over 85% power efficiency and a communication rate of
     50 Mbps between coils that are small enough to be embedded inside the frame of
     conventional glasses, available on the market.\r"
-  note:
+  note: 
 - title: 体内への電磁界暴露を抑制可能な無線給電・通信用テキスタイルコイルの設計
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 高橋亮，笹谷拓也，川原圭博
   _time: '2020-09-01'
   year: '2020'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-15-22
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 無線電力伝送シート（特開2020-145821）
   publication: 特許庁
-  publication_abbr:
+  publication_abbr: 
   type: patent
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 川原圭博，成末義哲，高橋亮，笹谷拓也，奥谷文徳（国立大学法人東京大学）
   _time: '2020-09-10'
   year: '2020'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
-  open_access:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
   link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2020-145821/11/ja
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 'TelemetRing: A batteryless and wireless ring-shaped keyboard using passive
     inductive telemetry'
   publication: "Proceedings of the 33rd Annual ACM Symposium on User Interface Software
@@ -1748,27 +1748,27 @@
   type: conference-en-full
   thumbnail: takahashi2020uist.gif
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Ryo Takahashi; Masaaki Fukumoto; Changyo Han; Takuya Sasatani; Yoshiaki
     Narusue; and Yoshihiro Kawahara
   _time: '2020-10-01'
   year: '2020'
   month: '10'
   month_str: October
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 1161 - 1168
-  session:
+  session: 
   city: Virtual
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1145/3379337.3415873
-  open_access:
-  link:
+  open_access: 
+  link: 
   video: https://www.youtube.com/watch?v=pD4FRuVnmJg
-  press_release_en:
-  press_release_jp:
+  press_release_en: 
+  press_release_jp: 
   abstract: "TelemetRing is a batteryless and wireless ring-shaped keyboard that supports
     command and text entry in daily lives by detecting finger typing on various surfaces.
     The proposed inductive telemetry approach eliminates bulky batteries or capacitors
@@ -1779,7 +1779,7 @@
     by attaching five sensor rings on five fingers. Our evaluation shows that the
     prototype achieved the tiny (6 g, 3.5 cm^3) ring sensor and 89.7% of typing detection
     ratio.\r"
-  note:
+  note: 
 - title: Effect of body materials on transmission efficiency and resonant frequency
     in wirelessly powered personal mobility devices
   publication: 2020 IEEE Wireless Power Transfer Conference
@@ -1787,27 +1787,27 @@
   type: conference-en-full
   thumbnail: hayashi2020wptc.jpg
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Hiromasa Hayashi; Katsuhiro Hata; Takuya Sasatani; Hiroki Sato; Ryosuke
     Yamamura; Young ah Seong; Ryuma Niiyama; and Yoshihiro Kawahara
   _time: '2020-11-01'
   year: '2020'
   month: '11'
   month_str: November
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 183 - 186
-  session:
+  session: 
   city: Seoul, Korea (South)
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1109/WPTC48563.2020.9295533
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Personal mobility devices (PMDs) are gaining ground as a modern form
     of transportation that can seamlessly connect the first and the last miles to
     public transportation. The batteries installed in these devices are currently
@@ -1822,34 +1822,34 @@
     a design requirement. Through evaluations on the shift in resonant frequency,
     Q factor, and power transfer efficiency, we present a PMD that can achieve efficient
     (> 90%) WPT without impairing basic functions as a mobility device.\r"
-  note:
+  note: 
 - title: Genetic Algorithm-Based Receiving Resonator Array Design for Wireless Power
     Transfer
   publication: IEEE Access
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: sasatani2020access.jpg
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Takuya Sasatani; Yoshiaki Narusue; and Yoshihiro Kawahara
   _time: '2020-12-01'
   year: '2020'
   month: '12'
   month_str: December
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 222385 - 222396
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1109/access.2020.3044224
   open_access: https://ieeexplore.ieee.org/document/9291454
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Deploying 2-D arrays of multiple transmitters is a promising approach
     for extending wireless power transfer (WPT) to wide surfaces. However, these arrays
     involve “null zones,” where the transfer efficiency drops significantly. Although
@@ -1864,33 +1864,33 @@
     transfer efficiency at numerous positions throughout the surface. Our approach
     increased the simulated transfer efficiency at the worst position from 3.8% to
     42.6%, and we confirmed these results through measurements at the extracted points.\r"
-  note:
+  note: 
 - title: Wireless power transfer for internet of things
   publication: International Electron Devices Meeting
   publication_abbr: IEEE IEDM
   type: conference-en-full
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Yoshihiro Kawahara; and Takuya Sasatani
   _time: '2020-12-01'
   year: '2020'
   month: '12'
   month_str: December
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 37.6.1 - 37.6.4
-  session:
+  session: 
   city: San Francisco, CA, USA
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1109/iedm13553.2020.9371927
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Wireless power transfer and energy harvesting are essential to the realization
     of the Internet of Things (IoT). Design of wireless power transfer technology
     often requires the knowledge and the skill in electrical engineering, and it is
@@ -1900,15 +1900,15 @@
     the easiness of the deployment while extending the transmission range. We believe
     that these system level improvements realized by electrical engineering and information
     science will increase the usability of the wireless power transmission systems.\r"
-  note:
+  note: 
 - title: Continuum Robotic Caterpillar with Wirelessly Powered Shape Memory Alloy
     Actuators
   publication: Soft Robotics
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: colm2020soro.gif
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Colm Mc Caffrey; Takuya Umedachi; Weiwei Jiang; Takuya Sasatani; Yoshiaki
     Narusue; Ryuma Niiyama; and Yoshihiro Kawahara
   _time: '2020-12-01'
@@ -1916,19 +1916,19 @@
   month: '12'
   month_str: December
   volume: '7'
-  Issue:
+  Issue: 
   number: '6'
-  article:
+  article: 
   pages: 700 - 710
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1089/soro.2019.0090
   open_access: https://www.liebertpub.com/doi/10.1089/soro.2019.0090
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: Wireless power transfer (WPT) has the significant potential for soft-bodied
     continuum robots to extend the operational time limitlessly and reduce weight.
     However, rigid power receiver coils, widely used in WPT, hinder the continuum
@@ -1939,99 +1939,99 @@
     the continuum deformation and locomotion ability. A system is described for powering
     and controlling a soft robotic caterpillar consisting of nothing more than its
     continuum structure, actuators, and thin/flexible power receiving coils.
-  note:
+  note: 
 - title: マスク越しフレーズ認識に向けたミリ波レーダによる口の形状変化の検出手法
   publication: 情報処理学会第83回全国大会
-  publication_abbr:
+  publication_abbr: 
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 山川凌太郎，飯塚達哉，石毛真修，笹谷拓也，高木健，川原圭博
   _time: '2021-03-01'
   year: '2021'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: 5W-03
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 電動パーソナルモビリティのシェアリング事業に向けた無線充電システムの導入とインセンティブスキームに関する検討
   publication: 情報処理学会第83回全国大会
-  publication_abbr:
+  publication_abbr: 
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 林寛将，笹谷拓也，畑勝裕，山村亮介，川原圭博
   _time: '2021-03-01'
   year: '2021'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: 2T-03
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Ubiquitous wireless power transfer in three-dimensional spaces
   publication: Department of Information and Communication Engineering, Graduate School
     of Information Science and Technology, The University of Tokyo
   publication_abbr: Ph.D. thesis
   type: dissertation
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Takuya Sasatani
   _time: '2021-03-01'
   year: '2021'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
   open_access: https://repository.dl.itc.u-tokyo.ac.jp/records/2007221
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
   note: 日本学術振興会育志賞 & 専攻長賞
 - title: Toward Wirelessly Cooperated Shape-Changing Computing Particles
   publication: IEEE Pervasive Computing
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: kadomoto2021pervasive.png
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Junichiro Kadomoto; Takuya Sasatani; Koya Narumi; Naoto Usami; Hidetsugu
     Irie; Shuichi Sakai; and Yoshihiro Kawahara
   _time: '2021-06-01'
@@ -2039,19 +2039,19 @@
   month: '6'
   month_str: June
   volume: '20'
-  Issue:
+  Issue: 
   number: '3'
-  article:
+  article: 
   pages: 9 - 17
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1109/mprv.2021.3086035
   open_access: "/assets/paper/kadomoto2021pervasive.pdf"
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Widespread research is being conducted on computational materials. The
     challenge for the realization of computational materials is how to weave computers
     into everyday objects consisting of various shapes and form factors. One idea
@@ -2064,42 +2064,42 @@
     into IC chips to achieve fine-grained shape deformation of computers. Moreover,
     this article also presents recent trends and future directions in shape-changing
     human–computer interfaces research.\r"
-  note:
+  note: 
 - title: 準静空洞共振器によるワイヤレス電力伝送
   publication: TECHNO-FRONTIER 2021 第29回 磁気応用技術シンポジウム
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也
   _time: '2021-06-01'
   year: '2021'
   month: '6'
   month_str: June
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Online
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Wireless Powered Dielectric Elastomer Actuator
   publication: IEEE Robotics and Automation Letters
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: chen2021ral.jpg
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Lai Chen; Takuya Sasatani; Keung Or; Satoshi Nishikawa; Yoshihiro Kawahara;
     Ryuma Niiyama; and Yasuo Kuniyoshi
   _time: '2021-07-01'
@@ -2108,18 +2108,18 @@
   month_str: July
   volume: '6'
   Issue: '4'
-  number:
-  article:
+  number: 
+  article: 
   pages: 7278 - 7284
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1109/lra.2021.3097271
   open_access: https://ieeexplore.ieee.org/document/9484851
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "The need for cable connection with soft robotic systems suppresses the
     benefits granted by their softness and flexibility. Such systems can be untethered
     by equipping batteries or by relying on non-electrical actuation mechanisms. However,
@@ -2136,11 +2136,11 @@
     boost-converters. Experimentally obtained results demonstrate untethered DEA operation
     at 170 mm from the transmitter. Also, we demonstrated applying this DEA as a wireless
     pump.\r"
-  note:
+  note: 
 - title: Room-scale magnetoquasistatic wireless power transfer using a cavity-based
     multimode resonator
   publication: Nature Electronics
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: sasatani2021nat.gif
   individual_page: 'TRUE'
@@ -2151,16 +2151,16 @@
   month: '8'
   month_str: August
   volume: '4'
-  Issue:
+  Issue: 
   number: '9'
-  article:
+  article: 
   pages: 689 - 697
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1038/s41928-021-00636-3
   open_access: https://rdcu.be/dPUCw
-  link:
+  link: 
   video: https://youtu.be/LJd-T2BUEx8?feature=shared
   press_release_en: https://news.engin.umich.edu/2021/08/will-power-cords-go-the-way-of-land-lines/
   press_release_jp: https://www.t.u-tokyo.ac.jp/hubfs/shared-old/press/data/setnws_201906111450167441845423_217957.pdf
@@ -2179,58 +2179,58 @@
   note: Featured on the journal cover and in the editorial.
 - title: 準静空洞共振器を用いた部屋スケール無線充電と負荷変調通信
   publication: IPSJ FIT 2021 トップコンファレンスセッション
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也
   _time: '2021-08-01'
   year: '2021'
   month: '8'
   month_str: August
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: TCS-3
   city: Online
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Surface Routing for Wireless Power Transfer Using 2-D Relay Resonator Arrays
   publication: IEEE Access
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: morita2021access.png
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Masahiro Morita; Takuya Sasatani; Ryo Takahashi; and Yoshihiro Kawahara
   _time: '2021-09-01'
   year: '2021'
   month: '9'
   month_str: September
   volume: '9'
-  Issue:
-  number:
-  article:
+  Issue: 
+  number: 
+  article: 
   pages: 133102 - 133110
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1109/access.2021.3115143
   open_access: https://ieeexplore.ieee.org/document/9547299
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Wireless power transfer via magnetic resonance coupling offers the prospect
     of autonomously charging connected devices. Previous work demonstrated that the
     system deployment can be facilitated by “routing” power on 2-D relay resonator
@@ -2244,147 +2244,147 @@
     by conditioning the resonators’ current by appending additional loading conditions
     to the relays. Simulation-based evaluations show that the proposed approach improves
     the efficiency by up to 10% in 1.5 m range power delivery.\r"
-  note:
+  note: 
 - title: 衣服スケールのメアンダコイルによるバッテリレスセンサの高感度な無線読み取り手法
   publication: 情報処理学会ユビキタスコンピューティングシステム研究会
   publication_abbr: IPSJ SIGUBI
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 高橋 亮，雪田 和歌子，笹谷 拓也，横田 知之，染谷 隆夫，川原 圭博
   _time: '2021-09-01'
   year: '2021'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
   note: 山下記念研究賞 & 優秀論文賞
 - title: カメラを用いた筋力トレーニングにおける最大挙上重量の推定に関する検討
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 山本恒輔，笹谷拓也，川原圭博
   _time: '2021-09-01'
   year: '2021'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-15-30
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: ウェアラブルデバイス（特開2021-129497）
   publication: 特許庁
-  publication_abbr:
+  publication_abbr: 
   type: patent
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 高木健，笠島博信，笹谷拓也，川原圭博（国立大学法人東京大学）
   _time: '2021-09-02'
   year: '2021'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
-  open_access:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
   link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-129497/11/ja
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Ubiquitous wireless power transfer in three-dimensional spaces
   publication: ITMO University microwave seminars at the Department of Physics
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Takuya Sasatani
   _time: '2021-10-18'
   year: '2021'
   month: '10'
   month_str: October
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Online
-  to_appear:
-  doi:
-  open_access:
-  link:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
   video: https://physics.itmo.ru/en/seminar/microwave-seminar-18102021-takuya-sasatani
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Ubiquitous wireless power transfer in three-dimensional spaces
   publication: TOYOTA Central R&D Labs., Inc.
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Takuya Sasatani
   _time: '2021-11-01'
   year: '2021'
   month: '11'
   month_str: November
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Tokyo, Japan
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 'Twin Meander Coil: Sensitive Readout of Battery-free On-body Wireless Sensors
     Using Body-scale Meander Coils'
   publication: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
@@ -2393,7 +2393,7 @@
   type: journal-en
   thumbnail: takahashi2021imwut.gif
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Ryo Takahashi; Wakako Yukita; Takuya Sasatani; Tomoyuki Yokota; Takao Someya;
     and Yoshihiro Kawahara
   _time: '2021-12-01'
@@ -2403,17 +2403,17 @@
   volume: '5'
   Issue: '4'
   number: '179'
-  article:
+  article: 
   pages: 1 - 21
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1145/3494996
   open_access: "/assets/paper/takahashi2021imwut.pdf"
-  link:
+  link: 
   video: https://youtu.be/S7sJQAP5a7A?feature=shared
-  press_release_en:
-  press_release_jp:
+  press_release_en: 
+  press_release_jp: 
   abstract: "Energy-efficient and unconstrained wearable sensing platforms are essential
     for ubiquitous healthcare and activity monitoring applications. This paper presents
     Twin Meander Coil for wirelessly connecting battery-free on-body sensors to a
@@ -2432,118 +2432,118 @@
     the readout of each other. To demonstrate its feasibility, we built a prototype
     with a knitting machine, evaluated its sensing ability, and demonstrated several
     applications.\r"
-  note:
+  note: 
 - title: 広範囲から読み取り可能なコーナーリフレクタ型チップレスRFIDの検討
   publication: 電子情報通信学会総合大会
   publication_abbr: 信学総大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 飯塚達哉，笹谷拓也，伊丹豪，久田正樹，鳴海紘也，川原圭博
   _time: '2022-03-01'
   year: '2022'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-2-17
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 給電構造、及び給電構造の設計方法（特開2022-035336）
   publication: 特許庁
-  publication_abbr:
+  publication_abbr: 
   type: patent
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 丹羽直幹，緑川浩史，松岡信仁，宇治川智，小谷宏己，川原圭博，成末義哲，笹谷拓也（鹿島建設株式会社; 国立大学法人東京大学）
   _time: '2022-03-04'
   year: '2022'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
-  open_access:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
   link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-035336/11/ja
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Towards ubiquitous wireless power transfer
   publication: d.lab 協賛事業 特別講演及びキックオフ
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也
   _time: '2022-05-01'
   year: '2022'
   month: '5'
   month_str: May
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Online
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Geometry-Based Circuit Modeling of Quasi-Static Cavity Resonators for Wireless
     Power Transfer
   publication: IEEE Open Journal of Power Electronics
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: sasatani2022ojpel.jpg
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Takuya Sasatani; Matthew Chabalko; Yoshihiro Kawahara; and Alanson Sample
   _time: '2022-06-01'
   year: '2022'
   month: '6'
   month_str: June
   volume: '3'
-  Issue:
-  number:
-  article:
+  Issue: 
+  number: 
+  article: 
   pages: 382 - 390
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1109/ojpel.2022.3183600
   open_access: https://ieeexplore.ieee.org/document/9797856
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Wireless power transfer technology has seen steady advances in recent
     years, yet seamlessly charging devices within large volumes of space remains challenging.
     Although quasi-static cavity resonators have recently demonstrated safe wireless
@@ -2558,205 +2558,205 @@
     validated using a room-scale quasi-static cavity resonator. Finally, we demonstrate
     the utility of the derived circuit model through case studies for designing impedance
     matching circuits and optimization of the QSCR geometry.\r"
-  note:
+  note: 
 - title: Empowering the IoT with wireless power and sensing technologies
   publication: Google APAC
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Takuya Sasatani
   _time: '2022-06-21'
   year: '2022'
   month: '6'
   month_str: June
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Online / Tokyo, Japan
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: IoTシステムの電源とEMC / IoTシステムへの新たな無線電力伝送技術
   publication: 科学情報出版 月刊EMC6月号
-  publication_abbr:
+  publication_abbr: 
   type: tutorial
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也，川原圭博
   _time: '2022-06-05'
   year: '2022'
   month: '6'
   month_str: June
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
   doi: https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202219657587784
-  open_access:
+  open_access: 
   link: https://www.it-book.co.jp/EMC/backnumber/410.html
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 低出力ミリ波レーダで広範囲から読み取り可能なコーナーリフレクタ型チップレスRFID
   publication: マルチメディア，分散，協調とモバイル シンポジウム
   publication_abbr: DICOMO 2022
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 飯塚達哉，笹谷拓也，小阪尚子，久田正樹，鳴海紘也，川原圭博
   _time: '2022-07-01'
   year: '2022'
   month: '7'
   month_str: July
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 1085 - 1091
   session: 5H-23
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
   note: 優秀論文賞 & ヤングリサーチャー賞
 - title: ウェアラブルセンシング装置（特開2022-128421）
   publication: 特許庁
-  publication_abbr:
+  publication_abbr: 
   type: patent
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 川原圭博，高橋亮，笹谷拓也（国立大学法人東京大学）
   _time: '2022-09-01'
   year: '2022'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
-  open_access:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
   link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-128421/11/ja
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: A Halbach-Array-Based Resonator for Suppressing Leakage Magnetic Field in
     Wireless Power Transfer Systems
   publication: Asian Wireless Power Transfer Workshop 2022
   publication_abbr: AWPT
   type: conference-en-adjunct
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Yuichi Honjo, Takuya Sasatani, Cedric Caremel, and Yoshihiro Kawahara
   _time: '2022-12-01'
   year: '2022'
   month: '12'
   month_str: December
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: MO-3-O4
   city: Kyoto, Japan
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Simultaneous Wireless Information and Power Transfer Technique Using Frequency-Modulated
     DC/DC Converters
   publication: Asian Wireless Power Transfer Workshop 2022
   publication_abbr: AWPT
   type: conference-en-adjunct
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Qunchao Zhou, Takuya Sasatani, Changyo Han, and Yoshihiro Kawahara
   _time: '2022-12-01'
   year: '2022'
   month: '12'
   month_str: December
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: TU-4-O4
   city: Kyoto, Japan
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Toward Continuous Finger Positioning on Ear Using Bone Conduction Speaker
   publication: Proceedings of the 20th ACM Conference on Embedded Networked Sensor
     Systems
   publication_abbr: ACM SenSys
   type: conference-en-adjunct
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Yuke Zhang; Ken Takaki; Hiroaki Murakami; Takuya Sasatani; and Yoshihiro
     Kawahara
   _time: '2023-01-01'
   year: '2023'
   month: '1'
   month_str: January
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 847 - 848
-  session:
+  session: 
   city: New York, NY, USA
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1145/3560905.3568075
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "The advancement of semiconductor and battery technologies popularized
     tiny acoustic wearable devices such as bone conduction wireless headsets. However,
     this small form factor poses inconvenience when controlling these devices, as
@@ -2769,70 +2769,70 @@
     results show that five distinct frequency responses with five different finger
     positions can be obtained, which indicates that our method could allow bone conduction
     headsets to capture continuous finger positions without additional hardware.\r"
-  note:
+  note: 
 - title: 水中でのインタラクションに向けた電気インピーダンストモグラフィの検討
   publication: 情報処理学会第85回全国大会
-  publication_abbr:
+  publication_abbr: 
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 平田駿輔， 高橋亮， 笹谷拓也， 川原圭博，"水中でのインタラクションに向けた電気インピーダンストモグラフィの検討
   _time: '2023-02-01'
   year: '2023'
   month: '2'
   month_str: February
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
   note: 学生奨励賞
 - title: 'ACT-X: 学びと加速の三年半'
   publication: 日本バーチャルリアリティ学会誌
-  publication_abbr:
+  publication_abbr: 
   type: tutorial
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也
   _time: '2023-07-01'
   year: '2023'
   month: '7'
   month_str: July
   volume: '28'
-  Issue:
+  Issue: 
   number: '2'
-  article:
+  article: 
   pages: 14 - 16
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.18974/jvrsj.28.2_14
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Trimmed Aperture Corner Reflector for Angle-Selective Chipless RFID
   publication: IEEE Antennas and Wireless Propagation Letters
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: iizuka2023awpl.png
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Tatsuya Iizuka; Naoko Kosaka; Masaki Hisada; Yoshihiro Kawahara; and Takuya
     Sasatani
   _time: '2023-07-01'
@@ -2841,18 +2841,18 @@
   month_str: July
   volume: '22'
   Issue: '10'
-  number:
-  article:
+  number: 
+  article: 
   pages: 2437 - 2541
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1109/lawp.2023.3294940
   open_access: https://ieeexplore.ieee.org/document/10182363
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "This letter presents trimmed aperture corner reflectors (CRs) for assigning
     angle selectivity to chipless radio frequency identification (RFID) tags. This
     angle selectivity can benefit the landmark use of CR-based tags by exhibiting
@@ -2868,35 +2868,35 @@
     The proposed method can artificially code the selective reflections in passive
     reflectors and is suitable for the applications requiring large detectability,
     such as outdoor landmarks and signs.\r"
-  note:
+  note: 
 - title: An Inclination Estimation Method for UAV Landing Surfaces Using Millimeter
     Wave Radar
   publication: 2023 IEEE International Symposium on Geoscience and Remote Sensing
   publication_abbr: IEEE IGARSS
   type: conference-en-full
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Tatsuya Iizuka, Takuya Sasatani, Toru Nakamura, Naoko Kosaka, Masaki Hisada,
     and Yoshihiro Kawahara
   _time: '2023-07-01'
   year: '2023'
   month: '7'
   month_str: July
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 2049 - 2052
-  session:
+  session: 
   city: Pasadena, CA, USA
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1109/IGARSS52108.2023.10282437
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "This paper investigates a novel millimeter wave (mmWave) radar-based
     inclination estimation to enhance the landing capabilities of unmanned aerial
     vehicles (UAVs) in poor visibility conditions. Unlike SAR based approaches, this
@@ -2905,63 +2905,63 @@
     obtained distance information, assuming that the coordinates of the UAV and port
     are known. The experimental results demonstrate that mmWave radar with centimeter-ordered
     resolution can estimate the inclination of less than 5° errors.\r"
-  note:
+  note: 
 - title: Time-of-Flight プロファイルを特徴量とする屋内測位の検討
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 三田有輝也，村上弘晃，笹谷拓也，石毛真修，川原圭博
   _time: '2023-09-01'
   year: '2023'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-15-13
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 高速通信用伝送線路結合器と無線給電用コイルによる非接触コネクタの検討
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 金潭延，高木健，林泰弘，笹谷拓也，濱田基嗣，黒田忠広，川原圭博
   _time: '2023-09-01'
   year: '2023'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: B-18-4
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 'MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility
     Conditions'
   publication: Proceedings of the 29th Annual International Conference on Mobile Computing
@@ -2977,17 +2977,17 @@
   year: '2023'
   month: '10'
   month_str: October
-  volume:
-  Issue:
-  number:
+  volume: 
+  Issue: 
+  number: 
   article: '50'
   pages: 1 - 15
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1145/3570361.3613264
   open_access: https://dl.acm.org/doi/10.1145/3570361.3613264
-  link:
+  link: 
   video: https://youtu.be/7SezvxK_vrY?feature=shared
   press_release_en: https://group.ntt/en/newsrelease/2023/10/02/231002a.html
   press_release_jp: https://group.ntt/jp/newsrelease/2023/10/02/231002a.html
@@ -3007,7 +3007,7 @@
     of more than 10 m with a viewing angle of more than 30° in elevation and azimuth.
     Moreover, its performance remains stable in poor visibility conditions and multipath-rich
     environments.\r"
-  note:
+  note: 
 - title: Untethering open-source Miniscopes with wireless power and data transfer
   publication: Neuroscience 2023
   publication_abbr: SfN
@@ -3022,20 +3022,20 @@
   year: '2023'
   month: '11'
   month_str: November
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
   session: PSTR241.23 / WW66
   city: Washington D.C., USA
-  to_appear:
-  doi:
-  open_access:
+  to_appear: 
+  doi: 
+  open_access: 
   link: https://www.abstractsonline.com/pp8/#!/10892/presentation/35686
   video: https://x.com/takuyasasatani/status/1723707465286517017
-  press_release_en:
-  press_release_jp:
+  press_release_en: 
+  press_release_jp: 
   abstract: "Investigating the relationship between complex behavior and neural activity
     is an established methodology for systems neuroscience. The development of miniature
     head-mounted fluorescent microscopes enables in vivo recording of neural activity
@@ -3063,15 +3063,15 @@
     animals. In the future, the presented wireless technologies could be designed
     in a modular form that can seamlessly augment various high-end neural recording
     devices."
-  note:
+  note: 
 - title: Suppressing Leakage Magnetic Field in Wireless Power Transfer Using Halbach
     Array-Based Resonators
   publication: IEEE Antennas and Wireless Propagation Letters
-  publication_abbr:
+  publication_abbr: 
   type: journal-en
   thumbnail: honjo2023awpl.jpg
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Yuichi Honjo; Cedric Caremel; Yoshihiro Kawahara; and Takuya Sasatani
   _time: '2024-01-01'
   year: '2024'
@@ -3079,18 +3079,18 @@
   month_str: January
   volume: '23'
   Issue: '1'
-  number:
-  article:
+  number: 
+  article: 
   pages: 94 - 98
-  session:
-  city:
-  to_appear:
+  session: 
+  city: 
+  to_appear: 
   doi: https://doi.org/10.1109/lawp.2023.3318244
   open_access: "/assets/paper/honjo2023awpl.pdf"
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Wireless power transfer has the potential to seamlessly power electronic
     systems, such as electric vehicles, industrial robots, and mobile devices. However,
     the leakage magnetic field is a critical bottleneck that limits the transferable
@@ -3109,34 +3109,34 @@
     can efficiently deliver over 50 times more power without increasing magnetic field
     exposure, making it a promising solution for high-power wireless power transfer
     applications.\r"
-  note:
+  note: 
 - title: ミリ波レーダを用いたドローン飛行誘導手法
   publication: 電子情報通信学会技術研究報告
   publication_abbr: 信学技法
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 飯塚達哉，笹谷拓也，小阪直子，遠藤直人，松原浩史，久田正樹，川原圭博
   _time: '2024-01-18'
   year: '2024'
   month: '1'
   month_str: January
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 16 - 21
   session: SANE2023-92
-  city:
-  to_appear:
-  doi:
-  open_access:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
   link: https://www.ieice.org/publications/ken/summary.php?contribution_id=128949&society_cd=CS&ken_id=AN&year=2024&presen_date=2024-01-18&schedule_id=7956&lang=jp&expandable=1
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
   note: 若手奨励賞
 - title: Camera-Based Position Estimation using Frequency-Multiplexed Luminance Gradient
   publication: 2024 IEEE International Conference on Pervasive Computing and Communications
@@ -3145,27 +3145,27 @@
   type: conference-en-adjunct
   thumbnail: shimada2024percom.jpg
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Shota Shimada, Hiroaki Murakami, Kota Tsubouchi, Takuya Sasatani, and Yoshihiro
     Kawahara
   _time: '2024-03-01'
   year: '2024'
   month: '3'
   month_str: March
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 475 - 480
-  session:
+  session: 
   city: Biarritz, France
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1109/PerComWorkshops59983.2024.10503176
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "We present a new indoor positioning method to overcome the challenges
     faced by Visible Light Positioning (VLP), specifically its dependency on multiple
     light sources and constraints in environments with high ceilings. Our method employs
@@ -3179,36 +3179,36 @@
     validation in a setting with a 3. 6m baseline between lights resulted in a 0.
     462m average positioning error and a 21.7-degree average orientation angle error,
     showcasing its efficiency and potential for broad indoor application.\r"
-  note:
+  note: 
 - title: Enhancing Fingerprint-based Smartphone Localization Using Acoustic Time-of-Flight
     for Complex Indoors
   publication: "Proceedings of the 21st ACM Conference on Embedded Networked Sensor
     Systems\r"
   publication_abbr: ACM SenSys
   type: conference-en-adjunct
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Yukiya Mita; Hiroaki Murakami; Takuya Sasatani; Matthew Ishige; and Yoshihiro
     Kawahara
   _time: '2024-04-01'
   year: '2024'
   month: '4'
   month_str: April
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 548 - 549
-  session:
+  session: 
   city: Istanbul, Turkiye
-  to_appear:
+  to_appear: 
   doi: https://doi.org/10.1145/3625687.3629535
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Robust indoor positioning systems provide stable location-aware applications,
     enhancing our daily experiences. Fingerprint-based positioning techniques enable
     estimation of a user's position in complex indoor environments. While previous
@@ -3220,202 +3220,202 @@
     is computed using weighted k-nearest neighbors. Our experiments demonstrate a
     median error of 0.66 m, marking a significant advancement over previous fingerprinting
     techniques.\r"
-  note:
+  note: 
 - title: 検出システム、検出方法及びプログラム（特開2024-065074）
   publication: 特許庁
-  publication_abbr:
+  publication_abbr: 
   type: patent
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 川原圭博，高木健，張雨珂，笹谷拓也，村上弘晃（国立大学法人東京大学）
   _time: '2024-05-14'
   year: '2024'
   month: '5'
   month_str: May
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
-  open_access:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
   link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-065074/11/ja
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 'Untethering Discovery: wireless power for mobile sensing and neuroscience'
   publication: IIW/GCL workshop
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Takuya Sasatani
   _time: '2024-06-29'
   year: '2024'
   month: '6'
   month_str: June
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Tokyo, Japan
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 単一スピーカからの多重反射波のTime-of-Flight情報を用いた位置指紋に基づく屋内測位
   publication: マルチメディア，分散，協調とモバイル シンポジウム
   publication_abbr: DICOMO 2024
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 三田有輝也，村上弘晃，笹谷拓也，川原圭博
   _time: '2024-06-01'
   year: '2024'
   month: '6'
   month_str: June
-  volume:
-  Issue:
-  number:
-  article:
+  volume: 
+  Issue: 
+  number: 
+  article: 
   pages: 1538 - 1544
   session: 8B-2
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 天井・間仕切り壁を介した磁界共鳴結合方式による非接触給電
   publication: 2024年度日本建築学会大会
-  publication_abbr:
+  publication_abbr: 
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 丹羽直幹，宇治川智，川原圭博，成末義哲，笹谷拓也
   _time: '2024-08-01'
   year: '2024'
   month: '8'
   month_str: August
-  volume:
-  Issue:
-  number:
+  volume: 
+  Issue: 
+  number: 
   article: '40241'
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 飛行制御システム（特開2024-109303）
   publication: 特許庁
-  publication_abbr:
+  publication_abbr: 
   type: patent
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 飯塚達哉，小阪尚子，中村亨，久田正樹，梅宮悠輔，笹谷拓也，鳴海紘也，川原圭博
   _time: '2024-08-14'
   year: '2024'
   month: '8'
   month_str: August
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
-  to_appear:
-  doi:
-  open_access:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
+  to_appear: 
+  doi: 
+  open_access: 
   link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-109303/11/ja
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 再構成可能な二次元無線給電システムにおける中継共振器損失の影響の解析
   publication: 電子情報通信学会ソサイエティ大会
   publication_abbr: 信学ソ大
   type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 小林莉久; 金潭延; 本庄祐一; 川原圭博; 笹谷拓也
   _time: '2024-09-01'
   year: '2024'
   month: '9'
   month_str: September
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
-  city:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 
   to_appear: 'TRUE'
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 'Geometric Sound Profile: Multipath-Time-of-Flight Fingerprint for High-Accuracy
     Acoustic Localization'
   publication: 14th International Conference on Indoor Positioning and Indoor Navigation
   publication_abbr: IPIN
   type: conference-en-full
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Yukiya Mita, Hiroaki Murakami, Takuya Sasatani, and Yoshihiro Kawahara
   _time: '2024-10-01'
   year: '2024'
   month: '10'
   month_str: October
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Hong Cong, China
   to_appear: 'TRUE'
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: High-accuracy indoor positioning systems provide various location-aware
     applications, enhancing our daily ex-periences. The Global Navigation Satellite
     System is difficult to use indoors, leading to the development of various indoor
@@ -3436,35 +3436,35 @@
     error was 0.14 m and the 90th percentile error was 1.23 m in the Line-of-Sight
     environment, and the median positioning error was 0.09 m and the 90th percentile
     error was 1.14 m in the NLOS environment.
-  note:
+  note: 
 - title: Improving Coverage and Accuracy in Visible Light Positioning through Ceiling
     Reflection Modeling
   publication: 14th International Conference on Indoor Positioning and Indoor Navigation
   publication_abbr: IPIN
   type: conference-en-full
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Shota Shimada, Hiroaki Murakami, Ryo Tabata, Kota Tsubouchi, Takuya Sasatani,
     Yoshihiro Kawahara, and Masanori Sugimoto
   _time: '2024-10-01'
   year: '2024'
   month: '10'
   month_str: October
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Hong Cong, China
   to_appear: 'TRUE'
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: We present a visible light positioning (VLP) method that allows indoor
     positioning using a smartphone camera with a narrow field of view (FoV). Our method
     employs omni-directional LEDs, each modulated at a unique frequency, mounted on
@@ -3478,35 +3478,35 @@
     LEDs placed 2.6 m apart, our method covered a space over ten times larger than
     traditional methods, achieving coverage of 50 m^2 with a mean absolute error (MAE)
     in the positioning of 0.46 m and an MAE in azimuth estimation of 13.0 deg.
-  note:
+  note: 
 - title: 'SyncEcho: Echo-Based Single Speaker Time Offset Estimation for Time-of-Flight
     Localization'
   publication: 22nd ACM Conference on Embedded Networked Sensor Systems
   publication_abbr: SenSys 2024
   type: conference-en-full
-  thumbnail:
+  thumbnail: 
   individual_page: 'TRUE'
-  priority:
+  priority: 
   author: Hiroaki Murakami, Takuya Sasatani, Masanori Sugimoto, Issey Sukeda, Yukiya
     Mita, and Yoshihiro Kawahara
   _time: '2024-11-01'
   year: '2024'
   month: '11'
   month_str: November
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Hangzhou, China
   to_appear: 'TRUE'
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
   abstract: "Low-cost and accurate indoor location information can add spatio-temporal
     context to information systems, enabling new location-aware applications. Time-of-Flight
     (ToF)-based acoustic localization using speakers and microphones allows for localization
@@ -3525,117 +3525,117 @@
     estimation with a 90th percentile error of 259 \U0001D707s at a 5 m distance.
     Furthermore, we implemented a ToF localization systembased on SyncEcho, demonstrating
     a 11.0 cm localization accuracy with a 90th percentile error."
-  note:
+  note: 
 - title: Room-scale magnetoquasistatic wireless power transfer using cavity-based
     resonators
   publication: Korea Wireless Power Transfer Forum
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Takuya Sasatani
   _time: '2022-05-04'
   year: '2022'
   month: '5'
   month_str: May
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Seoul/Online
-  to_appear:
-  doi:
-  open_access:
+  to_appear: 
+  doi: 
+  open_access: 
   link: https://kwpf.org/eng/html/info_greet.html
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Empowering the IoT with wireless power and sensing technologies
   publication: Seminar at UCLA ECE
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Takuya Sasatani
   _time: '2022-10-22'
   year: '2022'
   month: '10'
   month_str: October
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Los Angeles
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: Wi-Fiのような給電技術で電源の制約をなくす
   publication: MIT Technology Review Innovators Under 35 JP Summit 2021
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: Takuya Sasatani
   _time: '2021-12-16'
   year: '2021'
   month: '12'
   month_str: December
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: Tokyo
-  to_appear:
-  doi:
-  open_access:
+  to_appear: 
+  doi: 
+  open_access: 
   link: https://events.technologyreview.jp/iu35/2021/
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
 - title: 実験自動化のため無線給電・通信技術
   publication: Laboratory Automation月例勉強会
-  publication_abbr:
+  publication_abbr: 
   type: invited
-  thumbnail:
-  individual_page:
-  priority:
+  thumbnail: 
+  individual_page: 
+  priority: 
   author: 笹谷拓也
   _time: '2024-10-18'
   year: '2024'
   month: '10'
   month_str: October
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session:
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
   city: 東京
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
