@@ -97,8 +97,6 @@
   {% if open_access_path == '/assets/' %}
     {% assign full_open_access_url = site.url | append: page.open_access %}
     <meta name="citation_pdf_url" content="{{ full_open_access_url }}">
-  {% elsif page.open_access != "" %}
-    <meta name="citation_pdf_url" content="{{ page.open_access }}">
   {% endif %}
 {% endif %}
 </head>
