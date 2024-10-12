@@ -24,6 +24,9 @@ jobs:
     - name: Fetch data from Google Sheets
       run: ruby _scripts/get_data.rb
 
+    - name: Update individual publication pages
+      run: ruby _scripts/gen_publications.rb
+
     - name: Check for changes
       id: check_changes
       run: |
