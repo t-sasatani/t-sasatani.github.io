@@ -346,7 +346,7 @@
     basic configurations of the proposed methods.
   note:
 - title: Multimode Quasistatic Cavity Resonators for Wireless Power Transfer
-  publication: "IEEE Antennas and Wireless Propagation Letters\r"
+  publication: IEEE Antennas and Wireless Propagation Letters
   publication_abbr:
   type: journal-en
   thumbnail: sasatani2017awpl.jpg
@@ -2827,7 +2827,7 @@
   abstract:
   note:
 - title: Trimmed Aperture Corner Reflector for Angle-Selective Chipless RFID
-  publication: "IEEE Antennas and Wireless Propagation Letters\r"
+  publication: IEEE Antennas and Wireless Propagation Letters
   publication_abbr:
   type: journal-en
   thumbnail: iizuka2023awpl.png
@@ -3066,7 +3066,7 @@
   note:
 - title: Suppressing Leakage Magnetic Field in Wireless Power Transfer Using Halbach
     Array-Based Resonators
-  publication: "IEEE Antennas and Wireless Propagation Letters\r"
+  publication: IEEE Antennas and Wireless Propagation Letters
   publication_abbr:
   type: journal-en
   thumbnail: honjo2023awpl.jpg
