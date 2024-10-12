@@ -36,6 +36,9 @@ theme: minima
 collections:
   pages:
     output: true
+  publications:
+    output: true
+    permalink: /publication/:path/
 
 navigation:
   - title: "Home"
