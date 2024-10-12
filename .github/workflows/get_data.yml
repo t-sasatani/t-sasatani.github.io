@@ -25,7 +25,7 @@ jobs:
       run: ruby _scripts/get_data.rb
 
     - name: Update individual publication pages
-      run: ruby _scripts/gen_publications.rb
+      run: ruby _scripts/generate_publications.rb
 
     - name: Check for changes
       id: check_changes
