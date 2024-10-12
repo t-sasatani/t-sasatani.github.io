@@ -64,6 +64,43 @@
     ]
   }
   </script>
+
+  <!-- Citation Metatags -->
+  <meta name="citation_title" content="{{ page.title }}">
+
+  {% if page.author and page.author != "" %}
+  {% assign authors = page.author | replace: ' and ', '' | replace: ';', ',' | split: ',' %}
+    {% for author in authors %}
+      <meta name="citation_author" content="{{ author | strip }}">
+    {% endfor %}
+  {% endif %}
+  
+  <meta name="citation_publication_date" content="{{ page.year }}">
+  {% if page.type == 'journal-en' %}
+  <meta name="citation_journal_title" content="{{ page.publication }}">
+  {% elsif page.type == 'conference-en-full' or page.type == 'conference-en-adjunct' %}
+  <meta name="citation_conference_title" content="{{ page.publication }}">
+  {% endif %}
+  {% if page.volume and page.volume != "" %}
+    <meta name="citation_volume" content="{{ page.volume }}">
+  {% endif %}
+  {% if page.issue and page.issue != "" %}
+    <meta name="citation_issue" content="{{ page.issue }}">
+  {% endif %}
+  {% if page.pages and page.pages != "" %}
+    {% assign pages = page.pages | split: '-' %}
+    <meta name="citation_firstpage" content="{{ pages[0] | strip }}">
+    <meta name="citation_lastpage" content="{{ pages[1] | strip }}">
+  {% endif %}
+  {% if page.open_access %}
+  {% assign open_access_path = page.open_access | slice: 0, 8 %}
+  {% if open_access_path == '/assets/' %}
+    {% assign full_open_access_url = site.url | append: page.open_access %}
+    <meta name="citation_pdf_url" content="{{ full_open_access_url }}">
+  {% elsif page.open_access != "" %}
+    <meta name="citation_pdf_url" content="{{ page.open_access }}">
+  {% endif %}
+{% endif %}
 </head>
 <body>
   <div class="flex-container">

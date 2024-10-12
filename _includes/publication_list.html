@@ -50,7 +50,14 @@
 <ol class="publication-list">
 	{% for publication in publication_by_type %}
 	<li class="publication-item">
+		{% if publication.type == 'journal-en' or publication.type == 'conference-en-full' or publication.type == 'conference-en-adjunct' %}
+		{% assign publication_title = publication.title | downcase | replace: ' ', '_' | replace: ':', '' | replace: ',', '' | replace: /[^a-z0-9_]/, '' %}
+		<strong>
+			<a href="/publications/{{ publication_title }}">{{ publication.title }}</a>
+		</strong>
+		{% else %}
 		<strong>{{ publication.title }}</strong>
+		{% endif %}
 		<br />
 		{% assign authors = publication.author | replace: ';', ',' | replace: '，', ', ' %}
 		{% assign authors = authors | replace: 'Takuya Sasatani', '<u>Takuya Sasatani</u>' %}

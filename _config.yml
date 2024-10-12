@@ -36,6 +36,9 @@ theme: minima
 collections:
   pages:
     output: true
+  publications:
+    output: true
+    permalink: /publications/:path/
 
 navigation:
   - title: "Home"
@@ -52,3 +55,6 @@ navigation:
 sass:
   style: compressed # Optional, you can use :expanded or :compressed styles
   sass_dir: assets/css # Where your SCSS files are stored
+
+plugins:
+  - jekyll-sitemap

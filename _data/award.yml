@@ -1,8 +1,8 @@
 ---
 - name_en: 30 under 30 Asia
-  name_jp: 
+  name_jp:
   from_en: Forbes
-  from_jp: 
+  from_jp:
   date: 2023/3/18
 - name_en: JSPS Ikushi Prize
   name_jp: 第11回日本学術振興会育志賞
@@ -10,9 +10,9 @@
   from_jp: 日本学術振興会
   date: 2021/3/1
 - name_en: Innovators Under 35 Japan
-  name_jp: 
+  name_jp:
   from_en: MIT Technology Review
-  from_jp: 
+  from_jp:
   date: 2021/11/25
 - name_en: IPSJ Yamashita SIG Research Award
   name_jp: 2019年度山下記念研究賞
@@ -25,10 +25,10 @@
   from_jp: 東京大学大学院情報理工学系研究科
   date: 2021/3/19
 - name_en: Distinguished paper award
-  name_jp: 
+  name_jp:
   from_en: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
     Technologies (ACM IMWUT)
-  from_jp: 
+  from_jp:
   date: 2020/9/17
 - name_en: Excellent Paper Award
   name_jp: 優秀論文賞
@@ -36,9 +36,9 @@
   from_jp: 第62回UBI研究発表会
   date: 2019/6/7
 - name_en: Best Student Paper Finalist
-  name_jp: 
+  name_jp:
   from_en: IEEE Wireless Power Transfer Conference
-  from_jp: 
+  from_jp:
   date: 2018/6/17
 - name_en: Dean's list (M.S.)
   name_jp: 研究科長賞
@@ -56,9 +56,9 @@
   from_jp: 東京大学工学部電気電子工学科
   date: 2016/3/25
 - name_en: Bronze Medalist
-  name_jp: 
+  name_jp:
   from_en: 2016 TECO Green Tech Contest
-  from_jp: 
+  from_jp:
   date: 2016/8/23
 - name_en: Best Paper Award
   name_jp: 最優秀論文賞
