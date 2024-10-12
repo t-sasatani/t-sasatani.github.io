@@ -227,3 +227,12 @@ p {
   height: auto;
   object-fit: cover; /* Ensures the image covers the container */
 }
+
+.publication-list a {
+  color: black; /* You can also use other ways to specify black, like #000000 */
+  text-decoration: none; /* Optional, removes the underline */
+}
+
+.publication-list a:hover {
+  color: #426699; /* Optional, change color on hover */
+}

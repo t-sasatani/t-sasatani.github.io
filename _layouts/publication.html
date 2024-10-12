@@ -3,6 +3,63 @@ layout: default
 ---
 <article>
   <h1>{{ page.title }}</h1>
-  <p><strong>Authors:</strong> {{ page.authors }}</p>
-  <!-- Add more fields as needed -->
+  <h3>{{ page.author }}</h3>
+
+  <h3>
+    Publication: {{ page.publication }}
+    {% if page.publication_abbr and page.publication_abbr != "" %}
+    ({{ page.publication_abbr }})
+    {% endif %}
+  </h3>
+  <p>
+    Published: 
+    {% if page.month_str and page.month_str != "" %}
+      {{ page.month_str }}
+    {% endif %}
+    {{ page.year }}
+    {% if page.to_appear and page.to_appear != "" %}
+      (To appear)
+    {% endif %}
+  </p>
+  {% if page.volume and page.volume != "" %}
+    <p>Volume: {{ page.volume }}</p>
+  {% endif %}
+
+  {% if page.number and page.number != "" %}
+    <p>Number: {{ page.number }}</p>
+  {% endif %}
+
+  {% if page.article and page.article != "" %}
+    <p>Article: {{ page.article }}</p>
+  {% endif %}
+
+  {% if page.pages and page.pages != "" %}
+    <p>Pages: {{ page.pages }}</p>
+  {% endif %}
+
+  {% if page.city and page.city != "" %}
+    <p>City: {{ page.city }}</p>
+  {% endif %}
+
+  {% if page.abstract and page.abstract != "" %}
+    <h3>Abstract</h3>
+    <p>{{ page.abstract }}</p>
+  {% endif %}
+
+  <h3>Links</h3>
+  {% if page.doi and page.doi != "" %}
+    <p>Publisher: <a href="{{ page.doi }}" target="_blank">{{ page.doi }}</a></p>
+  {% endif %}
+
+  {% if page.open_access and page.open_access != "" %}
+    <p>Public Access: <a href="{{ page.open_access }}" target="_blank">{{ page.open_access }}</a></p>
+  {% endif %}
+
+  {% if page.video and page.video != "" %}
+    <p>Video: <a href="{{ page.video }}" target="_blank">{{ page.video }}</a></p>
+  {% endif %}
+
+  {% if page.press_release_en and page.press_release_en != "" %}
+    <p>Press Release: <a href="{{ page.press_release_en }}" target="_blank">{{ page.press_release_en }}</a></p>
+  {% endif %}
 </article>

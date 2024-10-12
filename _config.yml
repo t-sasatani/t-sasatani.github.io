@@ -38,7 +38,7 @@ collections:
     output: true
   publications:
     output: true
-    permalink: /publication/:path/
+    permalink: /publications/:path/
 
 navigation:
   - title: "Home"
