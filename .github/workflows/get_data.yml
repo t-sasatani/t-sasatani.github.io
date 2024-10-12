@@ -18,6 +18,16 @@ jobs:
       with:
         ruby-version: '3.0'
 
+    - name: Install system libraries
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y build-essential
+  
+    - name: Cache bundle
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true  # Caches and restores bundle install
+  
     - name: Install dependencies
       run: bundle install
 
