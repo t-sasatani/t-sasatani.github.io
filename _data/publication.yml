@@ -133,7 +133,7 @@
   city: Aveiro, Portugal
   to_appear: 
   doi: https://doi.org/10.1109/wpt.2016.7498842
-  open_access: 
+  open_access: "/assets/paper/sasatani2016wptc.pdf"
   link: 
   video: 
   press_release_en: 
@@ -367,7 +367,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1109/lawp.2017.2744658
-  open_access: https://studios.disneyresearch.com/wp-content/uploads/2019/04/Multimode-Quasistatic-Cavity-Resonators-for-Wireless-Power-Transfer.pdf
+  open_access: "/assets/paper/sasatani2017awpl.pdf"
   link: 
   video: 
   press_release_en: 
@@ -967,7 +967,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1145/3287068
-  open_access: https://dl.acm.org/doi/10.1145/3287068
+  open_access: "/assets/paper/takahashi2018imwut.pdf"
   link: 
   video: https://youtu.be/eBqJG65DhPQ?feature=shared
   press_release_en: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00024.html
@@ -1123,7 +1123,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1145/3332533
-  open_access: https://dl.acm.org/doi/10.1145/3332533
+  open_access: "/assets/paper/sumiya2019imwut.pdf"
   link: 
   video: https://youtu.be/jVwN9ioL5JU?feature=shared
   press_release_en: 
@@ -1368,7 +1368,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1145/3381013
-  open_access: https://static1.squarespace.com/static/5fc1dbf8116eb00e3c52b568/t/5fc5e140eaf37e3b6467afb0/1606803779146/silvertape.pdf
+  open_access: "/assets/paper/cheng2020imwut.pdf"
   link: 
   video: https://youtu.be/Ntqc5bHQdYc?feature=shared
   press_release_en: 
@@ -1468,7 +1468,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1016/j.isci.2020.100996
-  open_access: https://www.cell.com/iscience/fulltext/S2589-0042%2820%2930180-2
+  open_access: "/assets/paper/yoshida2020iscience.pdf"
   link: 
   video: 
   press_release_en: 
@@ -1845,7 +1845,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1109/access.2020.3044224
-  open_access: https://ieeexplore.ieee.org/document/9291454
+  open_access: "/assets/paper/sasatani2020access.pdf"
   link: 
   video: 
   press_release_en: 
@@ -2159,7 +2159,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1038/s41928-021-00636-3
-  open_access: https://rdcu.be/dPUCw
+  open_access: "/assets/paper/sasatani2021natureelectronics.pdf"
   link: 
   video: https://youtu.be/LJd-T2BUEx8?feature=shared
   press_release_en: https://news.engin.umich.edu/2021/08/will-power-cords-go-the-way-of-land-lines/
@@ -2986,7 +2986,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1145/3570361.3613264
-  open_access: https://dl.acm.org/doi/10.1145/3570361.3613264
+  open_access: "/assets/paper/iizuka2023mobicom.pdf"
   link: 
   video: https://youtu.be/7SezvxK_vrY?feature=shared
   press_release_en: https://group.ntt/en/newsrelease/2023/10/02/231002a.html
