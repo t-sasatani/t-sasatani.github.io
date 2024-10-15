@@ -2592,7 +2592,7 @@
   publication_abbr: 
   type: tutorial
   thumbnail: 
-  individual_page: 
+  individual_page: 'TRUE'
   priority: 
   author: 笹谷拓也，川原圭博
   _time: '2022-06-05'
@@ -2677,7 +2677,7 @@
   publication_abbr: AWPT
   type: conference-en-adjunct
   thumbnail: 
-  individual_page: 
+  individual_page: 'TRUE'
   priority: 
   author: Yuichi Honjo, Takuya Sasatani, Cedric Caremel, and Yoshihiro Kawahara
   _time: '2022-12-01'
@@ -2706,7 +2706,7 @@
   publication_abbr: AWPT
   type: conference-en-adjunct
   thumbnail: 
-  individual_page: 
+  individual_page: 'TRUE'
   priority: 
   author: Qunchao Zhou, Takuya Sasatani, Changyo Han, and Yoshihiro Kawahara
   _time: '2022-12-01'
@@ -2803,7 +2803,7 @@
   publication_abbr: 
   type: tutorial
   thumbnail: 
-  individual_page: 
+  individual_page: 'TRUE'
   priority: 
   author: 笹谷拓也
   _time: '2023-07-01'
@@ -3013,7 +3013,7 @@
   publication_abbr: SfN
   type: conference-en-adjunct
   thumbnail: sasatani2023sfn.gif
-  individual_page: 
+  individual_page: 'TRUE'
   priority: '8'
   author: "*Takuya Sasatani, *Marcel Brosch, Zhe Dong, Federico Sangiuliano Jimka,
     Megha Sehgal, Hemal Semwal, Aparajeeta Guha, Hamid Chorsi, Karina Keus, Blake
