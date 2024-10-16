@@ -2592,7 +2592,7 @@
   publication_abbr: 
   type: tutorial
   thumbnail: 
-  individual_page: 'TRUE'
+  individual_page: 
   priority: 
   author: 笹谷拓也，川原圭博
   _time: '2022-06-05'
@@ -2803,7 +2803,7 @@
   publication_abbr: 
   type: tutorial
   thumbnail: 
-  individual_page: 'TRUE'
+  individual_page: 
   priority: 
   author: 笹谷拓也
   _time: '2023-07-01'
