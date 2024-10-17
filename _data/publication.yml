@@ -3398,7 +3398,7 @@
   individual_page: 'TRUE'
   priority: 
   author: Yukiya Mita, Hiroaki Murakami, Takuya Sasatani, and Yoshihiro Kawahara
-  _time: '2024-10-01'
+  _time: '2024-10-17'
   year: '2024'
   month: '10'
   month_str: October
@@ -3436,7 +3436,7 @@
     error was 0.14 m and the 90th percentile error was 1.23 m in the Line-of-Sight
     environment, and the median positioning error was 0.09 m and the 90th percentile
     error was 1.14 m in the NLOS environment.
-  note: 
+  note: Best Paper Award
 - title: Improving Coverage and Accuracy in Visible Light Positioning through Ceiling
     Reflection Modeling
   publication: 14th International Conference on Indoor Positioning and Indoor Navigation
