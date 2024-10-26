@@ -133,7 +133,7 @@
   city: Aveiro, Portugal
   to_appear: 
   doi: https://doi.org/10.1109/wpt.2016.7498842
-  open_access: "/assets/paper/sasatani2016wptc.pdf"
+  open_access: "/papers/sasatani2016wptc.pdf"
   link: 
   video: 
   press_release_en: 
@@ -367,7 +367,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1109/lawp.2017.2744658
-  open_access: "/assets/paper/sasatani2017awpl.pdf"
+  open_access: "/papers/sasatani2017awpl.pdf"
   link: 
   video: 
   press_release_en: 
@@ -921,7 +921,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1145/3287066
-  open_access: "/assets/paper/sasatani2018imwut.pdf"
+  open_access: "/papers/sasatani2018imwut.pdf"
   link: 
   video: 
   press_release_en: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00055.html
@@ -967,7 +967,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1145/3287068
-  open_access: "/assets/paper/takahashi2018imwut.pdf"
+  open_access: "/papers/takahashi2018imwut.pdf"
   link: 
   video: https://youtu.be/eBqJG65DhPQ?feature=shared
   press_release_en: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00024.html
@@ -1123,7 +1123,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1145/3332533
-  open_access: "/assets/paper/sumiya2019imwut.pdf"
+  open_access: "/papers/sumiya2019imwut.pdf"
   link: 
   video: https://youtu.be/jVwN9ioL5JU?feature=shared
   press_release_en: 
@@ -1368,7 +1368,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1145/3381013
-  open_access: "/assets/paper/cheng2020imwut.pdf"
+  open_access: "/papers/cheng2020imwut.pdf"
   link: 
   video: https://youtu.be/Ntqc5bHQdYc?feature=shared
   press_release_en: 
@@ -1468,7 +1468,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1016/j.isci.2020.100996
-  open_access: "/assets/paper/yoshida2020iscience.pdf"
+  open_access: "/papers/yoshida2020iscience.pdf"
   link: 
   video: 
   press_release_en: 
@@ -1565,7 +1565,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1109/lra.2020.2988176
-  open_access: "/assets/paper/nishizawa2020ral.pdf"
+  open_access: "/papers/nishizawa2020ral.pdf"
   link: 
   video: 
   press_release_en: 
@@ -1666,7 +1666,7 @@
   city: Virtual Event, Mexico
   to_appear: 
   doi: https://doi.org/10.1145/3410531.3414299
-  open_access: "/assets/paper/takaki2020iswc.pdf"
+  open_access: "/papers/takaki2020iswc.pdf"
   link: 
   video: 
   press_release_en: 
@@ -1845,7 +1845,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1109/access.2020.3044224
-  open_access: "/assets/paper/sasatani2020access.pdf"
+  open_access: "/papers/sasatani2020access.pdf"
   link: 
   video: 
   press_release_en: 
@@ -2047,7 +2047,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1109/mprv.2021.3086035
-  open_access: "/assets/paper/kadomoto2021pervasive.pdf"
+  open_access: "/papers/kadomoto2021pervasive.pdf"
   link: 
   video: 
   press_release_en: 
@@ -2115,7 +2115,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1109/lra.2021.3097271
-  open_access: https://ieeexplore.ieee.org/document/9484851
+  open_access: "/papers/chen2021ral.pdf"
   link: 
   video: 
   press_release_en: 
@@ -2159,7 +2159,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1038/s41928-021-00636-3
-  open_access: "/assets/paper/sasatani2021natureelectronics.pdf"
+  open_access: "/papers/sasatani2021natureelectronics.pdf"
   link: 
   video: https://youtu.be/LJd-T2BUEx8?feature=shared
   press_release_en: https://news.engin.umich.edu/2021/08/will-power-cords-go-the-way-of-land-lines/
@@ -2226,7 +2226,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1109/access.2021.3115143
-  open_access: https://ieeexplore.ieee.org/document/9547299
+  open_access: "/papers/morita2021access.pdf"
   link: 
   video: 
   press_release_en: 
@@ -2409,7 +2409,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1145/3494996
-  open_access: "/assets/paper/takahashi2021imwut.pdf"
+  open_access: "/papers/takahashi2021imwut.pdf"
   link: 
   video: https://youtu.be/S7sJQAP5a7A?feature=shared
   press_release_en: 
@@ -2539,7 +2539,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1109/ojpel.2022.3183600
-  open_access: https://ieeexplore.ieee.org/document/9797856
+  open_access: "/papers/sasatani2022ojpel.pdf"
   link: 
   video: 
   press_release_en: 
@@ -2848,7 +2848,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1109/lawp.2023.3294940
-  open_access: https://ieeexplore.ieee.org/document/10182363
+  open_access: "/papers/iizuka2023awpl.pdf"
   link: 
   video: 
   press_release_en: 
@@ -2986,7 +2986,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1145/3570361.3613264
-  open_access: "/assets/paper/iizuka2023mobicom.pdf"
+  open_access: "/papers/iizuka2023mobicom.pdf"
   link: 
   video: https://youtu.be/7SezvxK_vrY?feature=shared
   press_release_en: https://group.ntt/en/newsrelease/2023/10/02/231002a.html
@@ -3086,7 +3086,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1109/lawp.2023.3318244
-  open_access: "/assets/paper/honjo2023awpl.pdf"
+  open_access: "/papers/honjo2023awpl.pdf"
   link: 
   video: 
   press_release_en: 
