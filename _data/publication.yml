@@ -1924,7 +1924,7 @@
   city: 
   to_appear: 
   doi: https://doi.org/10.1089/soro.2019.0090
-  open_access: https://www.liebertpub.com/doi/10.1089/soro.2019.0090
+  open_access: 
   link: 
   video: 
   press_release_en: 
@@ -2017,8 +2017,8 @@
   session: 
   city: 
   to_appear: 
-  doi: 
-  open_access: https://repository.dl.itc.u-tokyo.ac.jp/records/2007221
+  doi: https://doi.org/10.15083/0002007221
+  open_access: 
   link: 
   video: 
   press_release_en: 
