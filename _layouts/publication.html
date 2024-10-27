@@ -6,11 +6,45 @@ layout: default
   <h3>{{ page.author }}</h3>
 
   <h3>
-    Publication: {{ page.publication }}
+    {{ page.publication }}
     {% if page.publication_abbr and page.publication_abbr != "" %}
     ({{ page.publication_abbr }})
     {% endif %}
   </h3>
+  {% if publication.open_access %}
+  <a href="{{ publication.open_access }}" class="badge" target="_blank">
+    PDF
+  </a>
+  {% endif %}
+
+  {% if publication.video %}
+  <a href="{{ publication.video }}" class="badge" target="_blank">
+    Video
+  </a>
+  {% endif %}
+
+  {% if publication.doi %}
+  <a href="{{ publication.doi }}" class="badge" target="_blank">
+    Publisher
+  </a>
+  {% endif %}
+
+  {% if publication.link %}
+  <a href="{{ publication.link }}" class="badge" target="_blank">
+    Link
+  </a>
+  {% endif %}
+
+  {% if publication.press_release_en %}
+  <a href="{{ publication.press_release_en }}" class="badge" target="_blank">
+    Press release (English)
+  </a>
+  {% endif %}
+  {% if page.abstract and page.abstract != "" %}
+    <h3>Abstract</h3>
+    <p>{{ page.abstract }}</p>
+  {% endif %}
+
   <p>
     Published: 
     {% if page.month_str and page.month_str != "" %}
@@ -39,27 +73,5 @@ layout: default
 
   {% if page.city and page.city != "" %}
     <p>City: {{ page.city }}</p>
-  {% endif %}
-
-  {% if page.abstract and page.abstract != "" %}
-    <h3>Abstract</h3>
-    <p>{{ page.abstract }}</p>
-  {% endif %}
-
-  <h3>Links</h3>
-  {% if page.doi and page.doi != "" %}
-    <p>Publisher: <a href="{{ page.doi }}" target="_blank">{{ page.doi }}</a></p>
-  {% endif %}
-
-  {% if page.open_access and page.open_access != "" %}
-    <p>PDF: <a href="{{ page.open_access }}" target="_blank">{{ page.open_access }}</a></p>
-  {% endif %}
-
-  {% if page.video and page.video != "" %}
-    <p>Video: <a href="{{ page.video }}" target="_blank">{{ page.video }}</a></p>
-  {% endif %}
-
-  {% if page.press_release_en and page.press_release_en != "" %}
-    <p>Press Release: <a href="{{ page.press_release_en }}" target="_blank">{{ page.press_release_en }}</a></p>
   {% endif %}
 </article>
