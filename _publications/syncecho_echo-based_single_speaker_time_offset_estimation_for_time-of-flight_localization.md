@@ -4,7 +4,7 @@ title: 'SyncEcho: Echo-Based Single Speaker Time Offset Estimation for Time-of-F
 publication: '22nd ACM Conference on Embedded Networked Sensor Systems'
 publication_abbr: 'SenSys 2024'
 type: 'conference-en-full'
-thumbnail: ''
+thumbnail: 'murakami2024sensys.jpg'
 author: 'Hiroaki Murakami, Takuya Sasatani, Masanori Sugimoto, Issey Sukeda, Yukiya Mita, and Yoshihiro Kawahara'
 year: '2024'
 month: '11'
