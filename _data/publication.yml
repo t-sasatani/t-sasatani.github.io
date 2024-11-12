@@ -3639,3 +3639,31 @@
   press_release_jp: 
   abstract: 
   note: 
+- title: ガウス過程回帰を用いた無線給電システムの磁界分布予測
+  publication: RISING研究会2024
+  publication_abbr: 
+  type: conference-jp
+  thumbnail: 
+  individual_page: 
+  priority: 
+  author: 本庄祐一，セドリックカルメル，野間裕太，高木健，川原圭博，笹谷拓也
+  _time: '2024-11-12'
+  year: '2024'
+  month: '11'
+  month_str: November
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 
+  city: 札幌
+  to_appear: 
+  doi: 
+  open_access: 
+  link: https://ken.ieice.org/ken/paper/20241112Mc6X/
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
