@@ -2252,7 +2252,7 @@
   thumbnail: 
   individual_page: 
   priority: 
-  author: 高橋 亮，雪田 和歌子，笹谷 拓也，横田 知之，染谷 隆夫，川原 圭博
+  author: 高橋亮，雪田和歌子，笹谷拓也，横田知之，染谷隆夫，川原圭博
   _time: '2021-09-01'
   year: '2021'
   month: '9'
@@ -2777,7 +2777,7 @@
   thumbnail: 
   individual_page: 
   priority: 
-  author: 平田駿輔， 高橋亮， 笹谷拓也， 川原圭博，"水中でのインタラクションに向けた電気インピーダンストモグラフィの検討
+  author: 平田駿輔， 高橋亮， 笹谷拓也， 川原圭博
   _time: '2023-02-01'
   year: '2023'
   month: '2'
@@ -3662,6 +3662,34 @@
   doi: 
   open_access: 
   link: https://ken.ieice.org/ken/paper/20241112Mc6X/
+  video: 
+  press_release_en: 
+  press_release_jp: 
+  abstract: 
+  note: 
+- title: 伸縮性の高いヒータ材の加熱による液晶エラストマー駆動
+  publication: 第25回計測自動制御学会
+  publication_abbr: 
+  type: conference-jp
+  thumbnail: 
+  individual_page: 
+  priority: 
+  author: 髙井和真，江口満国，笹谷拓也，平木剛史
+  _time: '2024-12-01'
+  year: '2024'
+  month: '12'
+  month_str: December
+  volume: 
+  Issue: 
+  number: 
+  article: 
+  pages: 
+  session: 2B2-10
+  city: 盛岡
+  to_appear: 
+  doi: 
+  open_access: 
+  link: 
   video: 
   press_release_en: 
   press_release_jp: 
