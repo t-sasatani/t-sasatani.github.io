@@ -3695,3 +3695,59 @@
   press_release_jp:
   abstract:
   note:
+- title: ＩＤタグおよび散乱体（特開2025-012888）
+  publication: 特許庁
+  publication_abbr:
+  type: patent
+  thumbnail:
+  individual_page:
+  priority:
+  author: 飯塚達哉，小阪尚子，中村亨，久田正樹，梅宮悠輔，笹谷拓也，鳴海紘也，川原圭博
+  _time: '2025-01-24'
+  year: '2025'
+  month: '1'
+  month_str: January
+  volume:
+  Issue:
+  number:
+  article:
+  pages:
+  session:
+  city:
+  to_appear:
+  doi:
+  open_access:
+  link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-012888/11/ja
+  video:
+  press_release_en:
+  press_release_jp:
+  abstract:
+  note:
+- title: ＩＤタグ、測定システムおよび配置方法（特開2025-012881）
+  publication: 特許庁
+  publication_abbr:
+  type:
+  thumbnail:
+  individual_page:
+  priority:
+  author: 飯塚達哉，小阪尚子，中村亨，久田正樹，梅宮悠輔，笹谷拓也，鳴海紘也，川原圭博
+  _time: '2025-01-24'
+  year: '2025'
+  month: '1'
+  month_str: January
+  volume:
+  Issue:
+  number:
+  article:
+  pages:
+  session:
+  city:
+  to_appear:
+  doi:
+  open_access:
+  link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-012881/11/ja
+  video:
+  press_release_en:
+  press_release_jp:
+  abstract:
+  note:
