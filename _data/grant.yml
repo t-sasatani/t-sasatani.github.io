@@ -1,26 +1,32 @@
 ---
+- program: ヒロセ財団 第11回研究助成
+  support: ヒロセ財団 / Hirose Foundation
+  start_date: 2025/1/1
+  end_date: 2026/3/31
+  direct_cost: 2,500,000 JPY
+  project: 変形可能な近距離無線通信システムの基礎的研究
 - program: Google Silicon Research Program
   support: Google
   start_date: 2023/11/22
   end_date: 2024/11/21
   direct_cost: 30,000 USD
   project: Open-source neural recording SoC for freely moving animal experiments
-- program: JSPS Grant-in-Aid for Scientific Research (B)
-  support: Japan Society for the Promotion of Science (JSPS)
+- program: 科学研究費助成事業 基盤研究 B / JSPS Grant-in-Aid for Scientific Research (B)
+  support: 日本学術振興会 / JSPS
   start_date: 2023/4/1
   end_date: 2026/3/31
   direct_cost: 14,200,000 JPY
   project: Research on Wireless Power Transfer and Power Management Technologies for
     Batteryless AI Sensors
 - program: JST ACT-X
-  support: Japan Science and Technology Agency (JST)
+  support: 科学技術振興機構 / JST
   start_date: 2019/10/1
   end_date: 2023/3/31
   direct_cost: 11,000,000 JPY
   project: Developing a network of power and information based on multimode quasistatic
     cavity resonance for empowering small devices
-- program: JSPS Research Fellow (DC1)
-  support: Japan Society for the Promotion of Science (JSPS)
+- program: 日本学術振興会特別研究員DC1 / JSPS Research Fellow (DC1)
+  support: 日本学術振興会 / JSPS
   start_date: 2018/4/1
   end_date: 2021/3/31
   direct_cost: 3,100,000 JPY
