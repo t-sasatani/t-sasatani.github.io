@@ -34,6 +34,8 @@
 - role: Reviewer
   program: IEEE Access
 - role: Reviewer
+  program: ACS Applied Electronic Materials
+- role: Reviewer
   program: Scientific Reports
 - role: Reviewer
   program: MDPI Sensors
