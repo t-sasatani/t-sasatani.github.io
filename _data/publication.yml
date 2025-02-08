@@ -3406,11 +3406,11 @@
   Issue:
   number:
   article:
-  pages:
+  pages: 1 - 6
   session:
-  city: Hong Cong, China
+  city: Kowloon, Hong Kong
   to_appear: 'TRUE'
-  doi:
+  doi: https://doi.org/10.1109/IPIN62893.2024.10786126
   open_access:
   link:
   video:
@@ -3455,11 +3455,11 @@
   Issue:
   number:
   article:
-  pages:
+  pages: 1 - 6
   session:
-  city: Hong Cong, China
+  city: Kowloon, Hong Kong
   to_appear: 'TRUE'
-  doi:
+  doi: https://doi.org/10.1109/IPIN62893.2024.10786183
   open_access:
   link:
   video:
