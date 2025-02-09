@@ -3409,7 +3409,7 @@
   pages: 1 - 6
   session:
   city: Kowloon, Hong Kong
-  to_appear: 'TRUE'
+  to_appear:
   doi: https://doi.org/10.1109/IPIN62893.2024.10786126
   open_access:
   link:
@@ -3458,7 +3458,7 @@
   pages: 1 - 6
   session:
   city: Kowloon, Hong Kong
-  to_appear: 'TRUE'
+  to_appear:
   doi: https://doi.org/10.1109/IPIN62893.2024.10786183
   open_access:
   link:
