@@ -3760,10 +3760,10 @@
   individual_page:
   priority:
   author: Riku Kobayashi, Yoshihiro Kawahara, and Takuya Sasatani
-  _time:
-  year:
-  month:
-  month_str:
+  _time: '2025-06-03'
+  year: '2025'
+  month: '6'
+  month_str: June
   volume:
   Issue:
   number:
