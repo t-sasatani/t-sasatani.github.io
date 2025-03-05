@@ -3773,7 +3773,7 @@
   city: Rome, Italy
   to_appear: 'TRUE'
   doi:
-  open_access:
+  open_access: https://doi.org/10.48550/arXiv.2503.02183
   link:
   video:
   press_release_en:
