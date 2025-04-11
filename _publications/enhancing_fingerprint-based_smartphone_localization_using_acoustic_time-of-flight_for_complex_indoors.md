@@ -2,7 +2,7 @@
 layout: publication
 title: 'Enhancing Fingerprint-based Smartphone Localization Using Acoustic Time-of-Flight for Complex Indoors'
 publication: 'Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems'
-publication_abbr: 'ACM SenSys'
+publication_abbr: 'ACM SenSysP'
 type: 'conference-en-adjunct'
 thumbnail: ''
 author: 'Yukiya Mita,  Hiroaki Murakami,  Takuya Sasatani,  Matthew Ishige,  and Yoshihiro Kawahara'

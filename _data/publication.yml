@@ -3184,7 +3184,7 @@
     for Complex Indoors
   publication: "Proceedings of the 21st ACM Conference on Embedded Networked Sensor
     Systems\r"
-  publication_abbr: ACM SenSys
+  publication_abbr: ACM SenSysP
   type: conference-en-adjunct
   thumbnail:
   individual_page: 'TRUE'
