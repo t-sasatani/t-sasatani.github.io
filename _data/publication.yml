@@ -3667,34 +3667,6 @@
   press_release_jp:
   abstract:
   note:
-- title: 伸縮性の高いヒータ材の加熱による液晶エラストマー駆動
-  publication: 第25回計測自動制御学会
-  publication_abbr:
-  type: conference-jp
-  thumbnail:
-  individual_page:
-  priority:
-  author: 髙井和真，江口満国，笹谷拓也，平木剛史
-  _time: '2024-12-01'
-  year: '2024'
-  month: '12'
-  month_str: December
-  volume:
-  Issue:
-  number:
-  article:
-  pages:
-  session: 2B2-10
-  city: 盛岡
-  to_appear:
-  doi:
-  open_access:
-  link:
-  video:
-  press_release_en:
-  press_release_jp:
-  abstract:
-  note:
 - title: ＩＤタグおよび散乱体（特開2025-012888）
   publication: 特許庁
   publication_abbr:
