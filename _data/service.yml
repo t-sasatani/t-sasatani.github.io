@@ -10,6 +10,8 @@
 - role: Reviewer
   program: ACM IMWUT (Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.)
 - role: Reviewer
+  program: ACM UIST
+- role: Reviewer
   program: National Science Review
 - role: Scientific Committee
   program: IEEE IGARSS 2024 (Int. Geosci. Remote Sens. Symp.)
@@ -23,6 +25,8 @@
   program: IEEE Transactions on Wireless Communications
 - role: Reviewer
   program: IEEE Transactions on Mobile Computing
+- role: Reviewer
+  program: IEEE Internet of Things Journal
 - role: Reviewer
   program: IEEE Antennas and Wireless Propagation Letters
 - role: Reviewer
