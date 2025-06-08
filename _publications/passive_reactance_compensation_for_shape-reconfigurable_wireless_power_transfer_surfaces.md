@@ -24,5 +24,5 @@ video: ''
 press_release_en: ''
 press_release_ja: ''
 abstract: 'The powering range of wireless power transfer (WPT) systems is typically confined to areas close to the transmitter. Shape-reconfigurable two-dimensional (2-D) relay resonator arrays have been developed to extend this range, offering greater deployment flexibility. However, these arrays encounter challenges due to cross-coupling among adjacent resonators, which detune system impedance and create power dead zones. This issue often necessitates active components such as receiver position tracking, increasing system overhead. This study introduces a passive reactance compensation mechanism that counteracts detuning effects, enabling the simultaneous activation of all resonators at a fixed operating frequency, regardless of the array''s shape, thus providing a consistent charging area. The key innovation involves mechanically appending reactance elements to neutralize detuning caused by inductive coupling, facilitating hassle-free resonator reconfiguration without requiring prior knowledge. Our experiments demonstrate the elimination of dead zones with multiple configurations, boosting the minimum power transfer efficiency from 3.0% to 56.8%.'
-note: ''
+note: 'Best Student Paper Award'
 ---
