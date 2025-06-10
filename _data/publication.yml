@@ -3766,3 +3766,31 @@
     of dead zones with multiple configurations, boosting the minimum power transfer
     efficiency from 3.0% to 56.8%.
   note: Best Student Paper Award
+- title: 'Full-body NFC: メアンダ形状の電子ニットによる全身電池レス無線センサネットワーク'
+  publication: 情報処理学会ユビキタスコンピューティングシステム研究会
+  publication_abbr: IPSJ SIGUBI
+  type: conference-jp
+  thumbnail:
+  individual_page:
+  priority:
+  author: 高橋亮，韓燦教，雪田和歌子，John S. Ho，笹谷拓也，野田聡人，横田知之，染谷隆夫，川原圭博
+  _time: '2025-05-15'
+  year: '2025'
+  month: '5'
+  month_str: May
+  volume:
+  Issue:
+  number:
+  article:
+  pages:
+  session:
+  city:
+  to_appear:
+  doi:
+  open_access:
+  link:
+  video:
+  press_release_en:
+  press_release_jp:
+  abstract:
+  note: 優秀論文賞
