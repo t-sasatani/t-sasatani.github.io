@@ -4,7 +4,7 @@ title: 'Passive Reactance Compensation for Shape-Reconfigurable Wireless Power T
 publication: '2025 IEEE Wireless Power Technology Conference and Expo'
 publication_abbr: 'IEEE WPTCE 2025'
 type: 'conference-en-full'
-thumbnail: ''
+thumbnail: 'kobayashi2025wptce.jpg'
 author: 'Riku Kobayashi, Yoshihiro Kawahara, and Takuya Sasatani'
 year: '2025'
 month: '6'
