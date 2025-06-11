@@ -3378,9 +3378,9 @@
   number:
   article:
   pages:
-  session:
+  session: B-20-05
   city:
-  to_appear: 'TRUE'
+  to_appear:
   doi:
   open_access:
   link:
@@ -3794,3 +3794,60 @@
   press_release_jp:
   abstract:
   note: 優秀論文賞
+- title: Wide-range Wireless Power Delivery to Pebble-scale Sensors via Hierarchical
+    Resonators
+  publication: 2025 PhotonIcs & Electromagnetics Research Symposium
+  publication_abbr: PIERS 2025
+  type: conference-en-adjunct
+  thumbnail:
+  individual_page:
+  priority:
+  author: Takuya Sasatani; Alanson P. Sample; and Yoshihiro Kawahara
+  _time: '2025-11-05'
+  year: '2025'
+  month: '11'
+  month_str: November
+  volume:
+  Issue:
+  number:
+  article:
+  pages:
+  session:
+  city: Chiba, Japan
+  to_appear: 'TRUE'
+  doi:
+  open_access:
+  link:
+  video:
+  press_release_en:
+  press_release_jp:
+  abstract:
+  note:
+- title: Patched-wall Quasi-static Cavity Resonators for 3-D Wireless Power Transfer
+  publication: 2025 PhotonIcs & Electromagnetics Research Symposium
+  publication_abbr: PIERS 2025
+  type: conference-en-adjunct
+  thumbnail:
+  individual_page:
+  priority:
+  author: Takuya Sasatani, and Yoshihiro Kawahara
+  _time: '2025-11-05'
+  year: '2025'
+  month: '11'
+  month_str: November
+  volume:
+  Issue:
+  number:
+  article:
+  pages:
+  session:
+  city: Chiba, Japan
+  to_appear: 'TRUE'
+  doi:
+  open_access:
+  link:
+  video:
+  press_release_en:
+  press_release_jp:
+  abstract:
+  note:
