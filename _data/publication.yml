@@ -3851,3 +3851,59 @@
   press_release_jp:
   abstract:
   note:
+- title: 平面積載可能な散布型飛行センサのための自律変形機構
+  publication: マルチメディア、分散、協調とモバイル シンポジウム
+  publication_abbr: DICOMO 2025
+  type: conference-jp
+  thumbnail:
+  individual_page:
+  priority:
+  author: 金潭延，本庄祐一，飯塚達哉，大久保直美，竹内優維斗，遠藤直人，松原浩史，川原圭博，森田直人，笹谷拓也
+  _time: '2025-06-26'
+  year: '2025'
+  month: '6'
+  month_str: June
+  volume:
+  Issue:
+  number:
+  article:
+  pages:
+  session: 5D-2, DS-D:2
+  city: 福島
+  to_appear:
+  doi:
+  open_access:
+  link: https://tsys.jp/dicomo/2025/program/program.html
+  video:
+  press_release_en:
+  press_release_jp:
+  abstract:
+  note:
+- title: ウェアラブルカメラによる単一画像深度推定に向けた符号化開口設計手法の検討
+  publication: マルチメディア、分散、協調とモバイル シンポジウム
+  publication_abbr: DICOMO 2025
+  type: conference-jp
+  thumbnail:
+  individual_page:
+  priority:
+  author: 張雨珂，高木健，堀崎 遼一，川原圭博，笹谷拓也
+  _time: '2025-06-25'
+  year: '2025'
+  month: '6'
+  month_str: June
+  volume:
+  Issue:
+  number:
+  article:
+  pages:
+  session: 1B-1
+  city: 福島
+  to_appear:
+  doi:
+  open_access:
+  link: https://tsys.jp/dicomo/2025/program/program.html
+  video:
+  press_release_en:
+  press_release_jp:
+  abstract:
+  note:
