@@ -8,6 +8,8 @@
 - role: Reviewer
   program: Device (Cell sister journal)
 - role: Reviewer
+  program: Scientific Reports
+- role: Reviewer
   program: ACM IMWUT (Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.)
 - role: Reviewer
   program: ACM UIST
@@ -25,6 +27,8 @@
   program: IEEE Transactions on Wireless Communications
 - role: Reviewer
   program: IEEE Transactions on Mobile Computing
+- role: Reviewer
+  program: IEEE Transactions on Biomedical Engineering
 - role: Reviewer
   program: IEEE Transactions on Biometrics, Behavior, and Identity Science
 - role: Reviewer
@@ -48,7 +52,7 @@
 - role: Reviewer
   program: ACS Applied Electronic Materials
 - role: Reviewer
-  program: Scientific Reports
+  program: Microwave and Optical Technology Letters
 - role: Reviewer
   program: MDPI Sensors
 - role: Reviewer
