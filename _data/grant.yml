@@ -1,4 +1,10 @@
 ---
+- program: 克研究奨励賞
+  support: 東京大学大学院工学系研究科
+  start_date: 2025/4/1
+  end_date:
+  direct_cost: 1,000,000 JPY
+  project: ユビキタス無線給電による革新的計測基盤の創出
 - program: ヒロセ財団 第11回研究助成
   support: ヒロセ財団 / Hirose Foundation
   start_date: 2025/1/1
