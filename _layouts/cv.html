@@ -11,7 +11,7 @@ Last updated: {{ site.data.metadata.gsheet_update | date: "%b %d, %Y" }}<br><br>
 {% for item in site.data.career %}
   <div class="row cv-item">
     <div class="col-md-2 cv-date">
-      {{ item['start_date'] | date: "%Y" }}&ndash;{{ item['end_date'] | date: "%Y" }}
+      {{ item['start_date'] | date: "%Y" }} &ndash; {{ item['end_date'] | date: "%Y" }}
     </div>
     <div class="col-md-10 cv-list">
       <strong>{{ item['title'] }}</strong>&mdash;{{ item['affiliation'] }}
@@ -24,7 +24,7 @@ Last updated: {{ site.data.metadata.gsheet_update | date: "%b %d, %Y" }}<br><br>
 {% for item in site.data.education %}
   <div class="row cv-item">
     <div class="col-md-2 cv-date">
-      {{ item['start_date'] | date: "%Y" }}&ndash;{{ item['end_date'] | date: "%Y" }}
+      {{ item['start_date'] | date: "%Y" }} &ndash; {{ item['end_date'] | date: "%Y" }}
     </div>
     <div class="col-md-10 cv-list">
       <strong>{{ item['degree'] }}</strong>&mdash;{{ item['institution'] }}
@@ -39,7 +39,7 @@ Last updated: {{ site.data.metadata.gsheet_update | date: "%b %d, %Y" }}<br><br>
     <div class="col-md-2 cv-date">
       {{ item['start_date'] | date: "%Y" }}
       {% if item['end_date'] %}
-        &ndash;{{ item['end_date'] | date: "%Y" }}
+        &ndash; {{ item['end_date'] | date: "%Y" }}
       {% endif %}
     </div>
     <div class="col-md-10 cv-list">
