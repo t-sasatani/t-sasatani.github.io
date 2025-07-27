@@ -5,24 +5,28 @@
   end_date: 2032/9/30
   direct_cost: 50,000,000 JPY
   project: 自律駆動型研究開発のため無線給電・通信ネットワーク
+  Note:
 - program: 克研究奨励賞
   support: 東京大学大学院工学系研究科
   start_date: 2025/4/1
   end_date:
   direct_cost: 10,000,000 JPY
   project: ユビキタス無線給電による革新的計測基盤の創出
+  Note: 終了日無し
 - program: ヒロセ財団 第11回研究助成
   support: ヒロセ財団 / Hirose Foundation
   start_date: 2025/1/1
-  end_date: 2026/3/31
+  end_date:
   direct_cost: 2,500,000 JPY
   project: 変形可能な近距離無線通信システムの基礎的研究
+  Note: 計画は2年
 - program: Google Silicon Research Program
   support: Google
   start_date: 2023/11/22
-  end_date: 2024/11/21
+  end_date:
   direct_cost: 30,000 USD
   project: Open-source neural recording SoC for freely moving animal experiments
+  Note: 計画は1年
 - program: 科学研究費助成事業 基盤研究 B / JSPS Grant-in-Aid for Scientific Research (B)
   support: 日本学術振興会 / JSPS
   start_date: 2023/4/1
@@ -30,6 +34,7 @@
   direct_cost: 14,200,000 JPY
   project: Research on Wireless Power Transfer and Power Management Technologies for
     Batteryless AI Sensors
+  Note:
 - program: JST ACT-X
   support: 科学技術振興機構 / JST
   start_date: 2019/10/1
@@ -37,6 +42,7 @@
   direct_cost: 11,000,000 JPY
   project: Developing a network of power and information based on multimode quasistatic
     cavity resonance for empowering small devices
+  Note:
 - program: 日本学術振興会特別研究員DC1 / JSPS Research Fellow (DC1)
   support: 日本学術振興会 / JSPS
   start_date: 2018/4/1
@@ -44,9 +50,11 @@
   direct_cost: 3,100,000 JPY
   project: Ubiquitous magnetoquasistatic wireless power using surface current (translation
     from Japanese title.)
+  Note:
 - program: MSRA D-CORE
   support: Microsoft Research Asia (MSRA)
   start_date: 2020/1/1
-  end_date: 2020/12/31
+  end_date:
   direct_cost: 1,090,000 JPY
   project: Platform for Building Wirelessly Powered Interactive Devices
+  Note: 計画は1年
